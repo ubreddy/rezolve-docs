@@ -14,8 +14,8 @@ _Suggested Image: "ticket-automation-overview.png" - Ticket automation system ar
 
 ## Core Automation Agents
 
-### 1. Summarization Agent
-Purpose: Automatically generates concise summaries of ticket content and interactions.
+### 1. Summarization Agent {#summarization-agent}
+_Purpose_: Automatically generates concise summaries of ticket content and interactions.
 
 ```mermaid
 graph TD
@@ -34,8 +34,8 @@ Features:
 
 _Suggested Image: "summarization-process.png" - Summarization workflow_
 
-### 2. Notes Generation Agent
-Purpose: Creates structured notes from ticket interactions and updates.
+### 2. Notes Generation Agent {#notes-generation-agent}
+_Purpose_: Creates structured notes from ticket interactions and updates.
 
 Capabilities:
 - Interaction analysis
@@ -45,8 +45,8 @@ Capabilities:
 
 _Suggested Image: "notes-generation.png" - Notes generation process_
 
-### 3. Sentiment Scoring Agent
-Purpose: Analyzes and tracks customer sentiment throughout ticket lifecycle.
+### 3. Sentiment Scoring Agent {#sentiment-scoring-agent}
+_Purpose_: Analyzes and tracks customer sentiment throughout ticket lifecycle.
 
 Features:
 - Text analysis
@@ -56,8 +56,8 @@ Features:
 
 _Suggested Image: "sentiment-analysis.png" - Sentiment tracking dashboard_
 
-### 4. Feedback Scoring Agent
-Purpose: Processes and analyzes customer feedback for service improvement.
+### 4. Feedback Scoring Agent {#feedback-scoring-agent}
+_Purpose_: Processes and analyzes customer feedback for service improvement.
 
 Capabilities:
 - Feedback collection
@@ -69,8 +69,8 @@ _Suggested Image: "feedback-scoring.png" - Feedback analysis workflow_
 
 ## Advanced Automation Features
 
-### 1. Next Action Suggestion Agent
-Purpose: Recommends optimal next steps for ticket resolution.
+### 1. Next Action Suggestion Agent {#next-action-suggestion-agent}
+_Purpose_: Recommends optimal next steps for ticket resolution.
 
 ```mermaid
 graph LR
@@ -88,8 +88,8 @@ Features:
 
 _Suggested Image: "next-action-flow.png" - Next action suggestion process_
 
-### 2. Intelligent Knowledge Agent
-Purpose: Provides relevant knowledge base articles and solutions.
+### 2. Intelligent Knowledge Agent {#intelligent-knowledge-agent}
+_Purpose_: Provides relevant knowledge base articles and solutions.
 
 Capabilities:
 - Content matching

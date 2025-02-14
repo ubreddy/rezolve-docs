@@ -64,7 +64,6 @@ _Suggested Image: "content-enhancement.png" - Screenshot of the AI enhancement t
 
 The knowledge base integrates with:
 - [Bot System](using-bot)
-- [Service Portal](service-portal)
 - [Ticket Management](ticket-types)
 
 _Suggested Image: "kb-integration-diagram.png" - Diagram showing integration points_
@@ -73,10 +72,10 @@ _Suggested Image: "kb-integration-diagram.png" - Diagram showing integration poi
 
 After setting up your knowledge base:
 - [Configure your Bot](using-bot)
-- [Set up the Service Portal](service-portal)
+- [Set up the Service Portal](../portal/overview.md)
 - [Enable Ticket Types](ticket-types)
 
 ## Related Topics
 - [Knowledge Agents](../ai-features/knowledge-agents)
 - [Content Management](../core-concepts/knowledge)
-- [Integration Options](../integrations/knowledge)
+- [Integration Options](../integrations/knowledge-base)

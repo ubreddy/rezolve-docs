@@ -14,7 +14,7 @@ _Suggested Image: "bot-agents-overview.png" - Overview of all bot agents and the
 
 ## Core Agents
 
-### 1. Intent Action Agent
+### 1. Intent Action Agent {#intent-action-agent}
 Purpose: Understands user intent and triggers appropriate actions.
 
 Capabilities:
@@ -25,7 +25,7 @@ Capabilities:
 
 _Suggested Image: "intent-action-flow.png" - Intent processing workflow_
 
-### 2. Strategy Response Agent
+### 2. Strategy Response Agent {#strategy-response-agent}
 Purpose: Determines the best response strategy for user queries.
 
 Features:
@@ -36,7 +36,7 @@ Features:
 
 _Suggested Image: "strategy-response.png" - Response strategy selection process_
 
-### 3. Contextual Conversation Agent
+### 3. Contextual Conversation Agent {#contextual-conversation-agent}
 Purpose: Maintains conversation context and ensures coherent dialogue.
 
 Functions:
@@ -49,7 +49,7 @@ _Suggested Image: "context-management.png" - Context handling diagram_
 
 ## Knowledge Agents
 
-### 1. Intelligent Knowledge Agent
+### 1. Intelligent Knowledge Agent {#intelligent-knowledge-agent}
 Purpose: Manages knowledge retrieval and presentation.
 
 Capabilities:
@@ -58,7 +58,7 @@ Capabilities:
 - Content adaptation
 - Source verification
 
-### 2. Knowledge Result Agent
+### 2. Knowledge Result Agent {#knowledge-result-agent}
 Purpose: Processes and presents knowledge base results.
 
 Features:
@@ -67,7 +67,7 @@ Features:
 - Link management
 - Related content
 
-### 3. Structured Content Agent
+### 3. Structured Content Agent {#structured-content-agent}
 Purpose: Handles structured data presentation.
 
 Functions:
@@ -80,7 +80,7 @@ _Suggested Image: "knowledge-agents.png" - Knowledge agent interaction flow_
 
 ## Service Agents
 
-### 1. Service Dialogue Agent
+### 1. Service Dialogue Agent {#service-dialogue-agent}
 Purpose: Manages service-related conversations.
 
 Capabilities:
@@ -89,7 +89,7 @@ Capabilities:
 - Process guidance
 - Status updates
 
-### 2. Web Intelligence Agent
+### 2. Web Intelligence Agent {#web-intelligence-agent}
 Purpose: Handles web-based interactions.
 
 Features:
@@ -102,7 +102,7 @@ _Suggested Image: "service-agents.png" - Service agent architecture_
 
 ## Ticket Management Agents
 
-### 1. Support Ticket Agent
+### 1. Support Ticket Agent {#support-ticket-agent}
 Purpose: Manages ticket-related operations.
 
 Functions:
@@ -111,7 +111,7 @@ Functions:
 - Priority assignment
 - Route selection
 
-### 2. Ticket Triage Agent
+### 2. Ticket Triage Agent {#ticket-triage-agent}
 Purpose: Performs initial ticket assessment and routing.
 
 Capabilities:
@@ -120,16 +120,16 @@ Capabilities:
 - Team selection
 - SLA determination
 
-### 3. Ticket Offer Agent
+### 3. Ticket Offer Agent {#ticket-offer-agent}
 Purpose: Suggests relevant solutions and offers.
 
-Features:
+Capabilities:
 - Solution matching
 - Offer selection
 - Resource suggestion
 - Alternative options
 
-### 4. Ticket Close Agent
+### 4. Ticket Close Agent {#ticket-close-agent}
 Purpose: Manages ticket closure process.
 
 Functions:

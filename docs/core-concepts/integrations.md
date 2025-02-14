@@ -132,6 +132,6 @@ _Suggested Image: "integration-checklist.png" - Best practices checklist_
 
 ## Related Topics
 - [Bot Channels](../integrations/bot-channels)
-- [Knowledge Integration](../integrations/knowledge)
-- [Ticketing Integration](../integrations/ticketing)
+- [Knowledge Integration](../integrations/knowledge-base)
+- [Ticketing Integration](../integrations/ticketing-systems)
 - [Custom Agents](../ai-features/custom-agents)

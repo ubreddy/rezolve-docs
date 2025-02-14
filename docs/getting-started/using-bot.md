@@ -88,8 +88,7 @@ _Suggested Image: "bot-analytics.png" - Screenshot of bot analytics dashboard_
 
 After setting up your bot:
 - [Enable Ticket Types](ticket-types)
-- [Configure Service Portal](service-portal)
-- [Monitor Bot Efficiency](bot-efficiency)
+- Monitor Bot Efficiency
 
 ## Related Topics
 - [Bot Agents](../ai-features/bot-agents)

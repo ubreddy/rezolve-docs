@@ -14,8 +14,8 @@ _Suggested Image: "knowledge-agents-overview.png" - Knowledge agents system arch
 
 ## Core Knowledge Agents
 
-### 1. Article Generation Agent
-Purpose: Automatically creates knowledge articles from various sources.
+### 1. Article Generation Agent {#article-generation-agent}
+_Purpose_: Automatically creates knowledge articles from various sources.
 
 ```mermaid
 graph TD
@@ -34,8 +34,8 @@ Features:
 
 _Suggested Image: "article-generation-flow.png" - Article generation process_
 
-### 2. Document Summarization Agent
-Purpose: Creates concise summaries of lengthy documents and articles.
+### 2. Document Summarization Agent {#document-summarization-agent}
+_Purpose_: Creates concise summaries of lengthy documents and articles.
 
 Capabilities:
 - Key point extraction
@@ -45,8 +45,8 @@ Capabilities:
 
 _Suggested Image: "summarization-process.png" - Document summarization workflow_
 
-### 3. Duplicates Detection Agent
-Purpose: Identifies and manages duplicate or similar content.
+### 3. Duplicates Detection Agent {#duplicates-detection-agent}
+_Purpose_: Identifies and manages duplicate or similar content.
 
 Features:
 - Content comparison
@@ -56,8 +56,8 @@ Features:
 
 _Suggested Image: "duplicate-detection.png" - Duplicate detection process_
 
-### 4. Conflicts Detection Agent
-Purpose: Identifies and resolves conflicting information across articles.
+### 4. Conflicts Detection Agent {#conflict-detection-agent}
+_Purpose_: Identifies and resolves conflicting information across articles.
 
 ```mermaid
 graph LR
@@ -75,8 +75,8 @@ Capabilities:
 
 _Suggested Image: "conflict-resolution.png" - Conflict detection workflow_
 
-### 5. Knowledge Graph Parsing Agent
-Purpose: Builds and maintains knowledge relationships and connections.
+### 5. Knowledge Graph Parsing Agent {#knowledge-graph-parsing-agent}
+_Purpose_: Builds and maintains knowledge relationships and connections.
 
 Features:
 - Entity extraction

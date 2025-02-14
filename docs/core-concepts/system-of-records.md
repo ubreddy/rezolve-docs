@@ -112,7 +112,6 @@ _Suggested Image: "record-relationships.png" - Diagram showing cross-record rela
 The System of Records integrates with:
 - [Knowledge Base](../getting-started/knowledge-base)
 - [Bot System](../getting-started/using-bot)
-- [Service Portal](../getting-started/service-portal)
 - External systems
 
 _Suggested Image: "integration-points.png" - System integration diagram_
@@ -128,4 +127,4 @@ _Suggested Image: "integration-points.png" - System integration diagram_
 ## Related Topics
 - [Automation Workflows](automation-workflows)
 - [Knowledge Management](knowledge)
-- [Security & Access](../security/roles)
+- [Security & Access](../security/space-roles)

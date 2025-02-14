@@ -49,6 +49,6 @@ Ready to begin? Check out our [Getting Started](/docs/getting-started/registrati
 
 ## Need Help?
 
-- Visit our [Community Forums](https://community.aitsm.com)
-- Contact [Support](https://support.aitsm.com)
-- Check out our [API Documentation](/api)
+- Visit our [Community Forums](https://community.rezolve.ai)
+- Contact [Support](https://support.rezolve.ai)
+- Check out our API Documentation

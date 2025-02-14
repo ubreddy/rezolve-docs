@@ -67,14 +67,13 @@ _Suggested Image: "workflow-config.png" - Screenshot of workflow configuration_
 
 Ticket types integrate with various AI features:
 - [Ticket Triage Agent](../ai-features/bot-agents#ticket-triage-agent)
-- [Summarization Agent](../ai-features/standard-ticket-automation-agents#summarization)
-- [Next Action Agent](../ai-features/standard-ticket-automation-agents#next-action-suggestion-agent)
+- [Summarization Agent](../ai-features/ticket-automation#summarization-agent)
+- [Next Action Agent](../ai-features/ticket-automation#next-action-suggestion-agent)
 
 ## Channel Integration
 
 Configure how tickets are created from different channels:
 - [Bot Integration](using-bot)
-- [Service Portal](service-portal)
 - Email
 - API
 
@@ -101,9 +100,9 @@ _Suggested Image: "ticket-analytics.png" - Screenshot of ticket analytics dashbo
 ## Next Steps
 
 After configuring ticket types:
-- [Set up Service Portal](service-portal)
+- [Set up Service Portal](../portal/overview.md)
 - [Configure Bot Integration](using-bot)
-- [Monitor Efficiency](bot-efficiency)
+- Monitor Efficiency
 
 ## Related Topics
 - [System of Records](../core-concepts/system-of-records)

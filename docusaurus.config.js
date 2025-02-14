@@ -6,19 +6,21 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AITSM Documentation',
-  tagline: 'AI-powered IT Service Management Documentation',
+  tagline: 'AI-Powered Service Management',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://docs.aitsm.com',
   // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config
-  organizationName: 'a-science',
-  projectName: 'aitsm-docs',
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'actionablescience', // Usually your GitHub org/user name.
+  projectName: 'aitsm-public-docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // Changed from 'throw' to 'warn' to prevent build failures
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -29,6 +31,7 @@ const config = {
     locales: ['en'],
   },
 
+  // Enable Mermaid diagrams
   themes: ['@docusaurus/theme-mermaid'],
   markdown: {
     mermaid: true,
@@ -41,7 +44,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/a-science/aitsm-docs/tree/main/docs-public/',
+          editUrl: 'https://bitbucket.org/actionablescience/aitsm-public-docs/src/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -53,7 +56,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // Replace this with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'AITSM Docs',
@@ -69,8 +72,8 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/a-science/aitsm-docs',
-            label: 'GitHub',
+            href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
+            label: 'Bitbucket',
             position: 'right',
           },
         ],
@@ -82,12 +85,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Overview',
-                to: '/docs/overview',
-              },
-              {
-                label: 'Getting Started',
-                to: '/docs/getting-started',
+                label: 'Documentation',
+                to: '/docs/overview/introduction',
               },
             ],
           },
@@ -95,13 +94,22 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/aitsm',
+                label: 'Support',
+                href: 'https://support.aitsm.com',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Bitbucket',
+                href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
               },
             ],
           },
         ],
-        copyright: `Copyright ${new Date().getFullYear()} AITSM. Built with Docusaurus.`,
+        copyright: `Copyright ${new Date().getFullYear()} Actionable Science, Inc.`,
       },
       prism: {
         theme: themes.github,

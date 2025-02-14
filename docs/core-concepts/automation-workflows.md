@@ -60,9 +60,9 @@ _Suggested Image: "event-actions.png" - Available actions flowchart_
 
 ### 3. AI Integration
 Events can trigger various AI agents:
-- [Summarization Agent](../ai-features/standard-ticket-automation-agents#summarization)
-- [Sentiment Scoring](../ai-features/standard-ticket-automation-agents#sentiment-scoring)
-- [Next Action Suggestion](../ai-features/standard-ticket-automation-agents#next-action-suggestion-agent)
+- [Summarization Agent](../ai-features/ticket-automation#summarization-agent)
+- [Sentiment Scoring](../ai-features/ticket-automation#sentiment-scoring-agent)
+- [Next Action Suggestion](../ai-features/ticket-automation#next-action-suggestion-agent)
 
 ## Scheduled Tasks
 
@@ -128,7 +128,6 @@ _Suggested Image: "workflow-best-practices.png" - Best practices checklist_
 
 Workflows can integrate with:
 - [Knowledge Base](../getting-started/knowledge-base)
-- [Service Portal](../getting-started/service-portal)
 - External systems
 - Custom applications
 

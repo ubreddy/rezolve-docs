@@ -156,4 +156,4 @@ _Suggested Image: "kb-best-practices.png" - Best practices checklist_
 - [Knowledge Base Setup](../getting-started/knowledge-base)
 - [Knowledge Agents](../ai-features/knowledge-agents)
 - [Bot Integration](../getting-started/using-bot)
-- [Knowledge Integration](../integrations/knowledge)
+- [Knowledge Integration](../integrations/knowledge-base)
