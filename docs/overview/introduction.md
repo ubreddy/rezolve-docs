@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Introduction to AITSM
+# Introduction to Rezolve.ai
 
-Welcome to the AITSM documentation! AITSM is an AI-powered IT Service Management platform that revolutionizes how organizations handle their IT services, support, and operations.
+Welcome to the Rezolve.ai documentation! Rezolve.ai is an AI-powered IT Service Management platform that revolutionizes how organizations handle their IT services, support, and operations.
 
-## What is AITSM?
+## What is Rezolve.ai?
 
-AITSM combines traditional ITSM capabilities with cutting-edge artificial intelligence to provide:
+Rezolve.ai combines traditional ITSM capabilities with cutting-edge artificial intelligence to provide:
 - Intelligent ticket management
 - AI-powered chatbots
 - Automated knowledge management

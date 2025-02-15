@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Other Use Cases
 
-Additional implementation scenarios for AITSM.
+Additional implementation scenarios for Rezolve.ai.
 
 ## Overview
 
-Exploring various industry-specific applications of AITSM.
+Exploring various industry-specific applications of Rezolve.ai.
 
 _Suggested Image: "use-cases-overview.png" - Industry applications_
 
@@ -16,7 +16,7 @@ _Suggested Image: "use-cases-overview.png" - Industry applications_
 
 ```mermaid
 graph TD
-    A[AITSM] -->|serves| B[Industries]
+    A[Rezolve.ai] -->|serves| B[Industries]
     B -->|includes| C[Facilities]
     B -->|supports| D[Legal]
     B -->|enables| E[Education]

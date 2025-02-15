@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Offers & Intent Groups
 
-Understanding the relationship between offers and intent groups in AITSM.
+Understanding the relationship between offers and intent groups in Rezolve.ai.
 
 ## Overview
 

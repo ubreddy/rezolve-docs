@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Knowledge Management
 
-Understanding AITSM's comprehensive knowledge management system and its AI-powered capabilities.
+Understanding Rezolve.ai's comprehensive knowledge management system and its AI-powered capabilities.
 
 ## Overview
 
-AITSM's Knowledge Management system combines traditional knowledge base features with advanced AI capabilities for intelligent content management.
+Rezolve.ai's Knowledge Management system combines traditional knowledge base features with advanced AI capabilities for intelligent content management.
 
 _Suggested Image: "knowledge-system.png" - Knowledge management system architecture_
 

@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Workspaces
 
-Understanding and managing workspaces in AITSM.
+Understanding and managing workspaces in Rezolve.ai.
 
 ## Overview
 

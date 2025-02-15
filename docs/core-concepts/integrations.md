@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Integrations
 
-Understanding AITSM's integration capabilities and how to connect with various external systems.
+Understanding Rezolve.ai's integration capabilities and how to connect with various external systems.
 
 ## Overview
 
-AITSM provides robust integration capabilities to connect with various enterprise systems and services.
+Rezolve.ai provides robust integration capabilities to connect with various enterprise systems and services.
 
 _Suggested Image: "integration-overview.png" - High-level architecture showing integration points_
 
@@ -17,7 +17,7 @@ _Suggested Image: "integration-overview.png" - High-level architecture showing i
 ### 1. Communication Channels
 ```mermaid
 graph LR
-    A[AITSM] --> B[Slack]
+    A[Rezolve.ai] --> B[Slack]
     A --> C[Teams]
     A --> D[Email]
     A --> E[WhatsApp]

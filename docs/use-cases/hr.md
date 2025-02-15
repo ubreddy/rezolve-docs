@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # HR Service Management
 
-AITSM implementation for HR teams and employee support.
+Rezolve.ai implementation for HR teams and employee support.
 
 ## Overview
 

@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Security & Access Control
 
-Understanding AITSM's comprehensive security architecture and access control system.
+Understanding Rezolve.ai's comprehensive security architecture and access control system.
 
 ## Overview
 
-AITSM implements enterprise-grade security measures and fine-grained access control across all components.
+Rezolve.ai implements enterprise-grade security measures and fine-grained access control across all components.
 
 _Suggested Image: "security-overview.png" - Security architecture_
 

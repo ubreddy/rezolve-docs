@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # System of Records
 
-Understanding the core data structures and record types in AITSM.
+Understanding the core data structures and record types in Rezolve.ai.
 
 ## Overview
 
-The System of Records in AITSM provides a structured approach to managing various types of service management data.
+The System of Records in Rezolve.ai provides a structured approach to managing various types of service management data.
 
 _Suggested Image: "system-records-overview.png" - High-level diagram showing all record types and their relationships_
 

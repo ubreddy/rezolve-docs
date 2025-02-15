@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/overview/introduction">
-            Get Started with AITSM
+            Get Started with Rezolve.ai
           </Link>
         </div>
       </div>

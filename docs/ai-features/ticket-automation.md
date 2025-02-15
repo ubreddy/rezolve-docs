@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Standard Ticket Automation Agents
 
-Understanding AITSM's AI-powered ticket automation capabilities for enhanced service delivery.
+Understanding Rezolve.ai's AI-powered ticket automation capabilities for enhanced service delivery.
 
 ## Overview
 
-AITSM's ticket automation agents provide intelligent processing and management of service tickets throughout their lifecycle.
+Rezolve.ai's ticket automation agents provide intelligent processing and management of service tickets throughout their lifecycle.
 
 _Suggested Image: "ticket-automation-overview.png" - Ticket automation system architecture_
 

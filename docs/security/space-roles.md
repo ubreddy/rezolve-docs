@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Space Roles
 
-Understanding and managing roles within AITSM spaces.
+Understanding and managing roles within Rezolve.ai spaces.
 
 ## Overview
 

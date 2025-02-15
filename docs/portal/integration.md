@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Portal Integration
 
-Learn how to integrate the AITSM Service Portal with other systems and services.
+Learn how to integrate the Rezolve.ai Service Portal with other systems and services.
 
 ## Overview
 

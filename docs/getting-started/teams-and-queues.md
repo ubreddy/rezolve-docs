@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Teams and Queues Setup
 
-Learn how to set up teams and queues in AITSM to efficiently manage your service desk operations.
+Learn how to set up teams and queues in Rezolve.ai to efficiently manage your service desk operations.
 
 ## Understanding Teams
 
-Teams in AITSM represent groups of users who work together to handle specific types of requests or support specific business functions.
+Teams in Rezolve.ai represent groups of users who work together to handle specific types of requests or support specific business functions.
 
 ### Creating Teams
 

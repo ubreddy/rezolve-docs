@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Ticketing Systems Integration
 
-Learn how to integrate AITSM with various ticketing and service management platforms.
+Learn how to integrate Rezolve.ai with various ticketing and service management platforms.
 
 ## Overview
 
-AITSM provides seamless integration with popular ticketing systems to enable unified service management.
+Rezolve.ai provides seamless integration with popular ticketing systems to enable unified service management.
 
 _Suggested Image: "ticketing-integrations-overview.png" - Overview of supported ticketing systems_
 
@@ -21,7 +21,7 @@ graph TD
     A[ServiceNow] --> |incidents| B[Sync Manager]
     A --> |requests| B
     B --> |normalizes| C[Integration Layer]
-    C --> |processes| D[AITSM Core]
+    C --> |processes| D[Rezolve.ai Core]
     D --> |updates| E[Bot System]
     
     C --> |syncs| F[Ticket Store]
@@ -59,7 +59,7 @@ _Suggested Image: "servicenow-setup.png" - ServiceNow integration setup_
 graph TD
     A[Jira] --> |issues| B[API Gateway]
     B --> |transforms| C[Data Mapper]
-    C --> |routes| D[AITSM Core]
+    C --> |routes| D[Rezolve.ai Core]
     D --> |notifies| E[Event System]
     
     C --> |updates| F[Status Tracker]
@@ -97,7 +97,7 @@ _Suggested Image: "jira-setup.png" - Jira integration configuration_
 graph TD
     A[Zendesk] --> |tickets| B[Webhook Handler]
     B --> |processes| C[Event Processor]
-    C --> |routes| D[AITSM Core]
+    C --> |routes| D[Rezolve.ai Core]
     D --> |triggers| E[Actions]
     
     C --> |manages| F[Ticket Status]
@@ -135,7 +135,7 @@ _Suggested Image: "zendesk-setup.png" - Zendesk integration setup_
 graph TD
     A[Custom System] --> |data| B[Adapter Layer]
     B --> |normalizes| C[Transform Layer]
-    C --> |processes| D[AITSM Core]
+    C --> |processes| D[Rezolve.ai Core]
     D --> |updates| E[Event System]
     
     C --> |manages| F[State]

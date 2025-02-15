@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Knowledge Base Integrations
 
-Learn how to integrate AITSM's knowledge management system with various external knowledge sources.
+Learn how to integrate Rezolve.ai's knowledge management system with various external knowledge sources.
 
 ## Overview
 
-AITSM provides robust integration capabilities with popular knowledge management systems and documentation platforms.
+Rezolve.ai provides robust integration capabilities with popular knowledge management systems and documentation platforms.
 
 _Suggested Image: "knowledge-integrations-overview.png" - Overview of supported integrations_
 

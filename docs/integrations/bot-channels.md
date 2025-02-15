@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Bot Channel Integrations
 
-Learn how to integrate AITSM's AI-powered bot with various communication channels.
+Learn how to integrate Rezolve.ai's AI-powered bot with various communication channels.
 
 ## Overview
 
-AITSM supports multiple communication channels to provide seamless AI assistance across your organization's preferred platforms.
+Rezolve.ai supports multiple communication channels to provide seamless AI assistance across your organization's preferred platforms.
 
 _Suggested Image: "bot-channels-overview.png" - Overview of supported channels_
 
@@ -57,7 +57,7 @@ _Suggested Image: "slack-setup.png" - Slack app configuration steps_
 ```mermaid
 graph TD
     A[Teams App] -->|Messages| B[Bot Framework]
-    B -->|Processes| C[AITSM Core]
+    B -->|Processes| C[Rezolve.ai Core]
     C -->|Generates| D[Response]
     D -->|Formats| E[Teams API]
     E -->|Delivers| F[User]
@@ -134,7 +134,7 @@ _Suggested Image: "email-setup.png" - Email integration configuration_
 graph LR
     A[WhatsApp] -->|Messages| B[WhatsApp API]
     B -->|Forwards| C[Bot Framework]
-    C -->|Processes| D[AITSM Core]
+    C -->|Processes| D[Rezolve.ai Core]
     D -->|Generates| E[Response]
     E -->|Sends| F[WhatsApp API]
     F -->|Delivers| G[User]

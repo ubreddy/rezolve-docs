@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Automation Workflows
 
-Learn about AITSM's powerful automation capabilities that streamline your service management processes.
+Learn about Rezolve.ai's powerful automation capabilities that streamline your service management processes.
 
 ## Overview
 
-AITSM provides three main types of automation workflows:
+Rezolve.ai provides three main types of automation workflows:
 1. Bot-driven automation
 2. Ticket process event automation
 3. Scheduled task automation

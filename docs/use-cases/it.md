@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # IT Service Management
 
-AITSM implementation for IT service desks and support teams.
+Rezolve.ai implementation for IT service desks and support teams.
 
 ## Overview
 
-Comprehensive IT service management using AITSM's AI-powered features.
+Comprehensive IT service management using Rezolve.ai's AI-powered features.
 
 _Suggested Image: "it-service-desk.png" - IT service management overview_
 

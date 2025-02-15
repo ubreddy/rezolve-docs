@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Bot Agents
 
-Detailed documentation of AITSM's specialized AI bot agents and their capabilities.
+Detailed documentation of Rezolve.ai's specialized AI bot agents and their capabilities.
 
 ## Overview
 
-AITSM's bot agents are specialized AI components that handle specific aspects of service management interactions.
+Rezolve.ai's bot agents are specialized AI components that handle specific aspects of service management interactions.
 
 _Suggested Image: "bot-agents-overview.png" - Overview of all bot agents and their relationships_
 

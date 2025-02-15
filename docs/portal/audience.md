@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Audience
 
-Managing and configuring audience settings in the AITSM Service Portal.
+Managing and configuring audience settings in the Rezolve.ai Service Portal.
 
 ## Overview
 

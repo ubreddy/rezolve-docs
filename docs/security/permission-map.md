@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Permission Map
 
-Understanding the AITSM permission system and access control mapping.
+Understanding the Rezolve.ai permission system and access control mapping.
 
 ## Overview
 

@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # Custom Agents
 
-Learn how to build, deploy, and manage custom AI agents in AITSM.
+Learn how to build, deploy, and manage custom AI agents in Rezolve.ai.
 
 ## Overview
 
-AITSM provides a flexible framework for creating custom AI agents to extend platform capabilities and automate specific business processes.
+Rezolve.ai provides a flexible framework for creating custom AI agents to extend platform capabilities and automate specific business processes.
 
 _Suggested Image: "custom-agents-overview.png" - Custom agents framework architecture_
 

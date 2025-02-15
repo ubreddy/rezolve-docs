@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Service Portal Overview
 
-Learn about AITSM's modern, AI-powered service portal for end-users and service desk teams.
+Learn about Rezolve.ai's modern, AI-powered service portal for end-users and service desk teams.
 
 ## Overview
 

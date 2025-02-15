@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Registration
 
-Getting started with AITSM is quick and easy. Follow these steps to register your organization and begin using our AI-powered service management platform.
+Getting started with Rezolve.ai is quick and easy. Follow these steps to register your organization and begin using our AI-powered service management platform.
 
 ## Prerequisites
 
@@ -15,7 +15,7 @@ Before you begin, make sure you have:
 
 ## Registration Steps
 
-1. Visit the [AITSM Registration Page](https://aitsm.com/register)
+1. Visit the [Rezolve.ai Registration Page](https://www.rezolve.ai/register)
 2. Click on "Register Your Organization"
 3. Fill in the required information:
    - Organization name

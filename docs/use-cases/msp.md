@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Managed Service Provider
 
-AITSM implementation for Managed Service Providers (MSPs).
+Rezolve.ai implementation for Managed Service Providers (MSPs).
 
 ## Overview
 

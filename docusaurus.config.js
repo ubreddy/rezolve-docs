@@ -5,12 +5,12 @@ const {themes} = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AITSM Documentation',
+  title: 'Rezolve.ai Documentation',
   tagline: 'AI-Powered Service Management',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.aitsm.com',
+  url: 'https://docs.rezolve.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -59,10 +59,10 @@ const config = {
       // Replace this with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'AITSM Docs',
+        title: 'Rezolve.ai Docs',
         logo: {
-          alt: 'AITSM Logo',
-          src: 'img/logo.svg',
+          alt: 'Rezolve.ai Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -95,7 +95,7 @@ const config = {
             items: [
               {
                 label: 'Support',
-                href: 'https://support.aitsm.com',
+                href: 'https://support.rezolve.ai',
               },
             ],
           },

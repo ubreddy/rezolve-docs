@@ -4,11 +4,11 @@ sidebar_position: 4
 
 # Knowledge Agents
 
-Understanding AITSM's AI-powered knowledge management and content generation capabilities.
+Understanding Rezolve.ai's AI-powered knowledge management and content generation capabilities.
 
 ## Overview
 
-AITSM's knowledge agents provide intelligent content management, generation, and optimization for your knowledge base.
+Rezolve.ai's knowledge agents provide intelligent content management, generation, and optimization for your knowledge base.
 
 _Suggested Image: "knowledge-agents-overview.png" - Knowledge agents system architecture_
 

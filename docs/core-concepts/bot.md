@@ -4,11 +4,11 @@ sidebar_position: 5
 
 # Bot Architecture
 
-Understanding the core architecture and components of AITSM's AI-powered bot system.
+Understanding the core architecture and components of Rezolve.ai's AI-powered bot system.
 
 ## Overview
 
-AITSM's bot system is a sophisticated AI-powered platform that combines multiple specialized agents to provide intelligent service management capabilities.
+Rezolve.ai's bot system is a sophisticated AI-powered platform that combines multiple specialized agents to provide intelligent service management capabilities.
 
 _Suggested Image: "bot-architecture.png" - High-level bot system architecture_
 

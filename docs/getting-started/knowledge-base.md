@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Knowledge Base Setup
 
-Learn how to set up and manage your knowledge base in AITSM to provide efficient self-service support and empower your support team.
+Learn how to set up and manage your knowledge base in Rezolve.ai to provide efficient self-service support and empower your support team.
 
 ## Overview
 
-The AITSM Knowledge Base is an AI-powered system that helps you create, organize, and maintain your organization's knowledge articles.
+The Rezolve.ai Knowledge Base is an AI-powered system that helps you create, organize, and maintain your organization's knowledge articles.
 
 _Suggested Image: "kb-overview-diagram.png" - A diagram showing the knowledge base architecture with AI components_
 

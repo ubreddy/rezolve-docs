@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intent Groups
 
-Understanding and managing intent groups in the AITSM Service Portal.
+Understanding and managing intent groups in the Rezolve.ai Service Portal.
 
 ## Overview
 

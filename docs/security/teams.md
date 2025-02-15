@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Teams
 
-Understanding team management and organization in AITSM.
+Understanding team management and organization in Rezolve.ai.
 
 ## Overview
 

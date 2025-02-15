@@ -4,11 +4,11 @@ sidebar_position: 2
 
 # Email Agents
 
-Understanding AITSM's AI-powered email processing and management capabilities.
+Understanding Rezolve.ai's AI-powered email processing and management capabilities.
 
 ## Overview
 
-AITSM's email agents provide intelligent email processing and automated response management for service desk operations.
+Rezolve.ai's email agents provide intelligent email processing and automated response management for service desk operations.
 
 _Suggested Image: "email-agents-overview.png" - Email processing system architecture_
 

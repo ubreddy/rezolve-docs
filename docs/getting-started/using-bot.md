@@ -8,7 +8,7 @@ Learn how to set up and configure your AI-powered service bot to provide automat
 
 ## Bot Overview
 
-The AITSM Bot is an intelligent virtual assistant that handles user inquiries, automates tasks, and provides seamless support experiences.
+The Rezolve.ai Bot is an intelligent virtual assistant that handles user inquiries, automates tasks, and provides seamless support experiences.
 
 _Suggested Image: "bot-architecture.png" - High-level architecture diagram of the bot system_
 

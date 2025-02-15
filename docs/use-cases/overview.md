@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Use Cases
 
-Explore real-world applications and implementation scenarios for AITSM.
+Explore real-world applications and implementation scenarios for Rezolve.ai.
 
 ## Overview
 
-AITSM supports various service management scenarios across different industries and organizational needs.
+Rezolve.ai supports various service management scenarios across different industries and organizational needs.
 
 _Suggested Image: "use-cases-overview.png" - Use cases overview_
 
