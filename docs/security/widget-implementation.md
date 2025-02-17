@@ -42,7 +42,7 @@ sequenceDiagram
 
 ```javascript
 // realm identification and initialization in the federation service
-window.EmbeddableWidget.mount("agentpg");
+window.EmbeddableWidget.mount("<realmname>");
 ```
 
 ### 3. SSO Configuration
