@@ -69,6 +69,7 @@ const sidebars = {
         'security/workspaces',
         'security/space-roles',
         'security/permission-map',
+        'security/widget-implementation'
       ],
     },
     {
