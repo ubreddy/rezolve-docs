@@ -167,7 +167,118 @@ Authorization: Bearer <token>
 
 ```
 
+### Webhook Configuration
 
+ServiceNow needs to be configured to send events to our webhook endpoint. This enables real-time communication for agent messages, status updates, and session management.
+
+1. **Webhook Endpoint**
+```typescript
+POST /api/v1/snowBot/receiveMessage
+Content-Type: application/json
+Authorization: Bearer <bot_password>
+
+Request Parameters:
+{
+    clientSessionId: string,  // Unique session identifier from ServiceNow
+    requestId: string,        // Unique identifier for the chat request
+    userId: string,          // User identifier
+    status: string,          // Current status of the chat session
+    error_message?: string,  // Error message if any
+    completed?: boolean,     // Indicates if the chat session is completed
+    agentChat?: boolean,     // Indicates if agent is actively chatting
+    takeControl?: boolean,   // Indicates if agent is taking control of conversation
+    clientVariables?: {      // Variables from ServiceNow
+        [key: string]: any,
+        tenantId: string,
+        botId: string, 
+        conversationId: string
+    },
+    body: Array<{           // Array of message activities
+        uiType: string,     // Type of message
+        message?: string,   // Text message content
+        value?: string,     // Value for images or other content types
+        agentInfo?: {       // Agent information
+            agentName: string
+        },
+        actionType?: string,// Type of action for ActionMsg
+        options?: array     // Options for Picker type messages
+    }>
+}
+
+Response:
+200 OK - Successfully posted into conversation
+400 Bad Request - If requestId or botId is invalid
+500 Server Error - For processing errors
+```
+
+2. **Common Status Values**
+```typescript
+status: {
+    'active',      // Chat session is active
+    'waiting',     // Waiting for agent
+    'connected',   // Connected to agent
+    'completed',   // Chat session completed
+    'fail',        // Chat session failed
+    'cancelled'    // Chat request cancelled
+}
+```
+
+3. **State Transitions**
+
+```mermaid
+stateDiagram-v2
+    [*] --> waiting: User Requests Chat
+    waiting --> connected: Agent Joins
+    waiting --> cancelled: User Cancels
+    waiting --> fail: No Agents Available
+    connected --> completed: Either Party Ends Chat
+    connected --> active: Active Conversation
+    active --> completed: Either Party Ends Chat
+    completed --> [*]
+    fail --> [*]
+    cancelled --> [*]
+```
+
+4. **Special Cases**
+
+a. **Agent Taking Control**
+```json
+{
+    "status": "connected",
+    "takeControl": true,
+    "agentChat": true,
+    "body": [{
+        "uiType": "ActionMsg",
+        "actionType": "AgentControl",
+        "message": "Agent has taken control of the conversation"
+    }]
+}
+```
+
+b. **Session Completion**
+```json
+{
+    "status": "completed",
+    "completed": true,
+    "body": [{
+        "uiType": "ActionMsg",
+        "actionType": "EndConversation",
+        "message": "The conversation has ended"
+    }]
+}
+```
+
+c. **Error Handling**
+```json
+{
+    "status": "fail",
+    "error_message": "No agents are available to chat",
+    "body": [{
+        "uiType": "OutputText",
+        "message": "We're sorry, but all agents are currently busy. Please try again later."
+    }]
+}
+```
 
 ## Security
 
@@ -202,5 +313,3 @@ SERVICENOW_USERNAME=<username>
 SERVICENOW_PASSWORD=<password>
 SERVICENOW_INSTANCE=<instance_url>
 WEBHOOK_SECRET=<webhook_secret>
-```
-
