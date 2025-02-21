@@ -48,6 +48,7 @@ const sidebars = {
         'integrations/bot-channels',
         'integrations/knowledge-base',
         'integrations/ticketing-systems',
+        'integrations/ServiceNow-LiveChat-Integration'
       ],
     },
     {

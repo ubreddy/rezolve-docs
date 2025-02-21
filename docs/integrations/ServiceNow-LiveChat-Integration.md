@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Architecture](#architecture)
-- [Components](#components)
+- [Components](#key-components)
 - [Integration Flow](#integration-flow)
 - [API Specifications](#api-specifications)
 - [Security](#security)
