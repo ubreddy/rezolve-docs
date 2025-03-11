@@ -1,0 +1,89 @@
+.breadcrumbsWrapper {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+/* Hide scrollbar for breadcrumbs */
+.breadcrumbsWrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.breadcrumbsWrapper {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.breadcrumbsList {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+}
+
+.breadcrumbsItem {
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumbsItemLink {
+  color: var(--ifm-color-content-secondary);
+  text-decoration: none;
+}
+
+.breadcrumbsItemLink:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.breadcrumbsSeparator {
+  margin: 0 0.5rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.03);
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.backButton:hover {
+  color: var(--ifm-color-primary-darker);
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.backIcon {
+  font-size: 1.2rem;
+  margin-right: 6px;
+  line-height: 1;
+}
+
+.backText {
+  font-size: 0.9rem;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .backButton {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme='dark'] .backButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

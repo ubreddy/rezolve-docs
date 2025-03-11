@@ -1,0 +1,79 @@
+.sidebarWrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding-top: 0;
+}
+
+.sidebarHeader {
+  position: sticky;
+  top: var(--ifm-navbar-height);
+  z-index: 200; /* Increased z-index to ensure it's above the navbar */
+  background-color: var(--ifm-background-color);
+  padding-top: 16px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.searchContainer {
+  padding: 0;
+  margin: 0;
+}
+
+.backButtonContainer {
+  padding: 8px 1rem 6px;
+  background-color: var(--ifm-background-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  display: flex;
+  align-items: center;
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.03);
+  font-size: 0.9rem;
+}
+
+.backButton:hover {
+  color: var(--ifm-color-primary-darker);
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.backIcon {
+  font-size: 1.2rem;
+  margin-right: 6px;
+  line-height: 1;
+}
+
+.backText {
+  font-size: 0.9rem;
+}
+
+.sidebarContent {
+  flex: 1;
+  overflow-y: auto;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .backButtonContainer {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .backButton {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme='dark'] .backButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

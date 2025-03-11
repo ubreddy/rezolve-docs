@@ -1,0 +1,74 @@
+.navbarContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.navbarWrapper {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: var(--ifm-navbar-background-color);
+  box-shadow: var(--ifm-navbar-shadow);
+  width: 100%;
+}
+
+.backButtonContainer {
+  display: none; /* Hide any back buttons in the navbar */
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.backButton:hover {
+  color: var(--ifm-color-primary-darker);
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.backIcon {
+  font-size: 1.5rem;
+  margin-right: 8px;
+  line-height: 1;
+}
+
+.backText {
+  font-size: 0.95rem;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .backButtonContainer {
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+[data-theme='dark'] .backButton {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme='dark'] .backButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Mobile adjustments */
+@media (max-width: 996px) {
+  .backButtonContainer {
+    padding: 8px 16px;
+  }
+  
+  .backIcon {
+    font-size: 1.2rem;
+  }
+  
+  .backText {
+    font-size: 0.9rem;
+  }
+}

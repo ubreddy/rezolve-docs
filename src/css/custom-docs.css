@@ -185,7 +185,7 @@
 }
 
 [data-theme='dark'] .menu__link--active {
-  background-color: rgba(75, 137, 232, 0.2);
+  background-color: rgba(66, 133, 244, 0.15);
 }
 
 [data-theme='dark'] .DocSearch-Button {
@@ -311,4 +311,211 @@
   .theme-doc-markdown {
     padding: 16px;
   }
+}
+
+/* Documentation content styling */
+.markdown {
+  padding: 2rem;
+}
+
+.markdown h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+.markdown h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.markdown h3 {
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.markdown p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.markdown ul, .markdown ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.markdown li {
+  margin-bottom: 0.5rem;
+}
+
+.markdown code {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  padding: 0.2rem 0.4rem;
+  font-size: 0.85rem;
+}
+
+[data-theme='dark'] .markdown code {
+  background-color: #2d2d2d;
+}
+
+.markdown pre {
+  background-color: #f6f8fa;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+}
+
+[data-theme='dark'] .markdown pre {
+  background-color: #2d2d2d;
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #666;
+}
+
+[data-theme='dark'] .markdown blockquote {
+  color: #bbb;
+}
+
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.markdown th, .markdown td {
+  padding: 0.75rem;
+  border: 1px solid #e5e7eb;
+}
+
+.markdown th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .markdown th {
+  background-color: #343434;
+}
+
+[data-theme='dark'] .markdown th, [data-theme='dark'] .markdown td {
+  border-color: #444950;
+}
+
+/* Admonitions styling */
+.admonition {
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+}
+
+.admonition-icon {
+  margin-right: 0.5rem;
+}
+
+.admonition-heading {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.admonition-content {
+  margin-top: 0.5rem;
+}
+
+/* Tabs styling */
+.tabs {
+  margin-bottom: 1.5rem;
+}
+
+.tabs__item {
+  padding: 0.75rem 1rem;
+  transition: all 0.2s ease;
+}
+
+.tabs__item--active {
+  border-bottom-color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .tabs {
+  background-color: #242526;
+}
+
+/* Simplified navbar styling */
+.navbar {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  height: 60px;
+}
+
+.navbar__brand {
+  margin-right: 1rem;
+}
+
+.navbar__logo {
+  height: 32px;
+  margin-right: 0.5rem;
+}
+
+.navbar__title {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.navbar__items--right {
+  flex: 1;
+  justify-content: flex-end;
+}
+
+/* Back button styling for mobile */
+@media (max-width: 996px) {
+  .navbar-sidebar__back {
+    background-color: var(--ifm-color-emphasis-100);
+    border-bottom: 1px solid var(--ifm-color-emphasis-200);
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+  }
+
+  .navbar-sidebar__back:before {
+    content: "«";
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+  }
+}
+
+/* Improve mobile experience */
+@media (max-width: 996px) {
+  .theme-doc-sidebar-container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  .markdown {
+    padding: 1rem;
+  }
+  
+  .markdown h1 {
+    font-size: 2rem;
+  }
+  
+  .markdown h2 {
+    font-size: 1.5rem;
+  }
+  
+  .markdown h3 {
+    font-size: 1.2rem;
+  }
+}
+
+/* Fix for Vite-specific issues */
+.vite-fast-refresh {
+  display: none;
 }

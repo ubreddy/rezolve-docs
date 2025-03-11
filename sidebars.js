@@ -56,6 +56,33 @@ module.exports = {
             'getting-started/tutorials/intermediate',
             'getting-started/tutorials/advanced'
           ]
+        },
+        {
+          type: 'category',
+          label: 'Tutorials',
+          items: [
+            'getting-started/tutorials/basic',
+            'getting-started/tutorials/intermediate',
+            'getting-started/tutorials/advanced'
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Tutorials',
+          items: [
+            'getting-started/tutorials/basic',
+            'getting-started/tutorials/intermediate',
+            'getting-started/tutorials/advanced'
+          ]
+        },
+        {
+          type: 'category',
+          label: 'Tutorials',
+          items: [
+            'getting-started/tutorials/basic',
+            'getting-started/tutorials/intermediate',
+            'getting-started/tutorials/advanced'
+          ]
         }
       ]
     }

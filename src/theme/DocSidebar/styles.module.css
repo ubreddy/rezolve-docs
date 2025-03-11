@@ -1,11 +1,121 @@
 .customSidebar {
-  border-right: 1px solid #e5e7eb;
-  background-color: #f8f9fa;
-  width: 300px !important;
-  max-width: 300px !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.backButtonContainer {
+  padding: 8px 1rem 6px;
+  background-color: var(--ifm-background-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  display: flex;
+  align-items: center;
+  height: auto;
+  margin-bottom: 0;
+}
+
+.backButton {
+  display: flex;
+  align-items: center;
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.03);
+  font-size: 0.9rem;
+}
+
+.backButton:hover {
+  color: var(--ifm-color-primary-darker);
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.backIcon {
+  font-size: 1.2rem;
+  margin-right: 6px;
+  line-height: 1;
+}
+
+.backText {
+  font-size: 0.9rem;
+}
+
+.sidebarContent {
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* Remove extra padding from the top of the sidebar menu */
+.sidebarContent :global(.menu) {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Adjust the padding of the first menu item */
+.sidebarContent :global(.menu__list) {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Reduce space between back button and first category */
+.sidebarContent :global(.menu__list-item:first-child) {
+  margin-top: 0;
+}
+
+/* Reduce padding on menu items */
+.customSidebar :global(.menu__link) {
+  padding: 0.4rem 0.75rem;
+  margin: 0.1rem 0.5rem;
+  border-radius: 6px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.customSidebar :global(.menu__link:hover) {
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+.customSidebar :global(.menu__link--active) {
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+  font-weight: 600;
+}
+
+/* Category headings */
+.customSidebar :global(.menu__list-item-collapsible) {
+  font-weight: 600;
+}
+
+/* Nested items indentation */
+.customSidebar :global(.menu__list .menu__list) {
+  margin-left: 0.5rem;
+  border-left: 1px solid var(--ifm-color-emphasis-200);
 }
 
 [data-theme='dark'] .customSidebar {
-  background-color: #242526;
-  border-right-color: #444950;
+  border-right-color: var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .backButtonContainer {
+  background-color: var(--ifm-background-color);
+}
+
+[data-theme='dark'] .backButton {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme='dark'] .backButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .customSidebar :global(.menu__list .menu__list) {
+  border-left-color: var(--ifm-color-emphasis-300);
+}
+
+/* Hide the collapse button at the bottom of the sidebar */
+.customSidebar :global(.clean-btn) {
+  display: none !important;
 }

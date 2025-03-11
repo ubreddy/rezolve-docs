@@ -59,3 +59,24 @@
   --ifm-h3-font-size: 1.5rem;
   margin-top: 2rem;
 }
+
+/* Improve breadcrumbs display */
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 0.5rem 0;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.breadcrumbs::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+.breadcrumbs__item {
+  display: inline-flex;
+  align-items: center;
+}

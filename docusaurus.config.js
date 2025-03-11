@@ -6,7 +6,7 @@ const sidebars = require('./sidebars');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentation Portal',
+  title: 'Rezolve Docs',
   tagline: 'Your central hub for all documentation',
   favicon: 'img/favicon.ico',
 
@@ -54,7 +54,11 @@ const config = {
           sidebarCollapsed: false,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./src/css/custom.css'),
+            require.resolve('./src/css/custom-docs.css'),
+            require.resolve('./src/css/hide-footer.css'),
+          ],
         },
       }),
     ],
@@ -72,95 +76,20 @@ const config = {
         },
       },
       navbar: {
-        title: 'Documentation Portal',
+        title: 'Rezolve Docs',
         logo: {
           alt: 'Documentation Logo',
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'gettingStartedSidebar',
-            position: 'left',
-            label: 'Getting Started',
-            docsPluginId: 'default',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'administrationSidebar',
-            position: 'left',
-            label: 'Administration',
-            docsPluginId: 'default',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'knowledgeManagementSidebar',
-            position: 'left',
-            label: 'Knowledge Management',
-            docsPluginId: 'default',          },
-          {
-            href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
-            label: 'Repository',
-            position: 'right',
-          },
+         
         ],
       },
+      // Set to empty object to hide footer completely
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Documentation',
-            items: [
-              {
-                label: 'Getting Started',
-                to: '/docs/getting-started/introduction',
-              },
-              {
-                label: 'Knowledge Management',
-                to: '/docs/knowledge-management/uploading-articles',
-              },
-              {
-                label: 'Helpdesk',
-                to: '/docs/helpdesk/ticket-management',
-              },
-            ],
-          },
-          {
-            title: 'Features',
-            items: [
-              {
-                label: 'Bot Analytics',
-                to: '/docs/bot-analytics/analytics-dashboard',
-              },
-              {
-                label: 'Creator Studio',
-                to: '/docs/creator-studio',
-              },
-              {
-                label: 'Virtual Agent',
-                to: '/docs/virtual-agent',
-              },
-            ],
-          },
-          {
-            title: 'Resources',
-            items: [
-              {
-                label: 'Service Portal',
-                to: '/docs/service-portal',
-              },
-              {
-                label: 'Service Catalog',
-                to: '/docs/service-catalog',
-              },
-              {
-                label: 'Repository',
-                href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright ${new Date().getFullYear()} Actionable Science, Inc.`,
+        links: [],
+        copyright: `Copyright ${new Date().getFullYear()} Rezolve.ai, Inc. All rights reserved.`,
       },
       prism: {
         theme: themes.github,

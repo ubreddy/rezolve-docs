@@ -1,0 +1,29 @@
+/* Hide the footer completely */
+.footer {
+  display: none !important;
+}
+
+/* Hide the sidebar collapse button at the bottom */
+.theme-doc-sidebar-container .button.button--secondary {
+  display: none !important;
+}
+
+/* Only hide specific back buttons, not all links to home */
+.navbar-sidebar a[href="/"] {
+  display: none !important;
+}
+
+/* Make sure the logo is visible */
+.navbar__logo {
+  display: block !important;
+}
+
+/* Make sure the home icon in breadcrumbs is visible */
+.breadcrumbs__item a[href="/"] {
+  display: block !important;
+}
+
+/* Make sure our custom back button is visible */
+.customSidebar .backButton {
+  display: flex !important;
+}
