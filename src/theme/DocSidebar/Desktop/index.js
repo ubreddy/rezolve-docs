@@ -32,16 +32,24 @@ export default function DocSidebarDesktopWrapper(props) {
       const label = item.label || '';
       const matchesQuery = label.toLowerCase().includes(lowerCaseQuery);
       
+      // For category type items (parent nodes)
       if (item.type === 'category') {
+        // First filter the child items
         const filteredItems = filterSidebarItems(item.items, query);
         
+        // If this category matches the query OR any of its children match
         if (matchesQuery || filteredItems.length > 0) {
-          filtered.push({
+          // For parent nodes that match the query, we want to include all their children
+          // This ensures that when a parent matches, all its structure is preserved
+          const newItem = {
             ...item,
-            items: filteredItems
-          });
+            items: matchesQuery ? item.items : filteredItems
+          };
+          filtered.push(newItem);
         }
-      } else if (matchesQuery) {
+      } 
+      // For link or doc type items (leaf nodes)
+      else if (matchesQuery) {
         filtered.push(item);
       }
       

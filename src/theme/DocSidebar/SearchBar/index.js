@@ -39,10 +39,10 @@ export default function SidebarSearchBar({ onChange }) {
           ref={inputRef}
           type="text"
           className={styles.searchInput}
-          placeholder="Search documentation..."
+          placeholder="Search topic menus..."
           value={value}
           onChange={handleChange}
-          aria-label="Search documentation"
+          aria-label="Search topic menus"
         />
         {value && (
           <button 
