@@ -20,7 +20,7 @@ const FeatureList = [
     icon: '🚀',
     description: 'Learn the basics and get up to speed quickly',
     path: '/docs/getting-started/introduction',
-    count: 42,
+    count: 13,
     color: colors.primary
   },
   {
@@ -28,7 +28,7 @@ const FeatureList = [
     icon: '⚙️',
     description: 'Manage system settings and user permissions',
     path: '/docs/administration/introduction',
-    count: 41,
+    count: 29,
     color: colors.primary
   },
   {
@@ -36,7 +36,7 @@ const FeatureList = [
     icon: '👨‍💻',
     description: 'Manage bot settings and configurations',
     path: '/docs/bot-administration/overview',
-    count: 4,
+    count: 17,
     color: colors.primary
   },
   {
@@ -44,7 +44,7 @@ const FeatureList = [
     icon: '🎨',
     description: 'Build and customize chatbot experiences',
     path: '/docs/creator-studio/overview',
-    count: 9,
+    count: 23,
     color: colors.primary
   },
   {
@@ -52,7 +52,7 @@ const FeatureList = [
     icon: '📚',
     description: 'Manage and organize your knowledge base effectively',
     path: '/docs/knowledge-management/overview',
-    count: 57,
+    count: 23,
     color: colors.primary
   },
   {
@@ -60,7 +60,7 @@ const FeatureList = [
     icon: '🎭',
     description: 'Configure and manage AI-powered agents',
     path: '/docs/virtual-agent/overview',
-    count: 58,
+    count: 10,
     color: colors.primary
   },
   {
@@ -68,7 +68,7 @@ const FeatureList = [
     icon: '📢',
     description: 'Stay updated with the latest features and changes',
     path: '/docs/announcements/overview',
-    count: 16,
+    count: 5,
     color: colors.primary
   },
   {
@@ -76,7 +76,7 @@ const FeatureList = [
     icon: '🎯',
     description: 'Handle support tickets and customer inquiries',
     path: '/docs/helpdesk/overview',
-    count: 45,
+    count: 43,
     color: colors.primary
   },
   {
@@ -84,7 +84,7 @@ const FeatureList = [
     icon: '📱',
     description: 'Monitor and manage support operations',
     path: '/docs/helpdesk-dashboard/overview',
-    count: 36,
+    count: 18,
     color: colors.primary
   },
   {
@@ -92,7 +92,7 @@ const FeatureList = [
     icon: '📊',
     description: 'Track and analyze bot performance metrics',
     path: '/docs/bot-analytics/overview',
-    count: 16,
+    count: 8,
     color: colors.primary
   },
   
@@ -101,7 +101,7 @@ const FeatureList = [
     icon: '🤖',
     description: 'Design and implement automated workflows',
     path: '/docs/automation-studio/overview',
-    count: 51,
+    count: 12,
     color: colors.primary
   },
   {
@@ -109,7 +109,7 @@ const FeatureList = [
     icon: '⚡',
     description: 'Automate routine IT tasks and workflows',
     path: '/docs/it-automation/overview',
-    count: 40,
+    count: 8,
     color: colors.primary
   },
   {
@@ -117,7 +117,7 @@ const FeatureList = [
     icon: '⚡',
     description: 'Automate routine desktop tasks',
     path: '/docs/desktop-automation/overview',
-    count: 40,
+    count: 12,
     color: colors.primary
   },
   {
@@ -125,7 +125,7 @@ const FeatureList = [
   icon: '🔌',
   description: 'Connect with other tools and services',
   path: '/docs/integrations/overview',
-  count: 16,
+  count: 19,
   color: colors.primary
   },
   {
@@ -133,7 +133,7 @@ const FeatureList = [
     icon: '💬',
     description: 'Real-time customer support features',
     path: '/docs/live-chat/getting-started',
-    count: 32,
+    count: 12,
     color: colors.primary
   },
   {
@@ -141,7 +141,7 @@ const FeatureList = [
     icon: '📑',
     description: 'Manage and organize available services',
     path: '/docs/service-catalog/overview',
-    count: 39,
+    count: 42,
     color: colors.primary
   },
   {
@@ -149,7 +149,7 @@ const FeatureList = [
     icon: '📖',
     description: 'Manage your MSP effectively',
     path: '/docs/msp-guide/features-settings',
-    count: 7,
+    count: 16,
     color: colors.primary
   },
   
@@ -158,7 +158,7 @@ const FeatureList = [
     icon: '🌐',
     description: 'Self-service portal configuration',
     path: '/docs/service-portal/overview',
-    count: 8,
+    count: 10,
     color: colors.primary
   },
   {
@@ -166,7 +166,7 @@ const FeatureList = [
     icon: '🔍',
     description: 'Insights into bot performance and ticket management',
     path: '/docs/aura-insights/overview',
-    count: 10,
+    count: 8,
     color: colors.primary
   },
   {
@@ -174,7 +174,7 @@ const FeatureList = [
     icon: '🔍',
     description: 'Search and manage your data effectively',
     path: '/docs/enterprise-search/overview',
-    count: 5,
+    count: 9,
     color: colors.primary
   },
   
@@ -184,7 +184,7 @@ const FeatureList = [
     icon: '🏟️',
     description: 'Test and train your virtual agents',
     path: '/docs/arena/release-notes',
-    count: 34,
+    count: 6,
     color: colors.primary
   },
   {
@@ -192,7 +192,7 @@ const FeatureList = [
     icon: '',
     description: 'Get help and support from Rezolve',
     path: '/docs/support/overview',
-    count: 34,
+    count: 5,
     color: colors.primary
   },
   
