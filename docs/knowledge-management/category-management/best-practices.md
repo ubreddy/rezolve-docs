@@ -78,6 +78,6 @@ Guidelines for creating and maintaining an effective category structure in your 
 
 ## Related Resources
 
-- [Category Management](./category-management.md)
+
 - [Article Management](../article-management/article-management.md)
 - [Content Guidelines](../article-management/content-guidelines.md)
