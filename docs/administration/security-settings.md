@@ -209,7 +209,6 @@ This guide provides detailed information on configuring and managing platform se
 - Alert configuration
 - Export capabilities
 - Screenshot of audit settings
-- linking to audit-logs (resolved as: /docs/administration/audit-logs)
 
 ### Privacy Controls
 - Data subject rights management
