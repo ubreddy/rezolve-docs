@@ -33,6 +33,4 @@ Learn about Rezolve.ai's integration capabilities with various platforms and sys
 
 ## Getting Started
 
-- Set up [Teams Integration](../communication/teams.md)
-- Configure [ServiceNow](../ticketing/servicenow.md)
 - Connect to [Confluence](../knowledge/confluence.md)

@@ -6,6 +6,8 @@
 
 /* Import custom documentation styles */
 @import './custom-docs.css';
+@import './custom-sidebar.css';
+@import './hide-footer.css';
 
 /* You can override the default Infima variables here. */
 :root {
@@ -16,8 +18,24 @@
   --ifm-color-primary-light: #4b89e8;
   --ifm-color-primary-lighter: #5a93ea;
   --ifm-color-primary-lightest: #7eabef;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 90%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Reduce base font size */
+  --ifm-font-size-base: 14px;
+  --ifm-line-height-base: 1.4;
+  
+  /* Adjust heading sizes */
+  --ifm-h1-font-size: 2rem;
+  --ifm-h2-font-size: 1.5rem;
+  --ifm-h3-font-size: 1.25rem;
+  --ifm-h4-font-size: 1rem;
+  --ifm-h5-font-size: 0.875rem;
+  --ifm-h6-font-size: 0.85rem;
+  
+  /* Reduce spacing */
+  --ifm-spacing-vertical: 0.75rem;
+  --ifm-paragraph-margin-bottom: 0.75rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -46,18 +64,95 @@
 }
 
 .markdown h1:first-child {
-  --ifm-h1-font-size: 2.5rem;
+  --ifm-h1-font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Main content area */
+.markdown {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.markdown p {
+  margin-bottom: 0.75rem;
+}
+
+.markdown ul, .markdown ol {
+  margin-bottom: 0.75rem;
+  padding-left: 1.5rem;
+}
+
+.markdown li {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Table of contents (right sidebar) */
+.table-of-contents {
+  font-size: 12px;
+  line-height: 1.2;
+}
+
+.table-of-contents__link {
+  padding: 4px 8px;
+  display: block;
+}
+
+.table-of-contents__link--active {
+  font-weight: 600;
+}
+
+/* Reduce spacing between TOC items */
+.table-of-contents li {
+  margin: 0;
+}
+
+/* Adjust card components */
+.card {
   margin-bottom: 1rem;
 }
 
-.markdown > h2 {
-  --ifm-h2-font-size: 2rem;
-  margin-top: 2.5rem;
+/* Adjust tabs */
+.tabs {
+  margin-bottom: 0.75rem;
 }
 
-.markdown > h3 {
-  --ifm-h3-font-size: 1.5rem;
-  margin-top: 2rem;
+.tabs__item {
+  padding: 0.5rem 0.75rem;
+  font-size: 13px;
+}
+
+/* Adjust code blocks */
+pre {
+  margin-bottom: 0.75rem;
+}
+
+/* Adjust admonitions */
+.admonition {
+  margin-bottom: 0.75rem;
+  padding: 0.75rem;
+}
+
+.admonition-heading h5 {
+  margin-bottom: 0.25rem;
+}
+
+/* Adjust pagination */
+.pagination-nav {
+  margin-top: 1.5rem;
+}
+
+.pagination-nav__link {
+  padding: 0.5rem 0.75rem;
+}
+
+.pagination-nav__sublabel {
+  font-size: 11px;
+}
+
+.pagination-nav__label {
+  font-size: 13px;
 }
 
 /* Improve breadcrumbs display */

@@ -1,31 +1,8 @@
 ---
-sidebar_position: 1
+id: overview
+title: IT Automation Overview
+sidebar_label: IT Automation Overview
+description: Documentation for IT Automation Overview
 ---
 
-# Overview
-
-Content for it-automation - Overview goes here.
-
-## Introduction
-
-This is a placeholder for the it-automation documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# IT Automation Overview

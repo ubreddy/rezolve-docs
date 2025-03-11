@@ -1,31 +1,8 @@
 ---
-sidebar_position: 2
+id: getting-started
+title: Getting Started with Live Chat
+sidebar_label: Getting Started with Live Chat
+description: Documentation for Getting Started with Live Chat
 ---
 
-# Getting Started
-
-Content for live-chat - Getting Started goes here.
-
-## Introduction
-
-This is a placeholder for the live-chat documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# Getting Started with Live Chat

@@ -1,0 +1,8 @@
+---
+id: faqs
+title: Service Portal FAQs
+sidebar_label: Portal FAQs
+description: Documentation for Service Portal FAQs
+---
+
+# Service Portal FAQs

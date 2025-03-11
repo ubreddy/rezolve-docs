@@ -75,6 +75,3 @@ Categories provide a hierarchical structure to organize your knowledge base cont
 
 ## Related Resources
 
-- [Article Management](./article-management.md)
-- [Content Guidelines](./content-guidelines.md)
-- [Access Control](./access-control.md)

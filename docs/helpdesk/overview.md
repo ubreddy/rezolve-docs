@@ -1,31 +1,8 @@
 ---
-sidebar_position: 1
+id: overview
+title: Helpdesk Overview
+sidebar_label: Overview
+description: Documentation for Helpdesk Overview
 ---
 
-# Overview
-
-Content for helpdesk - Overview goes here.
-
-## Introduction
-
-This is a placeholder for the helpdesk documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# Helpdesk Overview

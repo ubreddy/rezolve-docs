@@ -1,31 +1,8 @@
 ---
-sidebar_position: 1
+id: overview
+title: Automation Studio Overview
+sidebar_label: Studio Overview
+description: Documentation for Automation Studio Overview
 ---
 
-# Overview
-
-Content for automation-studio - Overview goes here.
-
-## Introduction
-
-This is a placeholder for the automation-studio documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# Automation Studio Overview

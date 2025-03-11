@@ -1,31 +1,8 @@
 ---
-sidebar_position: 1
+id: overview
+title: Virtual Agent Overview
+sidebar_label: Agent Overview
+description: Documentation for Virtual Agent Overview
 ---
 
-# Overview
-
-Content for virtual-agent - Overview goes here.
-
-## Introduction
-
-This is a placeholder for the virtual-agent documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# Virtual Agent Overview

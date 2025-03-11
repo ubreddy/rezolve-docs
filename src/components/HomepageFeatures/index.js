@@ -24,58 +24,83 @@ const FeatureList = [
     color: colors.primary
   },
   {
+    title: 'Administration',
+    icon: '⚙️',
+    description: 'Manage system settings and user permissions',
+    path: '/docs/administration/introduction',
+    count: 41,
+    color: colors.primary
+  },
+  {
+    title: 'Bot Administration',
+    icon: '👨‍💻',
+    description: 'Manage bot settings and configurations',
+    path: '/docs/bot-administration/overview',
+    count: 4,
+    color: colors.primary
+  },
+  {
+    title: 'Creator Studio',
+    icon: '🎨',
+    description: 'Build and customize chatbot experiences',
+    path: '/docs/creator-studio/overview',
+    count: 9,
+    color: colors.primary
+  },
+  {
     title: 'Knowledge Management',
     icon: '📚',
     description: 'Manage and organize your knowledge base effectively',
-    path: '/docs/knowledge-management/content/writing-guide',
+    path: '/docs/knowledge-management/overview',
     count: 57,
     color: colors.primary
   },
   {
-    title: 'Helpdesk',
-    icon: '🎯',
-    description: 'Handle support tickets and customer inquiries',
-    path: '/docs/helpdesk',
-    count: 45,
-    color: colors.primary
-  },
-  {
-    title: 'Bot Analytics',
-    icon: '📊',
-    description: 'Track and analyze bot performance metrics',
-    path: '/docs/bot-analytics',
-    count: 16,
+    title: 'Virtual Agent',
+    icon: '🎭',
+    description: 'Configure and manage AI-powered agents',
+    path: '/docs/virtual-agent/overview',
+    count: 58,
     color: colors.primary
   },
   {
     title: 'Announcements',
     icon: '📢',
     description: 'Stay updated with the latest features and changes',
-    path: '/docs/announcements',
+    path: '/docs/announcements/overview',
     count: 16,
     color: colors.primary
   },
   {
-    title: 'Administration',
-    icon: '⚙️',
-    description: 'Manage system settings and user permissions',
-    path: '/docs/administration',
-    count: 41,
+    title: 'Helpdesk',
+    icon: '🎯',
+    description: 'Handle support tickets and customer inquiries',
+    path: '/docs/helpdesk/overview',
+    count: 45,
     color: colors.primary
   },
   {
     title: 'Helpdesk Dashboard',
     icon: '📱',
     description: 'Monitor and manage support operations',
-    path: '/docs/helpdesk-dashboard',
+    path: '/docs/helpdesk-dashboard/overview',
     count: 36,
     color: colors.primary
   },
   {
-    title: 'Integrations',
-    icon: '🔌',
-    description: 'Connect with other tools and services',
-    path: '/docs/integrations',
+    title: 'Bot Analytics',
+    icon: '📊',
+    description: 'Track and analyze bot performance metrics',
+    path: '/docs/bot-analytics/overview',
+    count: 16,
+    color: colors.primary
+  },
+  
+  {
+    title: 'Automation Studio',
+    icon: '🤖',
+    description: 'Design and implement automated workflows',
+    path: '/docs/automation-studio/overview',
     count: 51,
     color: colors.primary
   },
@@ -83,66 +108,94 @@ const FeatureList = [
     title: 'IT Automation',
     icon: '⚡',
     description: 'Automate routine IT tasks and workflows',
-    path: '/docs/it-automation',
+    path: '/docs/it-automation/overview',
     count: 40,
     color: colors.primary
+  },
+  {
+    title: 'Desktop Automation',
+    icon: '⚡',
+    description: 'Automate routine desktop tasks',
+    path: '/docs/desktop-automation/overview',
+    count: 40,
+    color: colors.primary
+  },
+  {
+  title: 'Integrations',
+  icon: '🔌',
+  description: 'Connect with other tools and services',
+  path: '/docs/integrations/overview',
+  count: 16,
+  color: colors.primary
   },
   {
     title: 'Live Chat',
     icon: '💬',
     description: 'Real-time customer support features',
-    path: '/docs/live-chat',
+    path: '/docs/live-chat/getting-started',
     count: 32,
-    color: colors.primary
-  },
-  {
-    title: 'Creator Studio',
-    icon: '🎨',
-    description: 'Build and customize chatbot experiences',
-    path: '/docs/creator-studio',
-    count: 44,
-    color: colors.primary
-  },
-  {
-    title: 'Automation Studio',
-    icon: '🤖',
-    description: 'Design and implement automated workflows',
-    path: '/docs/automation-studio',
-    count: 51,
-    color: colors.primary
-  },
-  {
-    title: 'Virtual Agent',
-    icon: '🎭',
-    description: 'Configure and manage AI-powered agents',
-    path: '/docs/virtual-agent',
-    count: 58,
-    color: colors.primary
-  },
-  {
-    title: 'Arena',
-    icon: '🏟️',
-    description: 'Test and train your virtual agents',
-    path: '/docs/arena',
-    count: 34,
-    color: colors.primary
-  },
-  {
-    title: 'Service Portal',
-    icon: '🌐',
-    description: 'Self-service portal configuration',
-    path: '/docs/service-portal',
-    count: 42,
     color: colors.primary
   },
   {
     title: 'Service Catalog',
     icon: '📑',
     description: 'Manage and organize available services',
-    path: '/docs/service-catalog',
+    path: '/docs/service-catalog/overview',
     count: 39,
     color: colors.primary
-  }
+  },
+  {
+    title: 'MSP Guide',
+    icon: '📖',
+    description: 'Manage your MSP effectively',
+    path: '/docs/msp-guide/features-settings',
+    count: 7,
+    color: colors.primary
+  },
+  
+  {
+    title: 'Service Portal',
+    icon: '🌐',
+    description: 'Self-service portal configuration',
+    path: '/docs/service-portal/overview',
+    count: 8,
+    color: colors.primary
+  },
+  {
+    title: 'Aura Insights',
+    icon: '🔍',
+    description: 'Insights into bot performance and ticket management',
+    path: '/docs/aura-insights/overview',
+    count: 10,
+    color: colors.primary
+  },
+  {
+    title: 'Enterprise Search',
+    icon: '🔍',
+    description: 'Search and manage your data effectively',
+    path: '/docs/enterprise-search/overview',
+    count: 5,
+    color: colors.primary
+  },
+  
+  
+  {
+    title: 'Arena',
+    icon: '🏟️',
+    description: 'Test and train your virtual agents',
+    path: '/docs/arena/release-notes',
+    count: 34,
+    color: colors.primary
+  },
+  {
+    title: 'Rezolve Support',
+    icon: '',
+    description: 'Get help and support from Rezolve',
+    path: '/docs/support/overview',
+    count: 34,
+    color: colors.primary
+  },
+  
 ];
 
 function Feature({title, description, icon, path, count, color}) {

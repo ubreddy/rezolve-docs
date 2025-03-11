@@ -1,31 +1,8 @@
 ---
-sidebar_position: 1
+id: overview
+title: Service Portal Overview
+sidebar_label: Portal Overview
+description: Documentation for Service Portal Overview
 ---
 
-# Overview
-
-Content for service-portal - Overview goes here.
-
-## Introduction
-
-This is a placeholder for the service-portal documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+# Service Portal Overview
