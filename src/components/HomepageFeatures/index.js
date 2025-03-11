@@ -33,7 +33,7 @@ const FeatureList = [
   },
   {
     title: 'Bot Administration',
-    icon: '👨‍💻',
+    icon: '🤖',
     description: 'Manage bot settings and configurations',
     path: '/docs/bot-administration/overview',
     count: 17,
@@ -98,7 +98,7 @@ const FeatureList = [
   
   {
     title: 'Automation Studio',
-    icon: '🤖',
+    icon: '⚙️',
     description: 'Design and implement automated workflows',
     path: '/docs/automation-studio/overview',
     count: 12,
@@ -189,7 +189,7 @@ const FeatureList = [
   },
   {
     title: 'Rezolve Support',
-    icon: '',
+    icon: '✅',
     description: 'Get help and support from Rezolve',
     path: '/docs/support/overview',
     count: 5,
