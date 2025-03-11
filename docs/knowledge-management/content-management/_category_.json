@@ -1,0 +1,8 @@
+{
+  "label": "Content Management",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Best practices and guidelines for managing knowledge base content."
+  }
+}

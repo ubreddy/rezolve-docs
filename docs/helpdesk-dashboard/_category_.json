@@ -1,0 +1,8 @@
+{
+  "label": "helpdesk-dashboard",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about the helpdesk dashboard and its features."
+  }
+}

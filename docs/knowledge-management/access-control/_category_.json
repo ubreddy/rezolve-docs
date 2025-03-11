@@ -1,0 +1,8 @@
+{
+  "label": "Access Control",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Manage permissions and access levels for your knowledge base content."
+  }
+}

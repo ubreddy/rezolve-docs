@@ -1,0 +1,8 @@
+{
+  "label": "arena",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Explore the Arena development environment."
+  }
+}

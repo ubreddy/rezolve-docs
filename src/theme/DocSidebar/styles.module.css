@@ -1,0 +1,11 @@
+.customSidebar {
+  border-right: 1px solid #e5e7eb;
+  background-color: #f8f9fa;
+  width: 300px !important;
+  max-width: 300px !important;
+}
+
+[data-theme='dark'] .customSidebar {
+  background-color: #242526;
+  border-right-color: #444950;
+}

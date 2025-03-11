@@ -2,11 +2,12 @@
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const {themes} = require('prism-react-renderer');
+const sidebars = require('./sidebars');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Rezolve.ai Documentation',
-  tagline: 'AI-Powered Service Management',
+  title: 'Documentation Portal',
+  tagline: 'Your central hub for all documentation',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -45,6 +46,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://bitbucket.org/actionablescience/aitsm-public-docs/src/master/',
+          routeBasePath: 'docs',
+          breadcrumbs: true,
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
+          sidebarCollapsible: true,
+          sidebarCollapsed: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,22 +65,42 @@ const config = {
     ({
       // Replace this with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: false,
+        },
+      },
       navbar: {
-        title: 'Rezolve.ai Docs',
+        title: 'Documentation Portal',
         logo: {
-          alt: 'Rezolve.ai Logo',
+          alt: 'Documentation Logo',
           src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'gettingStartedSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Getting Started',
+            docsPluginId: 'default',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'administrationSidebar',
+            position: 'left',
+            label: 'Administration',
+            docsPluginId: 'default',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'knowledgeManagementSidebar',
+            position: 'left',
+            label: 'Knowledge Management',
+            docsPluginId: 'default',          },
+          {
             href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
-            label: 'Bitbucket',
+            label: 'Repository',
             position: 'right',
           },
         ],
@@ -82,28 +109,52 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Documentation',
-                to: '/docs/overview/introduction',
+                label: 'Getting Started',
+                to: '/docs/getting-started/introduction',
+              },
+              {
+                label: 'Knowledge Management',
+                to: '/docs/knowledge-management/uploading-articles',
+              },
+              {
+                label: 'Helpdesk',
+                to: '/docs/helpdesk/ticket-management',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Features',
             items: [
               {
-                label: 'Support',
-                href: 'https://support.rezolve.ai',
+                label: 'Bot Analytics',
+                to: '/docs/bot-analytics/analytics-dashboard',
+              },
+              {
+                label: 'Creator Studio',
+                to: '/docs/creator-studio',
+              },
+              {
+                label: 'Virtual Agent',
+                to: '/docs/virtual-agent',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Resources',
             items: [
               {
-                label: 'Bitbucket',
+                label: 'Service Portal',
+                to: '/docs/service-portal',
+              },
+              {
+                label: 'Service Catalog',
+                to: '/docs/service-catalog',
+              },
+              {
+                label: 'Repository',
                 href: 'https://bitbucket.org/actionablescience/aitsm-public-docs',
               },
             ],

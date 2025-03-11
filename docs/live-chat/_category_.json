@@ -1,0 +1,8 @@
+{
+  "label": "live-chat",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Set up and manage live chat support features."
+  }
+}

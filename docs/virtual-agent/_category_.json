@@ -1,0 +1,8 @@
+{
+  "label": "virtual-agent",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Configure and train your AI-powered virtual agent."
+  }
+}

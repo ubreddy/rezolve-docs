@@ -1,0 +1,8 @@
+{
+  "label": "service-catalog",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Manage your service catalog effectively."
+  }
+}

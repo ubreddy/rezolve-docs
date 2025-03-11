@@ -17,12 +17,25 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/overview/introduction">
-            Get Started with Rezolve.ai
+            to="/docs/getting-started/introduction">
+            Get Started
           </Link>
         </div>
       </div>
     </header>
+  );
+}
+
+function DocSection({ title, path, description }) {
+  return (
+    <div className={clsx('col col--4', styles.docSection)}>
+      <div className={styles.docCard}>
+        <h3>
+          <Link to={path}>{title}</Link>
+        </h3>
+        <p>{description}</p>
+      </div>
+    </div>
   );
 }
 
@@ -31,7 +44,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="AI-powered IT Service Management Documentation">
+      description="Your central hub for all documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
