@@ -364,8 +364,3 @@ This guide provides detailed information on creating and managing audience segme
 
 ## Next Steps
 After mastering audience composition, consider exploring:
-1. [Audience Usage Scenarios](usage-scenarios)
-2. [Audience Management Overview](overview)
-3. [User Management](../user-management)
-4. [Groups Management](../groups-management)
-5. [Content Personalization](../../content-management/personalization)

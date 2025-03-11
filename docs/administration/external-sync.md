@@ -253,8 +253,7 @@ This guide provides detailed instructions for configuring and managing synchroni
 
 ## Next Steps
 After configuring external synchronization, consider exploring:
-1. [User Attributes](user-attributes)
-2. [Groups Management](../groups-management)
-3. [Role-Based Access Control](../role-based-access-control)
-4. [Security Settings](../security-settings)
-5. [Audit Logs](../audit-logs)
+1. [User Attributes](./user-attributes)
+2. [Groups Management](./groups-management)
+3. [Role-Based Access Control](./role-based-access-control)
+4. [Security Settings](./security-settings)

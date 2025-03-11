@@ -382,8 +382,8 @@ This guide provides detailed information on managing roles and permissions withi
 
 ## Next Steps
 After implementing workspace roles, consider exploring:
-1. [User Assignment](user-assignment)
-2. [Workspace Management Overview](overview)
-3. [Usage Scenarios](usage-scenarios)
+1. [User Assignment](./workspace-user-assignment)
+2. [Workspace Management Overview](./workspace-management-overview)
+3. [Usage Scenarios](./workspace-usage-scenarios)
 4. [Role-Based Access Control](../role-based-access-control)
-5. [Teams Management](../teams-management/overview)
+5. [Teams Management](../teams-management/teams-management-overview)

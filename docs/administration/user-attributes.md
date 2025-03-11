@@ -275,8 +275,6 @@ This guide provides detailed information on managing user attributes and profile
 
 ## Next Steps
 After configuring user attributes, consider exploring:
-1. [External System Synchronization](external-sync)
-2. [Groups Management](../groups-management)
-3. [Role-Based Access Control](../role-based-access-control)
-4. [Workspace Management](../workspace-management)
-5. [Audit Logs](../audit-logs)
+1. [Groups Management](./groups-management)
+2. [Role-Based Access Control](./role-based-access-control)
+3. [Workspace Management](./workspace-management/workspace-management-overview)

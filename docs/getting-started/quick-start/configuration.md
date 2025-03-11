@@ -212,5 +212,4 @@ export const measurePerformance = () => {
 ## Next Steps
 
 - Review [First Steps Guide](/docs/getting-started/quick-start/first-steps)
-- Explore [Advanced Configuration](/docs/getting-started/advanced/configuration)
 - Check [Performance Tips](/docs/getting-started/best-practices/performance)

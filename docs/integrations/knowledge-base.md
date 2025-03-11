@@ -223,7 +223,6 @@ _Suggested Image: "best-practices.png" - Best practices checklist_
 _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 
 ## Related Topics
-- [Knowledge Management](../core-concepts/knowledge)
 - [Knowledge Agents](../ai-features/knowledge-agents)
 - [Bot Integration](bot-channels)
 - [System Integration](../core-concepts/integrations)

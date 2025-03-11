@@ -62,7 +62,4 @@ _Suggested Image: "hr-processes.png" - Process flow_
 _Suggested Image: "hr-metrics.png" - Analytics dashboard_
 
 ## Related Topics
-- [Bot Agents](../ai-features/bot-agents)
-- [Knowledge Management](../core-concepts/knowledge)
-- [Workflow Automation](../core-concepts/automation-workflows)
 - [Integration](../portal/integration)

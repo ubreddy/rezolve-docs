@@ -251,7 +251,5 @@ class DataSyncAgent extends BaseAgent {
 _Suggested Image: "example-implementations.png" - Code examples_
 
 ## Related Topics
-- [Bot Agents](bot-agents)
 - [Knowledge Agents](knowledge-agents)
 - [System Integration](../core-concepts/integrations)
-- [Automation Workflows](../core-concepts/automation-workflows)

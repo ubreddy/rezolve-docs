@@ -209,6 +209,7 @@ This guide provides detailed information on configuring and managing platform se
 - Alert configuration
 - Export capabilities
 - Screenshot of audit settings
+- linking to audit-logs (resolved as: /docs/administration/audit-logs)
 
 ### Privacy Controls
 - Data subject rights management
@@ -373,8 +374,5 @@ This guide provides detailed information on configuring and managing platform se
 
 ## Next Steps
 After configuring security settings, consider exploring:
-1. [User Management](user-management)
-2. [Role-Based Access Control](role-based-access-control)
-3. [Audit Logs](audit-logs)
-4. [Compliance Management](compliance-management)
-5. [Incident Response](incident-response)
+1. [User Management](./user-management)
+2. [Role-Based Access Control](./role-based-access-control)

@@ -62,7 +62,5 @@ _Suggested Image: "incident-management.png" - Process flow_
 _Suggested Image: "it-metrics.png" - Analytics dashboard_
 
 ## Related Topics
-- [Bot Agents](../ai-features/bot-agents)
 - [Ticket Automation](../ai-features/ticket-automation)
-- [Knowledge Management](../core-concepts/knowledge)
 - [Integration](../portal/integration)

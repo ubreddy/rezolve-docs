@@ -205,8 +205,9 @@ This guide provides detailed information on the platform's permission matrix, he
 
 ## Next Steps
 After mastering the permission matrix, consider exploring:
-1. [Role-Based Access Control](role-based-access-control)
-2. [Roles and Permissions](roles-permissions)
-3. [Role Assignment](role-assignment)
-4. [User Management](../user-management)
-5. [Audit Logs](../audit-logs)
+1. [Role-Based Access Control](./role-based-access-control)
+2. [Roles and Permissions](./roles-permissions)
+3. [Role Assignment](./role-assignment)
+4. [User Management](./user-management)
+5. [Workspace Management](./workspace-management/workspace-management-overview)
+6. [Security Settings](./security-settings)

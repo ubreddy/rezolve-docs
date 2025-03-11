@@ -205,7 +205,5 @@ _Suggested Image: "best-practices.png" - Best practices checklist_
 _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 
 ## Related Topics
-- [Bot Agents](bot-agents)
 - [Ticket Automation](ticket-automation)
 - [System Integration](../core-concepts/integrations)
-- [Workflow Automation](../core-concepts/automation-workflows)

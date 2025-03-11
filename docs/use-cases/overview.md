@@ -225,5 +225,3 @@ _Suggested Image: "success-metrics.png" - Analytics dashboard_
 ## Related Topics
 - [Service Portal](../portal/overview)
 - [Security & Access](../security/overview)
-- [Bot Agents](../ai-features/bot-agents)
-- [Knowledge Management](../core-concepts/knowledge)

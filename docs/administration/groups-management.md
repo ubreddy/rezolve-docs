@@ -272,8 +272,5 @@ This guide provides detailed information on creating, managing, and utilizing us
 
 ## Next Steps
 After implementing groups management, consider exploring:
-1. [Role-Based Access Control](role-based-access-control)
-2. [User Management](user-management)
-3. [Audience Management](audience-management)
-4. [Workspace Management](workspace-management)
-5. [Teams Management](teams-management)
+1. [Role-Based Access Control](./role-based-access-control)
+2. [User Management](./user-management)

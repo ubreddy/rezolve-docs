@@ -224,7 +224,5 @@ _Suggested Image: "best-practices.png" - Best practices checklist_
 _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 
 ## Related Topics
-- [System of Records](../core-concepts/system-of-records)
 - [Bot Integration](bot-channels)
-- [Automation Workflows](../core-concepts/automation-workflows)
 - [Custom Agents](../ai-features/custom-agents)

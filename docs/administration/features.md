@@ -1,31 +1,10 @@
 ---
-sidebar_position: 3
+id: features
+title: Features
+sidebar_label: Features
+description: Comprehensive guide to features within the platform
 ---
 
-# Key Features
+# Features
 
-Content for administration - Key Features goes here.
-
-## Introduction
-
-This is a placeholder for the administration documentation.
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-
-Detailed usage instructions will be provided here.
-
-## Best Practices
-
-Best practices and recommendations will be listed here.
-
-## Related Topics
-
-- Related topic 1
-- Related topic 2
-- Related topic 3
+This guide provides detailed information on features within the platform, including creation, authentication, provisioning, and lifecycle management.

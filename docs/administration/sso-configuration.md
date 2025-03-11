@@ -243,8 +243,7 @@ This guide provides detailed instructions for configuring Single Sign-On (SSO) a
 
 ## Next Steps
 After configuring SSO, consider exploring:
-1. [External System Synchronization](external-sync)
-2. [User Attributes](user-attributes)
-3. [Multi-Factor Authentication](multi-factor-authentication)
-4. [Security Settings](../security-settings)
-5. [Audit Logs](../audit-logs)
+1. [External System Synchronization](./external-sync)
+2. [User Attributes](./user-attributes)
+3. [Security Settings](./security-settings)
+

@@ -279,8 +279,4 @@ This guide provides a comprehensive overview of the platform's audience manageme
 
 ## Next Steps
 After understanding audience management overview, consider exploring:
-1. [Audience Composition](composition)
-2. [Audience Usage Scenarios](usage-scenarios)
-3. [User Management](../user-management)
-4. [Groups Management](../groups-management)
-5. [Content Personalization](../../content-management/personalization)
+1

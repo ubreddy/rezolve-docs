@@ -70,7 +70,4 @@ _Suggested Image: "industry-solutions.png" - Solution architecture_
 _Suggested Image: "success-metrics.png" - Analytics dashboard_
 
 ## Related Topics
-- [Bot Agents](../ai-features/bot-agents)
-- [Knowledge Management](../core-concepts/knowledge)
-- [Workflow Automation](../core-concepts/automation-workflows)
 - [Integration](../portal/integration)

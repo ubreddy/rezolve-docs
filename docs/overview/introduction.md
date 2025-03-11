@@ -40,7 +40,7 @@ Transform your knowledge base with:
 
 ## Getting Started
 
-Ready to begin? Check out our [Getting Started](/docs/getting-started/registration) guide to:
+Ready to begin? Check out our [Getting Started](../getting-started/registration-guide) guide to:
 1. Register your organization
 2. Set up teams and queues
 3. Configure your knowledge base

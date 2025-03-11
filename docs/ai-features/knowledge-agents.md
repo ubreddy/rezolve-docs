@@ -133,8 +133,6 @@ _Suggested Image: "ai-capabilities.png" - AI features diagram_
 ## Integration Features
 
 ### 1. System Integration
-- [Knowledge Base](../getting-started/knowledge-base)
-- [Bot System](../getting-started/using-bot)
 - External sources
 - Content management systems
 
@@ -224,7 +222,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 _Suggested Image: "advanced-features.png" - Advanced features overview_
 
 ## Related Topics
-- [Knowledge Management](../core-concepts/knowledge)
-- [Bot Agents](bot-agents)
 - [Custom Agents](custom-agents)
-- [System Integration](../core-concepts/integrations)

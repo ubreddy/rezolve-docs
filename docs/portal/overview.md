@@ -164,4 +164,3 @@ _Suggested Image: "best-practices.png" - Implementation guide_
 - [Security & Access](../security/overview)
 - [Use Cases](../use-cases/overview)
 - [Bot Integration](../integrations/bot-channels)
-- [Knowledge Management](../core-concepts/knowledge)

@@ -62,7 +62,5 @@ _Suggested Image: "msp-delivery.png" - Service delivery flow_
 _Suggested Image: "msp-metrics.png" - Analytics dashboard_
 
 ## Related Topics
-- [Bot Agents](../ai-features/bot-agents)
 - [Ticket Automation](../ai-features/ticket-automation)
-- [Knowledge Management](../core-concepts/knowledge)
 - [Integration](../portal/integration)

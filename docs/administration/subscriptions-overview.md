@@ -125,7 +125,7 @@ This guide provides a comprehensive overview of the platform's subscription opti
 - Integration options
 - Analytics capabilities
 - Best practices
-- Link to [Knowledge Management Module Guide](../knowledge-management/introduction)
+- Link to [Knowledge Management Module Guide](../knowledge-management/overview)
 
 ### Helpdesk Module
 - Ticket management capabilities
@@ -134,7 +134,7 @@ This guide provides a comprehensive overview of the platform's subscription opti
 - Reporting capabilities
 - Integration options
 - Best practices
-- Link to [Helpdesk Module Guide](../helpdesk/introduction)
+- Link to [Helpdesk Module Guide](../helpdesk/overview)
 
 ### Virtual Agent Module
 - Conversational capabilities
@@ -143,16 +143,7 @@ This guide provides a comprehensive overview of the platform's subscription opti
 - Analytics features
 - Integration options
 - Best practices
-- Link to [Virtual Agent Module Guide](../virtual-agent/introduction)
-
-### Analytics Module
-- Reporting capabilities
-- Dashboard customization
-- Data export options
-- Scheduled reports
-- Custom metrics
-- Best practices
-- Link to [Analytics Module Guide](../analytics/introduction)
+- Link to [Virtual Agent Module Guide](../virtual-agent/overview)
 
 ## Best Practices
 
@@ -205,7 +196,3 @@ This guide provides a comprehensive overview of the platform's subscription opti
 
 ## Next Steps
 After reviewing this overview, consider exploring these specific subscription-related topics:
-1. [Role-Based Access Control](role-based-access-control)
-2. [User Management](user-management)
-3. [Features Enablement](features-enablement)
-4. [Billing and Invoicing](billing-invoicing)

@@ -355,8 +355,7 @@ This guide provides a comprehensive overview of the platform's workspace managem
 
 ## Next Steps
 After understanding workspace management overview, consider exploring:
-1. [Workspace Roles](space-roles)
-2. [User Assignment](user-assignment)
-3. [Usage Scenarios](usage-scenarios)
-4. [Teams Management](../teams-management/overview)
-5. [Content Management](../../content-management/overview)
+1. [Workspace Roles](./workspace-space-roles)
+2. [User Assignment](./workspace-user-assignment)
+3. [Usage Scenarios](./workspace-usage-scenarios)
+4. [Teams Management](../teams-management/teams-management-overview)

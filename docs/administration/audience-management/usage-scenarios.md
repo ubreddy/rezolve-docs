@@ -315,8 +315,3 @@ This guide provides practical examples and use cases for implementing audience m
 
 ## Next Steps
 After exploring audience usage scenarios, consider:
-1. [Audience Composition](composition)
-2. [Audience Management Overview](overview)
-3. [Content Personalization](../../content-management/personalization)
-4. [User Management](../user-management)
-5. [Analytics and Reporting](../../analytics/overview)

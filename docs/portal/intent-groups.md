@@ -64,5 +64,4 @@ _Suggested Image: "intent-best-practices.png" - Design guidelines_
 ## Related Topics
 - [Audience](audience)
 - [Offers & Intent Groups](offers-intent-groups)
-- [Bot Agents](../ai-features/bot-agents)
 - [Integration](integration)

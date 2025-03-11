@@ -393,8 +393,5 @@ This guide provides a comprehensive overview of the platform's teams management 
 
 ## Next Steps
 After understanding teams management overview, consider exploring:
-1. [Team Roles](team-roles)
-2. [Team Communication](team-communication)
-3. [Team Workflows](team-workflows)
-4. [Workspace Management](../workspace-management/overview)
-5. [User Management](../user-management)
+1. [Workspace Management](../workspace-management/workspace-management-overview)
+2. [User Management](../user-management)

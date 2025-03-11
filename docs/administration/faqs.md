@@ -254,8 +254,8 @@ This guide provides detailed information on managing users within the platform, 
 
 ## Next Steps
 After implementing user management, consider exploring:
-1. [SSO Configuration](sso-configuration)
-2. [External System Synchronization](external-sync)
-3. [User Attributes](user-attributes)
-4. [Groups Management](../groups-management)
-5. [Role-Based Access Control](../role-based-access-control)
+1. [SSO Configuration](./sso-configuration)
+2. [External System Synchronization](./external-sync)
+3. [User Attributes](./user-attributes)
+4. [Groups Management](./groups-management)
+5. [Role-Based Access Control](./role-based-access-control)

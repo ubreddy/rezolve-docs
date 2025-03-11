@@ -335,8 +335,5 @@ This guide provides detailed information on customizing the platform's appearanc
 
 ## Next Steps
 After implementing branding and customization, consider exploring:
-1. [Settings Management](settings-management)
-2. [User Experience Configuration](../user-experience/configuration)
-3. [Workspace Management](workspace-management/overview)
-4. [Mobile Experience](../mobile/overview)
-5. [Client Portal Setup](../client-portal/setup)
+1. [Settings Management](./settings-management)
+2. [Workspace Management](./workspace-management/workspace-management-overview)

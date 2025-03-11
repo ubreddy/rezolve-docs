@@ -33,6 +33,4 @@ Rezolve.ai is built on a modern, scalable architecture that combines:
 
 ## Next Steps
 
-- Learn about our [System of Records](../system-of-records.md)
-- Explore [Automation Workflows](../automation-workflows.md)
-- Understand our [Integrations](../integrations.md)
+- Explore [Integrations](../integrations.md)

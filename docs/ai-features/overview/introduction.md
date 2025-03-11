@@ -33,6 +33,5 @@ Discover the powerful AI capabilities of Rezolve.ai that enhance service deliver
 
 ## Getting Started
 
-- Explore [Bot Agents](../bot-agents.md)
 - Learn about [Ticket Automation](../ticket-automation.md)
 - Discover [Knowledge Agents](../knowledge-agents.md)

@@ -130,7 +130,6 @@ _Suggested Image: "automation-workflow.png" - End-to-end workflow diagram_
 - Reporting tools
 
 ### 2. Agent Integration
-- [Bot Agents](bot-agents)
 - [Email Agents](email-agents)
 - Custom integrations
 - Third-party tools
@@ -193,7 +192,5 @@ _Suggested Image: "best-practices.png" - Best practices checklist_
 _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 
 ## Related Topics
-- [Bot Agents](bot-agents)
 - [Email Agents](email-agents)
 - [Knowledge Agents](knowledge-agents)
-- [Workflow Automation](../core-concepts/automation-workflows)

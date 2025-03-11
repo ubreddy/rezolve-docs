@@ -301,8 +301,7 @@ This guide provides detailed instructions for configuring and managing role assi
 
 ## Next Steps
 After implementing group role assignments, consider exploring:
-1. [User Management](user-management)
-2. [Role-Based Access Control](role-based-access-control)
-3. [Audience Management](audience-management)
-4. [Workspace Management](workspace-management)
-5. [Security Settings](security-settings)
+1. [Role-Based Access Control](./role-based-access-control)
+2. [Audience Management](./audience-management/audience-management-overview)
+3. [Workspace Management](./workspace-management/workspace-management-overview)
+4. [Security Settings](./security-settings)

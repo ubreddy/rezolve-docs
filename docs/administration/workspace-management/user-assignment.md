@@ -393,8 +393,8 @@ This guide provides detailed information on assigning users to workspaces and ma
 
 ## Next Steps
 After implementing user assignment, consider exploring:
-1. [Space Roles](space-roles)
-2. [Workspace Management Overview](overview)
-3. [Usage Scenarios](usage-scenarios)
+1. [Space Roles](./workspace-space-roles)
+2. [Workspace Management Overview](./workspace-management-overview)
+3. [Usage Scenarios](./workspace-usage-scenarios)
 4. [User Management](../user-management)
 5. [Groups Management](../groups-management)

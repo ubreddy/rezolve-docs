@@ -256,7 +256,6 @@ _Suggested Image: "best-practices.png" - Best practices checklist_
 _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 
 ## Related Topics
-- [Bot Agents](../ai-features/bot-agents)
 - [Custom Agents](../ai-features/custom-agents)
 - [System Integration](../core-concepts/integrations)
 - [Bot Architecture](../core-concepts/bot)

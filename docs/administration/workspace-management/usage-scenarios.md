@@ -353,8 +353,7 @@ This guide provides practical examples and use cases for implementing workspaces
 
 ## Next Steps
 After exploring workspace usage scenarios, consider:
-1. [Workspace Management Overview](overview)
-2. [Space Roles](space-roles)
-3. [User Assignment](user-assignment)
-4. [Teams Management](../teams-management/overview)
-5. [Content Management](../../content-management/overview)
+1. [Workspace Management Overview](./workspace-management-overview)
+2. [Space Roles](./workspace-space-roles)
+3. [User Assignment](./workspace-user-assignment)
+4. [Teams Management](../teams-management/teams-management-overview)

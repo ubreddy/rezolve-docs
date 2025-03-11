@@ -232,8 +232,8 @@ This guide provides a detailed explanation of the platform's roles and permissio
 
 ## Next Steps
 After understanding roles and permissions, consider exploring:
-1. [Role Assignment](role-assignment)
-2. [Permission Matrix](permission-matrix)
-3. [User Management](../user-management)
-4. [Groups Management](../groups-management)
-5. [Security Settings](../security-settings)
+1. [Role Assignment](./role-assignment)
+2. [Permission Matrix](./permission-matrix)
+3. [User Management](./user-management)
+4. [Groups Management](./groups-management)
+5. [Security Settings](./security-settings)

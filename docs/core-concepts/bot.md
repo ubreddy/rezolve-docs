@@ -43,15 +43,8 @@ _Suggested Image: "agent-orchestration.png" - Agent interaction flow_
 
 ## Bot Agents
 
-### 1. Core Agents
-- [Intent Action Agent](../ai-features/bot-agents#intent-action-agent)
-- [Strategy Response Agent](../ai-features/bot-agents#strategy-response-agent)
-- [Contextual Conversation Agent](../ai-features/bot-agents#contextual-conversation-agent)
 
 ### 2. Specialized Agents
-- [Knowledge Result Agent](../ai-features/bot-agents#knowledge-result-agent)
-- [Ticket Support Agent](../ai-features/bot-agents#support-ticket-agent)
-- [Service Dialogue Agent](../ai-features/bot-agents#service-dialogue-agent)
 
 _Suggested Image: "agent-types.png" - Agent hierarchy and relationships_
 
@@ -85,9 +78,6 @@ _Suggested Image: "context-management.png" - Context handling diagram_
 - Custom channels
 
 ### 2. System Integration
-- [Knowledge Base](knowledge)
-- [Ticket System](../getting-started/ticket-types)
-- [Automation Workflows](automation-workflows)
 - External systems
 
 _Suggested Image: "integration-points.png" - Integration architecture_
@@ -163,7 +153,5 @@ _Suggested Image: "security-features.png" - Security implementation diagram_
 _Suggested Image: "bot-best-practices.png" - Best practices checklist_
 
 ## Related Topics
-- [Using the Bot](../getting-started/using-bot)
-- [Bot Agents](../ai-features/bot-agents)
 - [Bot Channels](../integrations/bot-channels)
 - [Custom Agents](../ai-features/custom-agents)
