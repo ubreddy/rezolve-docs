@@ -385,5 +385,5 @@ After implementing workspace roles, consider exploring:
 1. [User Assignment](./workspace-user-assignment)
 2. [Workspace Management Overview](./workspace-management-overview)
 3. [Usage Scenarios](./workspace-usage-scenarios)
-4. [Role-Based Access Control](../role-based-access-control)
+4. [Role-Based Access Control](../rbac/role-based-access-control)
 5. [Teams Management](../teams-management/teams-management-overview)

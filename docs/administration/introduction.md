@@ -120,7 +120,7 @@ This guide provides an overview of the platform's administration capabilities, h
 
 ## Next Steps
 After reviewing this introduction, consider exploring these specific administration areas:
-1. [Role-Based Access Control](./role-based-access-control)
+1. [Role-Based Access Control](./rbac/role-based-access-control)
 2. [User Management](./user-management)
 3. [Workspace Management](./workspace-management/workspace-management-overview)
 4. [Security Settings](./security-settings)

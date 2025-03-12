@@ -397,4 +397,4 @@ After implementing user assignment, consider exploring:
 2. [Workspace Management Overview](./workspace-management-overview)
 3. [Usage Scenarios](./workspace-usage-scenarios)
 4. [User Management](../user-management)
-5. [Groups Management](../groups-management)
+5. [Groups Management](../groups/groups-management)

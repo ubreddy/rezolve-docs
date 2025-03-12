@@ -1,11 +1,11 @@
 ---
-id: subscriptions-overview
-title: Overview of Subscriptions
+id: subscriptions-mgmt
+title: Subscriptions Management
 sidebar_label: Subscriptions Overview
 description: Comprehensive guide to understanding and managing platform subscriptions
 ---
 
-# Overview of Subscriptions
+# Subscriptions Management
 
 This guide provides a comprehensive overview of the platform's subscription options, helping administrators understand the available plans, features, and management capabilities.
 

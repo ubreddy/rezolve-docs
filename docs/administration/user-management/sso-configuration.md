@@ -245,5 +245,5 @@ This guide provides detailed instructions for configuring Single Sign-On (SSO) a
 After configuring SSO, consider exploring:
 1. [External System Synchronization](./external-sync)
 2. [User Attributes](./user-attributes)
-3. [Security Settings](./security-settings)
+3. [Security Settings](../security-settings)
 

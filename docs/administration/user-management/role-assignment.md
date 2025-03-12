@@ -225,8 +225,8 @@ This guide provides detailed instructions on how to assign roles to users and gr
 
 ## Next Steps
 After implementing role assignment, consider exploring:
-1. [Permission Matrix](./permission-matrix)
-2. [User Management](./user-management)
-3. [Groups Management](./groups-management) 
-4. [Workspace Management](./workspace-management/workspace-management-overview)
-5. [Security Settings](./security-settings)
+1. [Permission Matrix](../rbac/permission-matrix)
+2. [User Management](./)
+3. [Groups Management](../groups/groups-management) 
+4. [Workspace Management](../workspace-management/workspace-management-overview)
+5. [Security Settings](../security-settings)

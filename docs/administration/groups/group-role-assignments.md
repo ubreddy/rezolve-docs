@@ -300,8 +300,3 @@ This guide provides detailed instructions for configuring and managing role assi
 - Audit trail example
 
 ## Next Steps
-After implementing group role assignments, consider exploring:
-1. [Role-Based Access Control](./role-based-access-control)
-2. [Audience Management](./audience-management/audience-management-overview)
-3. [Workspace Management](./workspace-management/workspace-management-overview)
-4. [Security Settings](./security-settings)

@@ -282,8 +282,3 @@ This guide provides detailed instructions for configuring and managing group syn
 
 ## Next Steps
 After configuring group synchronization, consider exploring:
-1. [Group-Level Role Assignments](./group-role-assignments)
-2. [User Management](./user-management)
-3. [Role-Based Access Control](./role-based-access-control)
-4. [Workspace Management](./workspace-management/workspace-management-overview)
-5. [Teams Management](./teams-management/teams-management-overview)

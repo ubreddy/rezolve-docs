@@ -80,36 +80,37 @@ module.exports = {
         },
         {
           type: 'doc',
-          id: 'administration/subscriptions-overview',
-          label: 'Overview of Subscriptions'
+          id: 'administration/subscriptions-mgmt',
+          label: 'Subscriptions Management'
         },
         {
           type: 'category',
           label: 'Role-Based Access Control',
           items: [
-            'administration/role-based-access-control',
-            'administration/roles-permissions',
-            'administration/role-assignment',
-            'administration/permission-matrix'
+            'administration/rbac/role-based-access-control',
+            'administration/rbac/permissions',
+            'administration/rbac/roles',
+            'administration/rbac/roles-permissions',
+            'administration/rbac/permission-matrix'
           ]
         },
         {
           type: 'category',
           label: 'User Management',
           items: [
-            'administration/user-management',
-            'administration/sso-configuration',
-            'administration/external-sync',
-            'administration/user-attributes'
+            'administration/user-management/user-management',
+            'administration/user-management/sso-configuration',
+            'administration/user-management/external-sync',
+            'administration/user-management/user-attributes'
           ]
         },
         {
           type: 'category',
           label: 'Groups Management',
           items: [
-            'administration/groups-management',
-            'administration/sync-groups',
-            'administration/group-role-assignments'
+            'administration/groups/groups-management',
+            'administration/groups/sync-groups',
+            'administration/groups/group-role-assignments'
           ]
         },
         {

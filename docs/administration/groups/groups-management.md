@@ -271,6 +271,3 @@ This guide provides detailed information on creating, managing, and utilizing us
 - Resolution documentation
 
 ## Next Steps
-After implementing groups management, consider exploring:
-1. [Role-Based Access Control](./role-based-access-control)
-2. [User Management](./user-management)

@@ -367,5 +367,5 @@ After configuring platform settings, consider exploring:
 1. [Branding and Customization](./branding-customization)
 2. [Security Settings](./security-settings)
 3. [User Management](./user-management)
-4. [Role-Based Access Control](./role-based-access-control)
+4. [Role-Based Access Control](./rbac/role-based-access-control)
 

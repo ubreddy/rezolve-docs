@@ -196,7 +196,7 @@ This guide provides a comprehensive overview of the platform's role-based access
 
 ## Next Steps
 After implementing RBAC, consider exploring these related topics:
-1. [User Management](./user-management)
-2. [Groups Management](./groups-management)
-3. [Workspace Management](./workspace-management/workspace-management-overview)
-4. [Security Settings](./security-settings)
+1. [User Management](../user-management)
+2. [Groups Management](../groups/groups-management)
+3. [Workspace Management](../workspace-management/workspace-management-overview)
+4. [Security Settings](../security-settings)

@@ -5,7 +5,7 @@ sidebar_label: Introduction
 description: Welcome to our comprehensive documentation portal
 ---
 
-# Context {#context}
+# Introduction
 
 Rezolve platform has multiple modules.
 This is a quick setup guide to help you get started with the platform 
@@ -13,22 +13,22 @@ This is a quick setup guide to help you get started with the platform
 Since it has multiple modules you can get started with any of the modules. To make it easier the guide will cover the most common use cases.
 
 
-# Use cases
+## Use cases
 
-## Common Steps across all use cases {#common-steps}
+### Common Steps across all use cases {#common-steps}
  1. [Register](./registration-guide)
  2. [Manage users and audiences](./manage-users-audience)
 
-## Common steps for all Bot related use cases {#common-bot-steps}
+### Common steps for all Bot related use cases {#common-bot-steps}
 
 * [Configure Bot Channels](./configure-bot-channels)
 * [Configure Bot optionally](./configure-bot)
 
-## Common for all knowledge use cases {#common-knowledge-steps}
+### Common for all knowledge use cases {#common-knowledge-steps}
 
 * [Manage Knowledge Base](./knowledge-ingest)
 
-## Bot for Answering from Knowledge
+### 1. Bot for Answering from Knowledge
 
 Steps:
  1. [Common steps](#common-steps)
@@ -40,7 +40,7 @@ Steps:
  7. [Check Bot Metrics](./bot-efficiency)
  8. Iterate from step 4
 
-## Bot for Answering and Helpdesk
+### 2. Bot for Answering and Helpdesk
 
 Steps:
  1. [Common steps](#common-steps)
@@ -54,7 +54,7 @@ Steps:
  9. [Check Bot Metrics](./bot-efficiency)
  
 
-## Bot and Live Chat
+### 3. Bot and Live Chat
 
 Steps: 
  1. [Common steps](#common-steps)
@@ -65,7 +65,7 @@ Steps:
  5. [Test Live Chat](./check-live-chat)
  6. [Check Live Chat Metrics](./live-chat-efficiency)
 
-## Helpdesk
+### 4. Helpdesk
 Steps:
  1. [Common steps](#common-steps)
  2. [Common knowledge steps](#common-knowledge-steps)
@@ -75,14 +75,14 @@ Steps:
  6. [Try the Service Portal](./try-helpdesk)
  7. [Check Agent Metrics](./agent-efficiency)
  
-## Insights
+### 5. Insights
 Steps:
  1. [Common steps](#common-steps)
  2. [Common bot steps](#common-bot-steps)
  3. [Subscribe to Insights](./subscriptions#insights-subscription)
  4. [Integrate with Ticketing System](./integrations#integrate-ticketing-system)
  5. [Try Insights](./try-insights)
-## Knowledge and Enterprise Search
+### 6. Knowledge and Enterprise Search
 Steps:
  1. [Common steps](#common-steps)
  2. [Common knowledge steps](#common-knowledge-steps)

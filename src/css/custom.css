@@ -87,8 +87,12 @@
 
 /* Main content area */
 .markdown {
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.4;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 40px;
+  
 }
 
 .markdown p {
@@ -110,6 +114,13 @@
   font-size: 12px;
   line-height: 1.2;
 }
+
+.article {
+  text-align: center;
+  
+}
+/* Add left and right margins to the content */
+
 
 .table-of-contents__link {
   padding: 4px 8px;

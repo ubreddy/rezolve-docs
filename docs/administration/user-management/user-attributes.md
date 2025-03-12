@@ -275,6 +275,6 @@ This guide provides detailed information on managing user attributes and profile
 
 ## Next Steps
 After configuring user attributes, consider exploring:
-1. [Groups Management](./groups-management)
-2. [Role-Based Access Control](./role-based-access-control)
-3. [Workspace Management](./workspace-management/workspace-management-overview)
+1. [Groups Management](../groups/groups-management)
+2. [Role-Based Access Control](../rbac/role-based-access-control)
+3. [Workspace Management](../workspace-management/workspace-management-overview)
