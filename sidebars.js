@@ -18,6 +18,7 @@ module.exports = {
           id: 'getting-started/registration-guide',
           label: 'Registration'
         },
+        {type: 'doc', id: 'getting-started/manage-users-audience', label: 'Manage Users and Audience'},
         {
           type: 'doc',
           id: 'getting-started/subscriptions',
@@ -39,13 +40,18 @@ module.exports = {
           id: 'getting-started/setup-teams-queues',
           label: 'Setup Teams and Queues'
         },
-        
+        {
+          type: 'doc',
+          id: 'getting-started/knowledge-ingest',
+          label: 'Ingest Knowledge'
+        },
         { type: 'category', label: 'Test', items: [
           'getting-started/try-helpdesk',
           'getting-started/check-live-chat',
           'getting-started/check-search',
           'getting-started/try-insights',
-          'getting-started/use-the-bot'
+          'getting-started/use-the-bot',
+          'getting-started/check-gaps'
         ]},
         {
           type: 'category',
