@@ -20,7 +20,7 @@ const FeatureList = [
     icon: '🚀',
     description: 'Get Started with Rezolve platform',
     path: '/docs/getting-started/introduction',
-    count: 13,
+    count: 21,
     color: colors.primary
   },
   {

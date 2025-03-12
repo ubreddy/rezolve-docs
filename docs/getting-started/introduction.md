@@ -5,66 +5,91 @@ sidebar_label: Introduction
 description: Welcome to our comprehensive documentation portal
 ---
 
-# Content Plan
+# Context {#context}
 
 Rezolve platform has multiple modules.
 This is a quick setup guide to help you get started with the platform 
 
+Since it has multiple modules you can get started with any of the modules. To make it easier the guide will cover the most common use cases.
 
 
+# Use cases
+
+## Common Steps across all use cases {#common-steps}
+ 1. [Register](./registration-guide)
+ 2. [Manage users and audiences](./manage-users-audience)
+
+## Common steps for all Bot related use cases {#common-bot-steps}
+
+* [Configure Bot Channels](./configure-bot-channels)
+* [Configure Bot optionally](./configure-bot)
+
+## Common for all knowledge use cases {#common-knowledge-steps}
+
+* [Manage Knowledge Base](./knowledge-ingest)
+
+## Bot for Answering from Knowledge
+
+Steps:
+ 1. [Common steps](#common-steps)
+ 2. [Common bot steps](#common-bot-steps)
+ 3. [Subscribe to Knowledge](./subscriptions)
+ 4. [Common knowledge steps](#common-knowledge-steps)
+ 5. [Test the bot](./use-the-bot)
+ 6. [Check Gaps](./check-gaps)
+ 7. [Check Bot Metrics](./bot-efficiency)
+ 8. Iterate from step 4
+
+## Bot for Answering and Helpdesk
+
+Steps:
+ 1. [Common steps](#common-steps)
+ 2. [Common bot steps](#common-bot-steps)
+ 3. [Subscribe to Knowledge and Helpdesk](./subscriptions)
+ 4. [Common knowledge steps](#common-knowledge-steps)
+ 5. [Setup Teams and Queues](./setup-teams-queues)
+ 6. [Enable and configure desired Ticket types](./configure-catalog)
+ 7. [Test the bot](./use-the-bot)
+ 8. [Check Gaps](./check-gaps)
+ 9. [Check Bot Metrics](./bot-efficiency)
+ 
+
+## Bot and Live Chat
+
+Steps: 
+ 1. [Common steps](#common-steps)
+ 2. [Common bot steps](#common-bot-steps)
+ 3. [Subscribe to Live Chat](./subscriptions#live-chat-subscription)
+ 3. [Setup Teams and Queues](./setup-teams-queues)
+ 4. [Setup Live Chat](./configure-live-chat)
+ 5. [Test Live Chat](./check-live-chat)
+ 6. [Check Live Chat Metrics](./live-chat-efficiency)
+
+## Helpdesk
+Steps:
+ 1. [Common steps](#common-steps)
+ 2. [Common knowledge steps](#common-knowledge-steps)
+ 3. [Subscribe to Helpdesk](./subscriptions#helpdesk-subscription)
+ 4. [Setup Teams and Queues](./setup-teams-queues)
+ 5. [Enable and configure desired Ticket types](./configure-catalog)
+ 6. [Try the Service Portal](./try-helpdesk)
+ 7. [Check Agent Metrics](./agent-efficiency)
+ 
+## Insights
+Steps:
+ 1. [Common steps](#common-steps)
+ 2. [Common bot steps](#common-bot-steps)
+ 3. [Subscribe to Insights](./subscriptions#insights-subscription)
+ 4. [Integrate with Ticketing System](./integrations#integrate-ticketing-system)
+ 5. [Try Insights](./try-insights)
+## Knowledge and Enterprise Search
+Steps:
+ 1. [Common steps](#common-steps)
+ 2. [Common knowledge steps](#common-knowledge-steps)
+ 3. [Subscribe to Search](./subscriptions#search-subscription)
+ 3. [Check Search](./check-search)
 
 
-# Introduction
+There are other advanced use cases that are not covered in this gettign started guide like IT automation, Desktop Automation, Creator Studio etc. 
 
-Welcome to our comprehensive documentation portal. This guide will help you navigate through our extensive documentation and find the information you need quickly and efficiently.
-
-## Documentation Structure
-
-Our documentation is organized into several key sections:
-
-### Getting Started
-Essential information to help you begin using our platform effectively.
-
-### Knowledge Management
-Learn how to organize, create, and maintain your knowledge base effectively.
-
-### Helpdesk
-Comprehensive guide to managing support tickets and customer inquiries.
-
-### Bot Analytics
-Detailed analytics and insights about bot performance and user interactions.
-
-### Additional Features
-
-- **Announcements**: Stay updated with the latest features and changes
-- **Administration**: Manage system settings and user permissions
-- **Helpdesk Dashboard**: Monitor and manage support operations
-- **Integrations**: Connect with other tools and services
-- **IT Automation**: Automate routine IT tasks and workflows
-- **Live Chat**: Real-time customer support features
-- **Creator Studio**: Build and customize chatbot experiences
-- **Automation Studio**: Design and implement automation workflows
-- **Virtual Agent**: Configure and manage AI-powered agents
-- **Arena**: Collaborative space for team activities
-- **Service Portal**: Self-service portal configuration
-- **Service Catalog**: Manage and organize available services
-
-## How to Use This Documentation
-
-1. **Navigation**: Use the sidebar on the left to browse through different sections
-2. **Search**: Use the search bar at the top to find specific topics
-3. **Breadcrumbs**: Follow the breadcrumb trail at the top of each page to understand your current location
-4. **Links**: Click on related links within pages to explore connected topics
-
-## Getting Help
-
-If you can't find what you're looking for, try these options:
-
-1. Use the search function at the top of the page
-2. Check the related articles in each section
-3. Look for examples and tutorials in specific feature documentation
-4. Contact support if you need additional assistance
-
-## Contributing to the Documentation
-
-We welcome contributions to improve our documentation. If you find any issues or have suggestions for improvement, please use the "Edit this page" link at the bottom of each documentation page.
+For these refer to respective detailed user guides.

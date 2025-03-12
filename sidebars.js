@@ -25,46 +25,39 @@ module.exports = {
         },
         {
           type: 'category',
-          label: 'Try Knowledge',
+          label: 'Configurations',
           items: [
-            'getting-started/try-knowledge',
-            'getting-started/knowledge-ingest'
+            'getting-started/configure-bot',
+            'getting-started/configure-bot-channels',
+            'getting-started/configure-catalog',
+            'getting-started/configure-live-chat',
+            'getting-started/integrations'
           ]
-        },
-        {
-          type: 'doc',
-          id: 'getting-started/try-helpdesk',
-          label: 'Try Helpdesk'
         },
         {
           type: 'doc',
           id: 'getting-started/setup-teams-queues',
           label: 'Setup Teams and Queues'
         },
-        {
-          type: 'doc',
-          id: 'getting-started/use-the-bot',
-          label: 'Use the Bot'
-        },
-        {
-          type: 'doc',
-          id: 'getting-started/check-bot-service-portal',
-          label: 'Check Bot and Service Portal'
-        },
+        
+        { type: 'category', label: 'Test', items: [
+          'getting-started/try-helpdesk',
+          'getting-started/check-live-chat',
+          'getting-started/check-search',
+          'getting-started/try-insights',
+          'getting-started/use-the-bot'
+        ]},
         {
           type: 'category',
           label: 'Check Metrics',
           items: [
             'getting-started/check-metrics',
             'getting-started/bot-efficiency',
-            'getting-started/agent-efficiency'
+            'getting-started/agent-efficiency',
+            'getting-started/live-chat-efficiency'
           ]
         },
-        {
-          type: 'doc',
-          id: 'getting-started/check-genai-features',
-          label: 'Check GenAI Features'
-        }
+        
         
       ]
     }

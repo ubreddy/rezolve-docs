@@ -5,58 +5,43 @@ sidebar_label: Registration
 description: Step-by-step guide to register and set up your account
 ---
 
-# Registration Guide
+# Registration
 
-This guide provides a comprehensive walkthrough of the registration process for new users, helping you set up your account quickly and efficiently.
+## Inputs needed
 
-## Account Creation
+1. Business email
+2. Valid phone number
+3. Company name
 
-1. **Navigate to the Registration Page**
-   - Visit the platform's registration page at [platform-url.com/register](https://platform-url.com/register)
-   - Click on the "Sign Up" or "Create Account" button
 
-2. **Enter Your Information**
-   - Fill in your personal and business information
-   - Provide a valid email address that you have access to
-   - Create a strong password following the security guidelines
+## Steps
 
-3. **Verify Your Email**
-   - Check your inbox for a verification email
-   - Click on the verification link to confirm your email address
-   - If you don't receive the email, check your spam folder or request a new verification email
+1. Go to Registration portal as provided by Rezolve. Yes, you have to get in touch with Rezolve for spinning a tenant, as of now.
 
-## Account Setup
+2. Fill the form 
+<figure style={{ textAlign: 'center', margin: '20px 0' }}>
+  <img src="/img/getting-started/registration-form.jpg" alt="Registration Form" width="400" />
+  <figcaption style={{ fontSize: '14px', color: 'gray', marginTop: '8px' }}>Registration Form</figcaption>
+</figure>
 
-1. **Complete Your Profile**
-   - Add your organization details
-   - Upload your profile picture and company logo
-   - Provide additional contact information
 
-2. **Choose Your Initial Settings**
-   - Select your preferred notification settings
-   - Configure your timezone and language preferences
-   - Set up your dashboard layout
+* Valid business email. Phone number where you will receive OTP.
+* Choose a realm that represents your company. Availability will be checked.
+* Select the region suitable for your organization.
+* Optionally select the Team for which you are planning to use it for.
+* Click on Register
 
-3. **Security Configuration**
-   - Enable two-factor authentication for enhanced security
-   - Review and accept the terms of service and privacy policy
-   - Set up security questions for account recovery
 
-## Next Steps
+3. You will receive an OTP on the phone number you provided. Enter the OTP.
 
-After completing the registration process, you can:
+<figure style={{ textAlign: 'center', margin: '20px 0' }}>
+  <img src="/img/getting-started/otp.jpg" alt="OTP Form" width="400" />
+  <figcaption style={{ fontSize: '14px', color: 'gray', marginTop: '8px' }}>OTP</figcaption>
+</figure>
 
-- Explore the platform's features through the interactive tutorial
-- Invite team members to join your organization
-- Configure your subscription plan based on your needs
-- Begin setting up your knowledge base and helpdesk
+## Confirmation
+4. Tenant spinning will take a couple of minutes. You will receive a notification when it is ready, along with the instructions of using the tenant.
 
-For more information about subscription options, please refer to the [Subscriptions](/docs/getting-started/subscriptions) page.
+5. You will receive an email with the login credentials.
 
-## Troubleshooting
 
-If you encounter any issues during the registration process:
-
-- Clear your browser cache and cookies
-- Try using a different browser
-- Contact support at support@platform-url.com for assistance
