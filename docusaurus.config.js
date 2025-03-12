@@ -76,13 +76,19 @@ const config = {
         },
       },
       navbar: {
-        title: 'Rezolve Docs',
+        // title: 'Rezolve Docs',
         logo: {
           alt: 'Documentation Logo',
           src: 'img/logo.png',
+          href: 'https://www.rezolve.ai',
+          target: '_blank',
         },
         items: [
-         
+          {
+            to: '/', // Link title to home page
+            label: 'Home',
+            position: 'left',
+          },
         ],
       },
       // Set to empty object to hide footer completely

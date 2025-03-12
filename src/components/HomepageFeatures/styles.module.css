@@ -149,6 +149,20 @@
 [data-theme='dark'] .sectionHeader p {
   color: #9ca3af;
 }
+.previous-button,
+.next-button {
+  margin-bottom: 20px; /* Adjust the margin as needed */
+  display: inline-block; /* Ensure they are inline */
+}
+
+/* Optional: Adjust the positioning if necessary */
+.previous-button {
+  position: relative; /* or absolute, depending on your layout */
+}
+
+.next-button {
+  position: relative; /* or absolute, depending on your layout */
+}
 
 /* Responsive adjustments */
 @media (max-width: 996px) {

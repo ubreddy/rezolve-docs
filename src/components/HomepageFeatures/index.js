@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 
 // Pleasant, uniform color scheme
 const colors = {
-  primary: '#3578e5', // Docusaurus blue
+  primary: '#34A853', // Rezolve green
   secondary: '#1877F2',
   tertiary: '#4F46E5',
   success: '#34A853',
@@ -18,7 +18,7 @@ const FeatureList = [
   {
     title: 'Getting Started',
     icon: '🚀',
-    description: 'Learn the basics and get up to speed quickly',
+    description: 'Get Started with Rezolve platform',
     path: '/docs/getting-started/introduction',
     count: 13,
     color: colors.primary
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Administration',
     icon: '⚙️',
-    description: 'Manage system settings and user permissions',
+    description: 'Manage your tenant and global settings',
     path: '/docs/administration/introduction',
     count: 29,
     color: colors.primary
@@ -58,7 +58,7 @@ const FeatureList = [
   {
     title: 'Virtual Agent',
     icon: '🎭',
-    description: 'Configure and manage AI-powered agents',
+    description: 'Manage virtual agent settings and configurations',
     path: '/docs/virtual-agent/overview',
     count: 10,
     color: colors.primary
@@ -66,7 +66,7 @@ const FeatureList = [
   {
     title: 'Announcements',
     icon: '📢',
-    description: 'Stay updated with the latest features and changes',
+    description: 'Manage announcements and notifications to your organization\'s users',
     path: '/docs/announcements/overview',
     count: 5,
     color: colors.primary
@@ -74,7 +74,7 @@ const FeatureList = [
   {
     title: 'Helpdesk',
     icon: '🎯',
-    description: 'Handle support tickets and customer inquiries',
+    description: 'Manage incidents requests and business processes',
     path: '/docs/helpdesk/overview',
     count: 43,
     color: colors.primary
@@ -82,7 +82,7 @@ const FeatureList = [
   {
     title: 'Helpdesk Dashboard',
     icon: '📱',
-    description: 'Monitor and manage support operations',
+    description: 'Monitor and manage helpdesk operations',
     path: '/docs/helpdesk-dashboard/overview',
     count: 18,
     color: colors.primary
@@ -115,7 +115,7 @@ const FeatureList = [
   {
     title: 'Desktop Automation',
     icon: '⚡',
-    description: 'Automate routine desktop tasks',
+    description: 'Automate RMM tasks and workflows',
     path: '/docs/desktop-automation/overview',
     count: 12,
     color: colors.primary
@@ -123,7 +123,7 @@ const FeatureList = [
   {
   title: 'Integrations',
   icon: '🔌',
-  description: 'Connect with other tools and services',
+  description: 'Manage Integrations',
   path: '/docs/integrations/overview',
   count: 19,
   color: colors.primary
@@ -131,7 +131,7 @@ const FeatureList = [
   {
     title: 'Live Chat',
     icon: '💬',
-    description: 'Real-time customer support features',
+    description: 'Configure and use Live Chat',
     path: '/docs/live-chat/getting-started',
     count: 12,
     color: colors.primary
@@ -139,7 +139,7 @@ const FeatureList = [
   {
     title: 'Service Catalog',
     icon: '📑',
-    description: 'Manage and organize available services',
+    description: 'Manage your helpdesk services and business processes',
     path: '/docs/service-catalog/overview',
     count: 42,
     color: colors.primary
@@ -147,7 +147,7 @@ const FeatureList = [
   {
     title: 'MSP Guide',
     icon: '📖',
-    description: 'Manage your MSP effectively',
+    description: 'Managed Service Provider (MSP) guide',
     path: '/docs/msp-guide/features-settings',
     count: 16,
     color: colors.primary
@@ -156,7 +156,7 @@ const FeatureList = [
   {
     title: 'Service Portal',
     icon: '🌐',
-    description: 'Self-service portal configuration',
+    description: 'Configure and use Self-service portal',
     path: '/docs/service-portal/overview',
     count: 10,
     color: colors.primary
@@ -164,7 +164,7 @@ const FeatureList = [
   {
     title: 'Aura Insights',
     icon: '🔍',
-    description: 'Insights into bot performance and ticket management',
+    description: 'Manage using Insights into bot performance and ticket management',
     path: '/docs/aura-insights/overview',
     count: 8,
     color: colors.primary
@@ -172,7 +172,7 @@ const FeatureList = [
   {
     title: 'Enterprise Search',
     icon: '🔍',
-    description: 'Search and manage your data effectively',
+    description: 'Configure and use Enterprise Search',
     path: '/docs/enterprise-search/overview',
     count: 9,
     color: colors.primary
@@ -180,9 +180,9 @@ const FeatureList = [
   
   
   {
-    title: 'Arena',
+    title: 'Rezolve Arena',
     icon: '🏟️',
-    description: 'Test and train your virtual agents',
+    description: 'Rezolve Arena for help, releases and support',
     path: '/docs/arena/release-notes',
     count: 6,
     color: colors.primary
@@ -194,7 +194,7 @@ const FeatureList = [
     path: '/docs/support/overview',
     count: 5,
     color: colors.primary
-  },
+  }
   
 ];
 

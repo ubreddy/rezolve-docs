@@ -5,6 +5,15 @@ sidebar_label: Introduction
 description: Welcome to our comprehensive documentation portal
 ---
 
+# Content Plan
+
+Rezolve platform has multiple modules.
+This is a quick setup guide to help you get started with the platform 
+
+
+
+
+
 # Introduction
 
 Welcome to our comprehensive documentation portal. This guide will help you navigate through our extensive documentation and find the information you need quickly and efficiently.
