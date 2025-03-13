@@ -38,6 +38,24 @@ const config = {
     mermaid: true,
   },
 
+  plugins: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        // Options for the search plugin
+        hashed: true, // Generate search-index.json file for better performance
+        language: ['en'], // Search only English content
+        indexDocs: true, // Index docs content
+        indexBlog: false, // Don't index blog content (if you don't have a blog)
+        indexPages: false, // Don't index other pages
+        docsRouteBasePath: 'docs', // Base path for docs
+        highlightSearchTermsOnTargetPage: true, // Highlight search terms on the target page
+        searchResultLimits: 8, // Limit search results
+        searchBarPosition: 'right', // Position of search bar in the navbar
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',

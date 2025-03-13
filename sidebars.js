@@ -88,10 +88,9 @@ module.exports = {
           label: 'Role-Based Access Control',
           items: [
             'administration/rbac/role-based-access-control',
-            'administration/rbac/permissions',
             'administration/rbac/roles',
             'administration/rbac/roles-permissions',
-            'administration/rbac/permission-matrix'
+            
           ]
         },
         {
