@@ -70,6 +70,15 @@ const config = {
         showLastUpdateAuthor: false,
         // Disable git history tracking
         // disableGitFeatures: true,
+        // Organize posts by year in reverse chronological order
+        blogSidebarTitle: 'Product Updates',
+        blogSidebarCount: 'ALL',
+        sortPosts: 'descending',
+        blogTitle: 'Product Updates',
+        blogDescription: 'Keep up with the latest updates and improvements to our product',
+        postsPerPage: 10,
+        // Enable archive by year
+        archiveBasePath: 'archive',
       },
     ],
   ],
@@ -90,7 +99,7 @@ const config = {
           sidebarCollapsible: true,
           sidebarCollapsed: false,
         },
-        // blog: false, // Disable the default blog plugin from the preset
+        blog: false, // Disable the default blog plugin from the preset
         theme: {
           customCss: [
             require.resolve('./src/css/custom.css'),
