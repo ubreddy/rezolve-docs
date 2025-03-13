@@ -226,8 +226,8 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className={styles.sectionHeader}>
-          <h2>Documentation Topics</h2>
-          <p>Browse our comprehensive documentation library</p>
+          <h2>Platform Documentation</h2>
+          <p>Find answers to your questions and learn how to use Rezolve platform</p>
         </div>
         <div className={styles.cardGrid}>
           {FeatureList.map((props, idx) => (

@@ -10,23 +10,16 @@ description: Comprehensive guide to managing users within the platform
 Before creating users please refer to the [Roles](../rbac/roles) to have an understanding of roles being available and applied to each module.
 TODO the following
 
-## Creating Users
+## CRUD Operations on Users
 
 TODO Create User Image
 
 Assigning roles 
 
-## Updating Users
 
 
+## Bulk Operations on Users
 
-## Deleting Users
-
-
-## Bulk import users
-
-
-## Export users
 
 
 ##  Sync users from external source
