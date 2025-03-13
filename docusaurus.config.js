@@ -54,6 +54,24 @@ const config = {
         searchBarPosition: 'right', // Position of search bar in the navbar
       },
     ],
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'product-updates',
+        path: './product-updates',
+        routeBasePath: 'product-updates',
+        showReadingTime: false,
+        // Suppress warnings
+        onInlineAuthors: 'ignore',
+        onUntruncatedBlogPosts: 'ignore',
+        // Completely disable edit functionality and git history tracking
+        editUrl: undefined,
+        showLastUpdateTime: false,
+        showLastUpdateAuthor: false,
+        // Disable git history tracking
+        // disableGitFeatures: true,
+      },
+    ],
   ],
 
   presets: [
@@ -63,7 +81,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://bitbucket.org/actionablescience/aitsm-public-docs/src/master/',
+          // editUrl: 'https://bitbucket.org/actionablescience/aitsm-public-docs/src/master/'
+          editUrl: undefined,
           routeBasePath: 'docs',
           breadcrumbs: true,
           showLastUpdateTime: false,
@@ -71,6 +90,7 @@ const config = {
           sidebarCollapsible: true,
           sidebarCollapsed: false,
         },
+        // blog: false, // Disable the default blog plugin from the preset
         theme: {
           customCss: [
             require.resolve('./src/css/custom.css'),
@@ -104,8 +124,18 @@ const config = {
         items: [
           {
             to: '/', // Link title to home page
-            label: 'Home',
+            label: 'Docs',
             position: 'left',
+          },
+          {
+            href: 'https://rezolve.statuspage.io',
+            label: 'Status',
+            position: 'right',
+          },
+          {
+            to: '/product-updates', // Link title to home page
+            label: 'Product Updates',
+            position: 'right',
           },
         ],
       },

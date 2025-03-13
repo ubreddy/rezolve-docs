@@ -109,7 +109,7 @@ module.exports = {
           items: [
             'administration/groups/groups-management',
             'administration/groups/sync-groups',
-            'administration/groups/group-role-assignments'
+            
           ]
         },
         {

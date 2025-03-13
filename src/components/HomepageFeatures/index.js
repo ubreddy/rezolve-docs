@@ -172,7 +172,7 @@ const FeatureList = [
   {
     title: 'Enterprise Search',
     icon: '🔍',
-    description: 'Configure and use Enterprise Search',
+    description: 'Configure and use Enterprise Search. [Upcoming]',
     path: '/docs/enterprise-search/overview',
     count: 9,
     color: colors.primary
