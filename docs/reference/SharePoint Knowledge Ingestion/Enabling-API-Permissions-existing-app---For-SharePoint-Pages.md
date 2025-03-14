@@ -92,33 +92,33 @@ Ensure that the app has the necessary permissions to access and manage the speci
 documents.
 
 
-![Page 2 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page2_4.png)
+![Page 2 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page2_4.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page3_4.png)
+![Page 3 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page3_4.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page3_5.png)
+![Page 3 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page3_5.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page4_4.png)
+![Page 4 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page4_4.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page4_5.png)
+![Page 4 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page4_5.png)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_4.png)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_4.png)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_5.png)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_5.png)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_6.png)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page5_6.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page6_4.png)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page6_4.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page6_5.png)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page6_5.png)
 
-![Page 7 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page7_4.png)
+![Page 7 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page7_4.png)
 
-![Page 8 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page8_4.png)
+![Page 8 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page8_4.png)
 
-![Page 9 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page9_4.png)
+![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page9_4.png)
 
-![Page 9 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page9_5.png)
+![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page9_5.png)
 
-![Page 10 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page10_4.png)
+![Page 10 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page10_4.png)
 

@@ -43,16 +43,16 @@ browser.
 
 
 
-![Page 2 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page2_4.png)
+![Page 2 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page2_4.png)
 
-![Page 2 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page2_5.png)
+![Page 2 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page2_5.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page3_4.png)
+![Page 3 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page3_4.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_4.png)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_4.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_5.png)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_5.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_6.png)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page4_6.png)
 
-![Page 5 Image](/img/reference/Sharepoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page5_4.png)
+![Page 5 Image](/img/reference/SharePoint%20Widget/images/steps-to-embed-iframe-in-sharepoint-NEW_page5_4.png)

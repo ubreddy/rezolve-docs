@@ -170,40 +170,40 @@ Summary of Steps:
 Following these steps will allow you to successfully enable sites.selected permissions in SharePoint Online.
 
 
-![Page 2 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page2_4.jpeg)
+![Page 2 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page2_4.jpeg)
 
-![Page 3 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page3_4.png)
+![Page 3 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page3_4.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page3_6.png)
+![Page 3 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page3_6.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page4_4.png)
+![Page 4 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page4_4.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page4_6.png)
+![Page 4 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page4_6.png)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_4.jpeg)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_4.jpeg)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_5.jpeg)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_5.jpeg)
 
-![Page 5 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_7.png)
+![Page 5 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page5_7.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_3.jpeg)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_3.jpeg)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_5.png)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_5.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_7.png)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_7.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_9.png)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_9.png)
 
-![Page 6 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_10.jpeg)
+![Page 6 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page6_10.jpeg)
 
-![Page 7 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page7_4.png)
+![Page 7 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page7_4.png)
 
-![Page 8 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page8_4.png)
+![Page 8 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page8_4.png)
 
-![Page 9 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page9_4.png)
+![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page9_4.png)
 
-![Page 9 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page9_5.png)
+![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page9_5.png)
 
-![Page 10 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page10_4.png)
+![Page 10 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page10_4.png)
 
-![Page 13 Image](/img/reference/Sharepoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page13_4.jpeg)
+![Page 13 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script_page13_4.jpeg)

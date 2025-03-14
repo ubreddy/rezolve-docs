@@ -51,16 +51,16 @@ you will have access
 4. Add this webpart in your SharePoint page, and paste the widgetcode provided by Rezolve team.
 
 
-![Page 2 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page2_4.jpeg)
+![Page 2 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page2_4.jpeg)
 
-![Page 2 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page2_5.png)
+![Page 2 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page2_5.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page3_4.png)
+![Page 3 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page3_4.png)
 
-![Page 3 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page3_5.png)
+![Page 3 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page3_5.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_4.jpeg)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_4.jpeg)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_5.png)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_5.png)
 
-![Page 4 Image](/img/reference/Sharepoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_6.png)
+![Page 4 Image](/img/reference/SharePoint%20Widget/images/Enabling-Modern-Script-Editor-in-SharePoint_page4_6.png)
