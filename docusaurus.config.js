@@ -146,6 +146,12 @@ const config = {
             label: 'Product Updates',
             position: 'right',
           },
+          {
+            type: 'doc',
+            docId: 'reference/index',
+            position: 'left',
+            label: 'Reference',
+          },
         ],
       },
       // Set to empty object to hide footer completely

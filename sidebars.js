@@ -897,5 +897,97 @@ module.exports = {
         'msp-guide/faqs',
       ]
     }
-  ]
+  ],
+  referenceSidebar: [ {
+    type: 'category',
+    label: 'Reference',
+    items: [
+      'reference/Adding-Bot-in-Teams-App-Locally-v3',
+      'reference/Admin-Console-Roles-at-a-Glance-NEW',
+      'reference/Azure-AD-Configuration-to-Restrict-App-Access-NEW',
+      'reference/Azure-Certificate-expried---Creating-New-Certificate',
+      'reference/Document-Ingestion-How-To',
+      'reference/Existing-Mailbox---Modern-auth-enabled-Outlook',
+      'reference/How-to-Register-an-Azure-Application-for-SharePoint-Ingestion-for-Rezolve.ai',
+      'reference/Monitored-Mailbox-Setup-in-Outlook---Azure-SSO-NEW',
+      'reference/Monitored-Mailbox-Setup-in-Outlook---Other-SSO-NEW',
+      'reference/Pinning-the-Bot-in-Teams-for-Everyone-in-your-Org',
+      'reference/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW',
+      'reference/Prerequisite-for-Agent-in-Teams-Instructions_12.14.21',
+      'reference/Quick-Guide-on-Assigning-Roles-and-Queues-NEW-v2',
+      'reference/ServiceNow-Integration-with-Rezolve.ai-Chatbot-NEW',
+      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New',
+      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated',
+      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated-Avanish',
+      'reference/Signup-Process-Through-Microsoft-Teams-NEW',
+      'reference/Slack-signup-process-2',
+      'reference/Uploading-Custom-Bot-in-Teams-and-Assigning-Policy-to-Individual-or-Group',
+      'reference/Virtual-Agent-Mgmt-with-Doc-Ingestion-Guide-NEW',
+      'reference/index',
+      {
+        type: "category",
+        label: "Graph API Guides",
+        items: [
+          'reference/Graph API Guides/Azure-Certificate-expried',
+          'reference/Graph API Guides/Enable-Additional-Attributes-in-Azure-for-Web-Pages-NEW',
+          'reference/Graph API Guides/Enabling-API-Permissions-existing-app---For-SharePoint-Crawl',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions---AD-Group-Sync-in-Notifications',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions---For-Adding-and-Removing-users-from-a-DL',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions---for-People-Picker',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-Creating-a-New-App-NEW',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-New-app---For-SharePoint-Search',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-SharePoint-List-using-SSO-App-NEW',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-additional-Attributes-in-Teams-using-SSO-App-NEW',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Exisiting-SSO-App--Password-Reset-Flow',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Existing-SSO-App--AD-Sync',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-Exisiting-SSO-App---For-Adding-and-Removing-users-from-a-DL',
+          'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-SSO-App-for-Group-Mailbox-Flow',
+          'reference/Graph API Guides/Live-Agent-In-Teams-Pre-Req---Enabling-Graph-API-Permissions-on-Existing-SSO-App-'
+        ]
+      },
+      {
+        type: "category",
+        label: "SSO Guides",
+        items: [
+          "reference/SSO Guides/Azure-AD-Configuration-to-Enable-Single-Sign-On-NEW",
+          "reference/SSO Guides/OKTA-SSO-setup-NEW",
+          "reference/SSO Guides/Ping-Identity-SSO-Setup-Guide"
+        ]
+      },
+      {
+        type: "category",
+        label: "ServiceNow Integration",
+        items: [
+          {
+            type: "category",
+            label: "LiveChat",
+            items: [
+              "reference/ServiceNow Integration/LiveChat/ServiceNow-LiveChat-Integration-Technical-Specification"
+            ]
+          }
+        ]
+      },
+      {
+        type: "category",
+        label: "SharePoint Knowledge Ingestion",
+        items: [
+          "reference/SharePoint Knowledge Ingestion/Enabling-API-Permissions-existing-app---For-SharePoint-Pages",
+          "reference/SharePoint Knowledge Ingestion/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder",
+          "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script",
+          "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-Graph-API-Permissions---For-SharePoint-Search-Files-and-Folder-with-PowerShell-Script"
+        ]
+      },
+      {
+        type: "category",
+        label: "SharePoint Widget",
+        items: [
+          "reference/SharePoint Widget/Enabling-Modern-Script-Editor-in-SharePoint",
+          "reference/SharePoint Widget/Steps-to-embed-iframe-in-sharepoint-NEW",
+          "reference/SharePoint Widget/Web-Widget-Instruction-with-a-SharePoint-Package"
+        ]
+      }
+    ]
+  }
+]
 };

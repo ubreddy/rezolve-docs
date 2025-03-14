@@ -65,6 +65,9 @@
 .menu__link--sublist:after {
   font-size: 10px;
 }
+.theme-doc-sidebar-menu {
+  margin-bottom: 1.5rem;
+}
 
 /* Add custom search box at the top of sidebar */
 .theme-doc-sidebar-menu::before {
