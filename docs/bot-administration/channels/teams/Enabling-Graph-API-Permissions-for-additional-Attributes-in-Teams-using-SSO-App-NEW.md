@@ -2,6 +2,7 @@
 title: 'Enabling Graph API Permissions for additional Attributes in Teams using SSO App'
 id: enabling-graph-api-permissions-for-additional-attributes-in-teams-using-sso-app
 sidebar_position: 1
+sidebar_label: Enabling Graph API Permissions for additional Attributes in Teams using SSO App
 ---
 
 # Enabling Graph API Permissions for Microsoft Teams SSO App

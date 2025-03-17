@@ -1,7 +1,7 @@
 ---
 id: team-collaboration
 title: Team Collaboration
-sidebar_label: Collaboration
+sidebar_label: Team Collaboration
 description: Documentation for Team Collaboration
 ---
 

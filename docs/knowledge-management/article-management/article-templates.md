@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Article Templates
+sidebar_label: Article Templates
 ---
 
 # Article Templates

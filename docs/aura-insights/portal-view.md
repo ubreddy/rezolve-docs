@@ -1,7 +1,7 @@
 ---
 id: portal-view
 title: Portal View
-sidebar_label: View
+sidebar_label: Portal View
 description: Documentation for Portal View
 ---
 

@@ -1,5 +1,9 @@
 ---
 sidebar_position: 2
+id: email-agents
+sidebar_label: Email Agents
+description: Learn how to configure and manage email processing in Rezolve.ai
+title: Email Agents
 ---
 
 # Email Agents

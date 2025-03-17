@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Content Guidelines
+sidebar_label: Content Guidelines
 ---
 
 # Content Guidelines

@@ -2,6 +2,7 @@
 title: 'Adding Bot in Teams App Locally'
 id: adding-bot-in-teams-app-locally
 sidebar_position: 2
+sidebar_label: Adding Bot in Teams App Locally
 ---
 
 

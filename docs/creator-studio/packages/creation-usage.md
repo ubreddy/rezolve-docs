@@ -1,7 +1,7 @@
 ---
 id: creation-usage
 title: Creating and Using Packages
-sidebar_label: and Using Packages
+sidebar_label: Creating and Using Packages
 description: Documentation for Creating and Using Packages
 ---
 

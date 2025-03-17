@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 title: AI Features Overview
+id: ai-features-overview
+sidebar_label: AI Features Overview
+description: Overview of the platform's AI capabilities and features
 ---
 
 # AI Features Overview

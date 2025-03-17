@@ -1,5 +1,8 @@
 ---
 sidebar_position: 4
+id: knowledge-agents
+sidebar_label: Knowledge Agents
+description: Learn how to configure and manage knowledge management in Rezolve.ai
 ---
 
 # Knowledge Agents

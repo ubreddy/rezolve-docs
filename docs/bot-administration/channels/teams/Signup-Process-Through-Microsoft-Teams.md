@@ -1,6 +1,7 @@
 ---
 title: 'Signup Process Through Microsoft Teams'
 sidebar_position: 1
+sidebar_label: Signup Process Through Microsoft Teams
 ---
 
 

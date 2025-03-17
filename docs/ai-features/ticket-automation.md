@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+id: ticket-automation
+sidebar_label: Ticket Automation
+description: Learn how to configure and manage ticket automation in Rezolve.ai
 ---
 
 # Standard Ticket Automation Agents

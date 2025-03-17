@@ -2,6 +2,7 @@
 title: 'Pinning the Bot in Teams for Everyone in your Org'
 id: pinning-the-bot-in-teams-for-everyone-in-your-org
 sidebar_position: 1
+sidebar_label: Pinning the Bot in Teams for Everyone in your Org
 ---
 
 

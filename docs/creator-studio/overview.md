@@ -1,7 +1,7 @@
 ---
 id: overview
 title: Creator Studio Overview
-sidebar_label: Studio Overview
+sidebar_label: Creator Studio Overview
 description: Documentation for Creator Studio Overview
 ---
 

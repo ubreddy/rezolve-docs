@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
 title: Access Control
+sidebar_label: Access Control
 ---
 
 # Access Control

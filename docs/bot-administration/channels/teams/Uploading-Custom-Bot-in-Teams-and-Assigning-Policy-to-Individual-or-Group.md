@@ -2,6 +2,7 @@
 title: 'Uploading Custom Bot in Teams and Assigning Policy to Individual or Group'
 id: uploading-custom-bot-in-teams-and-assigning-policy-to-individual-or-group
 sidebar_position: 1
+sidebar_label: Uploading Custom Bot in Teams and Assigning Policy to Individual or Group
 ---
 
 # Uploading Custom Bot in Teams and Assigning Policy to Individual or Group
