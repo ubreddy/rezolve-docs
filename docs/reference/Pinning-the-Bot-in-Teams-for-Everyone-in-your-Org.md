@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Pinning the Bot in Teams for Everyone in your Org
 
-Help Center
-Enterprise Service Management
+
+
 Pinning the Bot in
 Teams for Everyone in
 your Org
-Find More- rezolve.ai/help-center
+
 
 Access level needed
 ✓ Teams Admin

@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Azure AD Configuration to Enable Single Sign On NEW
 
-Help Center
-Enterprise Service Management
+
+
 Azure AD
 Configuration to
 Enable Single Sign On
-Find More- rezolve.ai/help-center
+
 
 1. Open your Azure Portal and select Azure Active Directory
 2. Click on Enterprise application

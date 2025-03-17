@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Pre-Req for Signup Through Microsoft Teams NEW
 
-Help Center
-Enterprise Service Management
+
+
 Pre-requisites for Signup
 Through Microsoft Teams
-Find More- rezolve.ai/help-center
+
 
 PRE-REQUISITE:
 Before sign-up directly in MS Teams can begin, please speak to your MS Teams Admin to make sure that the

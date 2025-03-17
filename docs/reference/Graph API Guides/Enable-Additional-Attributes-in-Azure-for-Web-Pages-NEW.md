@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Enable Additional Attributes in Azure for Web Pages NEW
 
-Help Center
-Enterprise Service Management
+
+
 Enable Additional
 Attributes in Azure in
 Web Pages
-Find More- rezolve.ai/help-center
+
 
 After completing the Single Sign On (SSO) setup, if you would like the bot to have access to additional attributes in the
 web widget you will need to enable additional configuration in Azure. Please follow the steps outlined below to do

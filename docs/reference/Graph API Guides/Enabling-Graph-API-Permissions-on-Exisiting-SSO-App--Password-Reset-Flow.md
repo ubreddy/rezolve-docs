@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Enabling Graph API Permissions on Exisiting SSO App- Password Reset Flow
 
-Help Center
-Enterprise Service Management
+
+
 Enabling Graph API
 Permissions
 To Setup Password Reset Flow
-Find More- rezolve.ai/help-center
+
 
 REQUIREMENTS
 To allow the bot to perform automation for your end user, we need the following:

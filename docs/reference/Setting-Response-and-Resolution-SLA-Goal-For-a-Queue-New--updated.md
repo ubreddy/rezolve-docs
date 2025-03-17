@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Setting Response and Resolution SLA Goal For a Queue New -updated
 
-Help Center
-Enterprise Service Management
+
+
 Setting Response and
 Resolution SLA Goals
 For a Queue
-Find More- rezolve.ai/help-center
+
 
 Rezolve.ai ticketing system is enabled with SLA calculation and reporting capabilities. With this feature, each queue
 can now have a Calendar and SLA Goals mapped to it. The Calendar setup includes Business hours, Holidays and

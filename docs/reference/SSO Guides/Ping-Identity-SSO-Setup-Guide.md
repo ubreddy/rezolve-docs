@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Ping Identity SSO Setup Guide
 
-Help Center
-Enterprise Service Management
+
+
 Ping Identity: Single Sign On
 Setup
-Find More- rezolve.ai/help-center
+
 
 To add a SAML application to Ping Identity and assign users to it, follow these steps:
 Step 1: Add a SAML Application to Ping Identity

@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Live Agent In Teams Pre-Req  - Enabling Graph API Permissions on Existing SSO App 
 
-Help Center
-Enterprise Service Management
+
+
 Enabling Graph API
 Permissions
 Prerequisite Instructions for Live Agent
 Chat in Teams
-Find More- rezolve.ai/help-center
+
 
 REGISTER APP IN AZURE AD
 To enable Live Agent in Teams app, we need to enable certain Graph API(s). We will guide you through how to do

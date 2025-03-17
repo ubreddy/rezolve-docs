@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Enabling Graph API Permissions - for People Picker
 
-Help Center
-Enterprise Service Management
+
+
 Enabling Graph API
 Permissions
 To Update Ticket Creation Form
-Find More- rezolve.ai/help-center
+
 
 REGISTER APP IN AZURE AD
 To allow the bot to perform automations for your end-user, we need to enable certain Graph API(s). We will guide you

@@ -6,10 +6,10 @@ sidebar_position: 1
 
 # Virtual Agent Mgmt with Doc Ingestion Guide NEW
 
-Help Center
-Enterprise Service Management
+
+
 Virtual Agent Mgmt Guide
-Find More- rezolve.ai/help-center
+
 
 GETTING STARTED
 Welcome to your Admin Portal!!! In this manual, we will take a quick look at the various Admin task an Admin will

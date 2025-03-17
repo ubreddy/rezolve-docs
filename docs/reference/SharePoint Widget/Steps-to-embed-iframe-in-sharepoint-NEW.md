@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Steps to embed iframe in sharepoint NEW
 
-Help Center
-Enterprise Service Management
+
+
 Steps to Embed
 iFrame
 into SharePoint
-Find More- rezolve.ai/help-center
+
 
 PREREQUEST: ALLOW THE ABILITY TO EMBED CONTENT ON SHAREPOINT PAGES
 Site collection administrators control whether users can embed content from external websites using

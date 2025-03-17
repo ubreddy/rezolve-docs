@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Azure Certificate expried
 
-Help Center
-Enterprise Service Management
+
+
 Azure Certificate
 Expired
-Find More- rezolve.ai/help-center
+
 
 Updating Certificate
 1. Open your Azure Portal

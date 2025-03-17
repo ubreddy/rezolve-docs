@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Web Widget Instruction with a SharePoint Package
 
-Help Center
-Enterprise Service Management
+
+
 Adding a Rezolve
 SharePoint Package to
 enable your Web Widget
-Find More- rezolve.ai/help-center
+
 
 SHAREPOINT WEB WIDGET WEB PART INTEGRATION
 This document includes the instructions for adding a Rezolve.ai Web Widget to your organizations

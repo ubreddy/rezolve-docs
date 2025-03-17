@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Enabling Graph API Permissions on Existing SSO App- AD Sync
 
-Help Center
-Enterprise Service Management
+
+
 Enabling Graph API
 Permissions
 To Enable AD Sync
-Find More- rezolve.ai/help-center
+
 
 REGISTER APP IN AZURE AD
 To allow the bot to perform automations for your end-user, we need to enable certain Graph API(s). We will guide you

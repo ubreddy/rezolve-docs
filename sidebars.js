@@ -287,7 +287,25 @@ module.exports = {
           type: 'category',
           label: 'Channels',
           items: [
-            'bot-administration/channels/teams',
+            { 
+              type: 'category',
+              label: 'Microsoft Teams',
+              link: {
+                type: 'doc',
+                id: 'bot-administration/channels/teams/teams',
+                // title: 'Microsoft Teams',
+                // description: 'Setup and configuration for Microsoft Teams integration',
+                // slug: '/bot-administration/channels/teams',
+              },
+              items: [
+                // 'bot-administration/channels/teams',
+                'bot-administration/channels/teams/Signup-Process-Through-Microsoft-Teams',
+                'bot-administration/channels/teams/adding-bot-in-teams-app-locally',
+                'bot-administration/channels/teams/pinning-the-bot-in-teams-for-everyone-in-your-org',
+                'bot-administration/channels/teams/uploading-custom-bot-in-teams-and-assigning-policy-to-individual-or-group',
+                'bot-administration/channels/teams/enabling-graph-api-permissions-for-additional-attributes-in-teams-using-sso-app'
+              ]
+            },
             'bot-administration/channels/slack',
             'bot-administration/channels/web',
             'bot-administration/channels/widget',

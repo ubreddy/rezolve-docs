@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Enabling Modern Script Editor in SharePoint
 
-Help Center
-Enterprise Service Management
+
+
 Enabling
 ModernScriptEditor
 SharePoint
 To create SharePoint Widget WebPart
-Find More- rezolve.ai/help-center
+
 
 COMPLETE THE FOLLOWING WITH SHAREPOINT ADMIN ACCESS
 To allow the widget html to be added to SharePoint, we need to enable Modern Script Editor in SharePoint. We will

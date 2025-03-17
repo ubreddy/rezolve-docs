@@ -1,25 +1,32 @@
 ---
-title: 'Signup Process Through Microsoft Teams NEW'
+title: 'Signup Process Through Microsoft Teams'
 sidebar_position: 1
 ---
 
 
-# Signup Process Through Microsoft Teams NEW
+# Signup Process Through Microsoft Teams
 
-Help Center
-Enterprise Service Management
-Signup Process Through
-Microsoft Teams
-Find More- rezolve.ai/help-center
+
+
+
+
+
 
 PRE-REQUISITE:
 Before sign-up directly in MS Teams can begin, please speak to your MS Teams Admin to make sure that the
 Rezolve.ai app is available to members of your organization. They would complete the following steps:
 1. Login to your organizations Teams Admin Center
 2. Navigate to Teams apps and select Manage apps
+![Page 2 Image](/img/reference/images/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW_page2_4.png)
 3. Look for “Rezolve”
+![Page 2 Image](/img/reference/images/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW_page2_5.png)
 
 4. Set the status to “Allowed” by, selecting Rezolve.ai in the list and clicking Allow
+
+
+
+
+![Page 3 Image](/img/reference/images/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW_page3_4.png)
 
 DOWNLOADING REZOLVE.AI APP:
 1. Login to MS Teams using an account associated to the domain you would like your tenant configured
@@ -29,7 +36,7 @@ mynewcompany
 2. Go to Apps at the bottom of the left hand side menu
 3. Search for “rezolve.ai” and select it once it appears
 4. Click Add
-You have successfully downloaded the Rezolve Prospect app. Feel free to ask questions about Rezolve for
+You have successfully downloaded the Rezolve  app. Feel free to ask questions about Rezolve for
 further information OR click on 'Learn More about Rezolve'. "
 
 SIGN UP:
@@ -39,7 +46,7 @@ Note: In the form it asks for “Name of your tenant” and “Bot Name”. The 
 identifier for you Rezolve.ai instance on our SAAS platform. Example - mynewcompany.virtualpeople.ai .
 The bot name you provide can be changed at a later date.
 
-11501 Dublin Blvd STE 200, Dublin, CA 94568 info@rezol ve.ai | www.rezolve.ai
+
 3. Click Submit
 4. The email id you provide in the form will receive an email with an OTP code, enter the code and click
 Submit
@@ -47,7 +54,7 @@ Submit
 Note: If Other is selected you will receive an additional prompt to provide team(s) name. Simpily provide
 the name(s) and click Submit when ready.
 6. Click Submit
-It will take a few minutes while your tenant gets sets up. The prospect app will automatically change over to
+It will take a few minutes while your tenant gets sets up. The  app will automatically change over to
 your tenant.
 
 

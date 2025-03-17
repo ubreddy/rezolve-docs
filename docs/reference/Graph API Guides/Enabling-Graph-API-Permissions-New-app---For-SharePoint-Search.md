@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Enabling Graph API Permissions New  app - For SharePoint Search
 
-Help Center
-Enterprise Service Management
+
+
 Enabling Graph API
 Permissions
 For the bot to Search SharePoint
 Knowledge Articles
-Find More- rezolve.ai/help-center
+
 
 REGISTER APP IN AZURE AD
 To allow the bot to perform automation for your end-user, we need SharePoint site ID and to enable certain Graph

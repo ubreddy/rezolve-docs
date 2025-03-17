@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # OKTA SSO setup NEW
 
-Help Center
-Enterprise Service Management
+
+
 OKTA Single Sign On
 Setup
-Find More- rezolve.ai/help-center
+
 
 1. Create a Rezolve.ai app in OKTA
 2. Point the App to the Rezolve.ai using the Realm and Redirect URLs provided via email by the Rezolve team. Here

@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Monitored Mailbox Setup in Outlook - Other SSO NEW
 
-Help Center
-Enterprise Service Management
+
+
 Configuring a Outlook
 Mailbox for Rezolve.ai
 Ticketing to Monitor
-Find More- rezolve.ai/help-center
+
 
 MAILBOX REQUIREMENTS
 1. Outlook Shared Mailbox

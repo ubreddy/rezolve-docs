@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Azure AD Configuration to Restrict App Access NEW
 
-Help Center
-Enterprise Service Management
+
+
 Azure AD
 Configuration to to
 Restrict App Access
-Find More- rezolve.ai/help-center
+
 
 1. Open your Azure Portal and select Azure Active Directory
 2. Click on Enterprise application

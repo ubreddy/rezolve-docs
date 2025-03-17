@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Azure Certificate expried - Creating New  Certificate
 
-Help Center
-Enterprise Service Management
+
+
 Azure Certificate
 Expired for Monitored
 Mailbox
-Find More- rezolve.ai/help-center
+
 
 Updating Certificate
 1. Open your Azure Portal

@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # ServiceNow LiveChat Integration Technical Specification
 
-Help Center
-Enterprise Service Management
+
+
 ServiceNow LiveChat Integration
 Technical Specification
-Find More- rezolve.ai/help-center
+
 
 ServiceNow LiveChat Integration Technical
 Specification

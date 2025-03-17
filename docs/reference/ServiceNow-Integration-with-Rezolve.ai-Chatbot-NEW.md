@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # ServiceNow Integration with Rezolve.ai Chatbot NEW
 
-Help Center
-Enterprise Service Management
+
+
 ServiceNow Integration
 with Rezolve.ai Chatbot
-Find More- rezolve.ai/help-center
+
 
 For standard ticketing integration, the following is required:
 • Service Account with API access enabled for Rezolve.ai

@@ -6,11 +6,11 @@ sidebar_position: 1
 
 # Quick Guide on Assigning Roles and Queues NEW v2
 
-Help Center
-Enterprise Service Management
+
+
 Assigning Roles and
 Queues
-Find More- rezolve.ai/help-center
+
 
 USER MANAGEMENT
 Roles in Rezolve

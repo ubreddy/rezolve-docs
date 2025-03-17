@@ -6,13 +6,13 @@ sidebar_position: 1
 
 # Sites.Selected Enabling API Permissions - For SharePoint Sites Crawl with PowerShell Script
 
-Help Center
-Enterprise Service Management
+
+
 Enabling API
 Permissions
 For the bot to Search/Crawl SharePoint
 Knowledge Articles
-Find More- rezolve.ai/help-center
+
 
 REGISTER APP IN AZURE AD
 To allow the bot to perform automation for your end-user, we need SharePoint site ID and to enable certain

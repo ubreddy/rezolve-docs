@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Document Ingestion How To
 
-Help Center
-Enterprise Service Management
+
+
 Uploading a Document to
 Rezolve’s
 Admin (Agent) Console
-Find More- rezolve.ai/help-center
+
 
 DOCUMENT UPLOAD CONDITIONS
 • Maximum 5 files can be uploaded at once

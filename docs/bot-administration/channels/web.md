@@ -1,7 +1,7 @@
 ---
 id: web
 title: Web Channel Configuration
-sidebar_label: Channel Configuration
+sidebar_label: Web
 description: Documentation for Web Channel Configuration
 ---
 
