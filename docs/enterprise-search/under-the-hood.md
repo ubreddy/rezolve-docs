@@ -31,6 +31,7 @@ Connectors normalize data into a unified format and respect source permissions (
 Named Entity Recognition (NER): Identifies entities (people, projects, acronyms) and maps their relationships (e.g., "John authored Q4 Sales Report").
 
 Semantic Understanding: Uses ML models (likely BERT or similar) to infer implicit relationships (e.g., "FY24" ≈ "2024 fiscal year").
+ TODO
 
 ### Activity Signal Integration
 
@@ -39,7 +40,7 @@ Tracks user behavior (clicks, searches, edits) to infer document popularity, tea
 ### Adaptation to Organizational Language
 
 Rezolve’s Scholastic system fine-tunes language models on each customer’s corpus to understand internal jargon and communication patterns.
-
+  
 ## 2. Knowledge Graph Search
 
 ### Query Processing
