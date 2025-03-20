@@ -407,6 +407,7 @@ module.exports = {
             'virtual-agent/channels/slack',
             'virtual-agent/channels/web',
             'virtual-agent/channels/widget',
+            'virtual-agent/channels/widget-authentication',
             'virtual-agent/channels/sharepoint-widget'
           ]
         },
