@@ -1,7 +1,7 @@
 ---
 id: import-export
 title: Import and Export
-sidebar_label: and Export
+sidebar_label: Import and Export
 description: Documentation for Import and Export
 ---
 

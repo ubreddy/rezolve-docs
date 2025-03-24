@@ -1,8 +1,9 @@
 ---
 id: queues
 title: Queues Setup
-sidebar_label: Setup
+sidebar_label: Queues Setup
 description: Documentation for Queues Setup
+status: Pending
 ---
 
 # Queues Setup

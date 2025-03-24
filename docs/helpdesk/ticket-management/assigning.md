@@ -1,7 +1,7 @@
 ---
 id: assigning
 title: Assigning Tickets
-sidebar_label: Tickets
+sidebar_label: Assigning Tickets
 description: Documentation for Assigning Tickets
 ---
 

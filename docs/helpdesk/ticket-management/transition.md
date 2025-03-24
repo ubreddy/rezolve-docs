@@ -1,7 +1,7 @@
 ---
 id: transition
 title: Ticket Transitions
-sidebar_label: Transitions
+sidebar_label: Ticket Transitions
 description: Documentation for Ticket Transitions
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: resolving
 title: Resolving Tickets
-sidebar_label: Tickets
+sidebar_label: Resolving Tickets
 description: Documentation for Resolving Tickets
 ---
 

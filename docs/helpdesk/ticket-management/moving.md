@@ -1,7 +1,7 @@
 ---
 id: moving
 title: Moving Tickets
-sidebar_label: Tickets
+sidebar_label: Moving Tickets
 description: Documentation for Moving Tickets
 ---
 

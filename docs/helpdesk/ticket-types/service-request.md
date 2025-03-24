@@ -1,7 +1,7 @@
 ---
 id: service-request
 title: Service Request Management
-sidebar_label: Request Management
+sidebar_label: Service Request Management
 description: Documentation for Service Request Management
 ---
 

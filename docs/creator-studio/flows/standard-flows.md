@@ -3,13 +3,15 @@ id: standard-flows
 title: Standard Flows
 sidebar_label: Standard Flows
 description: Documentation for Standard Flows
+status: Pending
+whatsPending: Standard flows all of them need to be added and explained
 ---
 
 # Standard Flows
 
 Flows are components that the bot can run to automate a task or lead the end-user through a scripted experience. Every interaction in the bot is done through a flow. Flows themselves are made up of various other components, such as Cards, APIs, or Scripts.
 
-![Create Flow](../../../static/img/Creator%20Studio/Create_Flow.jpg)
+TBD  Standard flow image.
 
 By default, several flows are automatically populated into a tenant upon tenant registration. These flows comprise the basic, out-of-box feature sets offered by Rezolve.ai. 
 

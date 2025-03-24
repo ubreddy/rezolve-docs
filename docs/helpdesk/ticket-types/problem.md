@@ -1,7 +1,7 @@
 ---
 id: problem
 title: Problem Management
-sidebar_label: Management
+sidebar_label: Problem Management
 description: Documentation for Problem Management
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: bulk-operations
 title: Bulk Operations
-sidebar_label: Operations
+sidebar_label: Bulk Operations
 description: Documentation for Bulk Operations
 ---
 

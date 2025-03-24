@@ -16,7 +16,7 @@ The Card component allows you to create Adaptive Cards using Microsoft's Adaptiv
 
 ## Form Cards
 
-The Form Card allows you to create a basic adaptive card just using Slots as inputs. When selected, you will see an option to select all the slots you'd like to use, and Creator Studio will automatically organize them into a very basic card.
+The Form Card allows you to create a basic adaptive card just using Slots as inputs. When selected, you will see an option to select all the slots you'd like to use, and Creator Studio will automatically organize them into a very basic card. Slots have to be precreated before you can use them in a Form Card.
 
 
 ![Form Card](../../../static/img/Creator%20Studio/Form_Card.jpg)

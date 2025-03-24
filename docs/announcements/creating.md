@@ -15,6 +15,7 @@ description: Documentation for Creating Announcements
   - **Multiple Selected Users**: Choose specific users from a list to receive the announcement. Useful for team-specific communications or targeted updates to selected individuals.
   
   - **Predefined User Groups**: Send announcements to user groups that have been previously configured in the Admin App. Streamlines the process of regularly communicating with established teams, departments, or functional groups.
+  
 
 
   ![Create Announcement](../../static/img/Announcements/Create_Announcement.png)

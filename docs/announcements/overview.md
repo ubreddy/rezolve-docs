@@ -15,6 +15,9 @@ The Announcement feature in Rezolve.ai empowers administrators to effectively co
 
 - **Targeted Notifications**: Reach all bot users within the tenant
 
+- **Audience based targeting**: Target specific groups of users based on predefined audiences.
+
+
 - **Content Types**: Support for various content formats including:
   - Text-based messages
   - Important updates
@@ -22,6 +25,8 @@ The Announcement feature in Rezolve.ai empowers administrators to effectively co
   - System notifications
 
 - **Delivery Tracking**: Monitor announcement status and user engagement
+
+- **[Upcoming]**: Have specific workspace users only be able to send announcements.
 
 
 ![Create Announcement](../../static/img/Announcements/Create_Announcement.png)
