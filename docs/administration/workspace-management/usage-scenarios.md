@@ -3,6 +3,8 @@ id: workspace-usage-scenarios
 title: Workspace Usage Scenarios
 sidebar_label: Usage Scenarios
 description: Practical examples and use cases for implementing workspaces across different organizational needs
+status: 
+whatsPending: 
 ---
 
 # Workspace Usage Scenarios
@@ -357,3 +359,4 @@ After exploring workspace usage scenarios, consider:
 2. [Space Roles](./workspace-space-roles)
 3. [User Assignment](./workspace-user-assignment)
 4. [Teams Management](../teams-management/teams-management-overview)
+

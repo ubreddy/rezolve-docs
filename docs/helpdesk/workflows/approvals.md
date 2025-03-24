@@ -3,11 +3,11 @@ id: approvals
 title: Approval Workflows
 sidebar_label: Workflows
 description: Documentation for Approval Workflows
+status: 
+whatsPending: 
 ---
 
 # Approval Workflows
-
-## Approval Process
 
 Approval workflows ensure that certain actions or requests go through proper authorization channels before implementation. This process maintains governance and compliance within the organization.
 
@@ -80,3 +80,4 @@ The Approval Dashboard provides approvers with a centralized view of all request
 - **Filters**: Options to sort by priority, date, type, etc.
 - **Bulk Actions**: Ability to approve or reject multiple similar requests
 - **Notifications**: Alerts for new or urgent approval requests
+

@@ -3,6 +3,8 @@ id: ticket-history
 title: Ticket History
 sidebar_label: Ticket History
 description: Documentation for Ticket History
+status: 
+whatsPending: 
 ---
 
 
@@ -42,3 +44,4 @@ The ticket history tracks various types of changes including:
 - **Note Additions**: When public or private notes are added
 - **Attachment Actions**: When files are added or removed
 - **Watcher Changes**: When users are added or removed as watchers
+

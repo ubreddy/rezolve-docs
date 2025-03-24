@@ -3,6 +3,8 @@ id: import-export
 title: Import and Export Packages
 sidebar_label: Import and Export Packages
 description: Documentation for Import and Export Packages
+status: 
+whatsPending: 
 ---
 
 # Import and Export Packages
@@ -22,3 +24,4 @@ After making your selection, simply click Migrate and then confirm that you want
 **Note:**  
 1. Reimporting a Service Catalog template will overwrite the previous version.
 2. A template must be re-imported each time it has been updated to reflect the latest changes.
+

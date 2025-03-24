@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+status: 
+whatsPending: 
 ---
 
 # Getting Started
@@ -29,3 +31,4 @@ Best practices and recommendations will be listed here.
 - Related topic 1
 - Related topic 2
 - Related topic 3
+

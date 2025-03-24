@@ -3,6 +3,8 @@ id: personalization
 title: Personalization
 sidebar_label: Personalization
 description: Documentation for Personalization
+status: 
+whatsPending: 
 ---
 
 # Personalization
@@ -63,3 +65,4 @@ System administrators can:
 - Restrict certain personalization features based on roles
 - Create organization-wide themes and layouts
 - Reset user preferences when troubleshooting issues
+

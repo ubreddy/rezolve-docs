@@ -3,6 +3,8 @@ id: problem
 title: Problem Management
 sidebar_label: Problem Management
 description: Documentation for Problem Management
+status: 
+whatsPending: 
 ---
 
 # Problem Management
@@ -74,5 +76,6 @@ Below is an example of a problem ticket with some fields that need to be complet
 - **Queue**: ProblemMgmt-james
 - **Services Affected**: Mobile
 - **Submitted By**: Vinitha S
+
 
 

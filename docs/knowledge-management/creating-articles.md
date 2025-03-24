@@ -3,6 +3,8 @@ id: creating-articles
 title: Creating Articles in Knowledge Management
 sidebar_label: Creating Articles
 description: Guide for creating and editing knowledge articles directly in the system
+status: 
+whatsPending: 
 ---
 
 # Creating Articles in Knowledge Management
@@ -196,3 +198,4 @@ Add custom metadata to enhance organization and searchability:
 - Learn about [Scripted Answers](/docs/knowledge-management/scripted-answers) to create AI-powered responses
 - Explore [Organizing Knowledge](/docs/knowledge-management/organizing-knowledge) for effective content management
 - Set up [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for your team
+

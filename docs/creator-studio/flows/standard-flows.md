@@ -16,3 +16,4 @@ TBD  Standard flow image.
 By default, several flows are automatically populated into a tenant upon tenant registration. These flows comprise the basic, out-of-box feature sets offered by Rezolve.ai. 
 
 When creating a flow, you'll be asked to enter a name for the flow. Upon clicking Create, your flow will exist in a draft status and will not be added to the list of flows on the left until after you add at least 1 component and click Save.
+

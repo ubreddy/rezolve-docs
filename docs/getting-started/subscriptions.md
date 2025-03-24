@@ -3,6 +3,8 @@ id: subscriptions
 title: Subscriptions
 sidebar_label: Subscriptions
 description: Learn about available subscription plans and how to manage your subscription
+status: 
+whatsPending: 
 ---
 
 # Subscriptions
@@ -47,4 +49,5 @@ Once Enabled Bot settings and features can be further configured, including Bot 
 Once enabled Search Portal would be available to employees. Knowledge Management should be selected for this module.
 
 TODO to add screenshots.
+
 

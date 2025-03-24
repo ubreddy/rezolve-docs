@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Service Portal Overview
@@ -164,3 +166,4 @@ _Suggested Image: "best-practices.png" - Implementation guide_
 - [Security & Access](../security/overview)
 - [Use Cases](../use-cases/overview)
 - [Bot Integration](../integrations/bot-channels)
+

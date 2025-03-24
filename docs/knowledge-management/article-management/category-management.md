@@ -2,6 +2,8 @@
 sidebar_position: 2
 title: Category Management
 sidebar_label: Category Management
+status: 
+whatsPending: 
 ---
 
 # Category Management
@@ -75,4 +77,5 @@ Categories provide a hierarchical structure to organize your knowledge base cont
 - Perform regular audits
 
 ## Related Resources
+
 

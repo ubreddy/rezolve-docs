@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions existing app   For SharePoint Search Files and Folder'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -112,4 +114,5 @@ downloaded Manifest to Rezolve
 ![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder_page9_5.png)
 
 ![Page 10 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder_page10_1.png)
+
 

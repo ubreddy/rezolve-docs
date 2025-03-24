@@ -62,3 +62,4 @@ This screen is for creating a new queue.
 
 
   ![Queue Creation Interface](/img/Helpdesk/Queue_Creation.png)
+

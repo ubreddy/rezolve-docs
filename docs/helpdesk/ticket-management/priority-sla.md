@@ -3,6 +3,8 @@ id: priority-sla
 title: Ticket Priority and SLA
 sidebar_label: Priority and SLA
 description: Documentation for Ticket Priority and SLA
+status: 
+whatsPending: 
 ---
 
 # Ticket Priority and SLA
@@ -27,3 +29,4 @@ An SLA is a predefined set of rules that dictate response and resolution times f
 The Priority level determines how quickly a ticket should be addressed. It is typically based on Impact (business disruption) and Urgency (time sensitivity).
 
 ![SLA Management Interface](/img/Helpdesk/SLA.jpg)
+

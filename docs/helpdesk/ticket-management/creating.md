@@ -3,6 +3,8 @@ id: creating
 title: Creating Tickets and Offers
 sidebar_label: Creating Tickets and Offers
 description: Documentation for Creating Tickets and Offers
+status: 
+whatsPending: 
 ---
 
 # Creating Tickets and Offers
@@ -66,3 +68,4 @@ The Offer Listing Page provides users with predefined service request options, c
    b. The **Approval Workflow** (if applicable) is triggered.
    
    c. The ticket is assigned to the relevant team.
+

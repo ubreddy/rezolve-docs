@@ -1,6 +1,8 @@
 ---
 title: 'Quick Guide on Assigning Roles and Queues NEW v2'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

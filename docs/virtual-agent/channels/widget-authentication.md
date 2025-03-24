@@ -3,6 +3,8 @@ id: widget-authentication
 title: User Authentication for Widget
 sidebar_label: Widget Authentication
 
+status: 
+whatsPending: 
 ---
 
 # Chat Widget Authentication

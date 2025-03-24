@@ -3,6 +3,8 @@ id: slots
 title: Slots
 sidebar_label: Slots
 description: Documentation for Slots
+status: 
+whatsPending: 
 ---
 
 # Slots
@@ -58,3 +60,4 @@ The Time Slot presents users with a drop-down to enter a specific time.
 ## Attachment Slot
 
 The Attachment Slot allows the user to upload a file attachment to a flow to be used for various applications.
+

@@ -1,6 +1,8 @@
 ---
 title: 'Document Ingestion How To'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

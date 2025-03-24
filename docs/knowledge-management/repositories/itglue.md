@@ -3,6 +3,8 @@ id: itglue
 title: Connecting ITGlue to Knowledge Management
 sidebar_label: ITGlue
 description: Step-by-step guide for integrating ITGlue as a knowledge repository
+status: 
+whatsPending: 
 ---
 
 # Connecting ITGlue to Knowledge Management
@@ -143,3 +145,4 @@ ITGlue often contains sensitive information, so consider these security practice
 - Configure [category management](/docs/knowledge-management/category-management) for imported ITGlue content
 - Set up [audience targeting](/docs/knowledge-management/audience-management) to control access to sensitive information
 - Explore [analytics](/docs/knowledge-management/analytics-reporting) to monitor usage of ITGlue content
+

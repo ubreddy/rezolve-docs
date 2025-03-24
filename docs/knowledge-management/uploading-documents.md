@@ -3,6 +3,8 @@ id: uploading-documents
 title: Uploading Documents to Knowledge Management
 sidebar_label: Uploading Documents
 description: Guide for uploading and managing documents in the Knowledge Management system
+status: 
+whatsPending: 
 ---
 
 # Uploading Documents to Knowledge Management
@@ -177,3 +179,4 @@ If document processing fails:
 - Learn about [Creating Articles](/docs/knowledge-management/creating-articles) directly in the system
 - Explore [Scripted Answers](/docs/knowledge-management/scripted-answers) to leverage your uploaded content
 - Set up [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for document review and updates
+

@@ -3,6 +3,8 @@ id: sharepoint
 title: Connecting SharePoint to Knowledge Management
 sidebar_label: SharePoint
 description: Step-by-step guide for integrating SharePoint as a knowledge repository
+status: 
+whatsPending: 
 ---
 
 # Connecting SharePoint to Knowledge Management
@@ -135,3 +137,4 @@ For large SharePoint repositories:
 - Configure [content categorization](/docs/knowledge-management/category-management) for imported SharePoint documents
 - Set up [audience targeting](/docs/knowledge-management/audience-management) for SharePoint content
 - Explore [analytics](/docs/knowledge-management/analytics-reporting) to monitor usage of SharePoint content
+

@@ -3,6 +3,8 @@ id: configure-bot-channels
 title: Configure Bot Channels
 sidebar_label: Configure Bot Channels
 description: Configure the channels for the bot
+status: 
+whatsPending: 
 ---
 
 # Configure Bot Channels

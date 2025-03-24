@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # IT Service Management
@@ -64,3 +66,4 @@ _Suggested Image: "it-metrics.png" - Analytics dashboard_
 ## Related Topics
 - [Ticket Automation](../ai-features/ticket-automation)
 - [Integration](../portal/integration)
+

@@ -3,6 +3,8 @@ id: slack
 title: Slack Channel Configuration
 sidebar_label: Slack
 description: Documentation for Slack Channel Configuration
+status: 
+whatsPending: 
 ---
 
 ---
@@ -52,3 +54,4 @@ After successfully registering for a tenant, follow these steps to integrate wit
 For Enterprise Grid customers who want to install the app at the organization level, please refer to Slack's official documentation:
 
 [Manage apps on Enterprise Grid](https://slack.com/help/articles/360000281563-Manage-apps-on-Enterprise-Grid#install-an-app-at-the-org-level)
+

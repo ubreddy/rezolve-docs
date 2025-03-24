@@ -3,6 +3,8 @@ title: 'Adding Bot in Teams App Locally'
 id: adding-bot-in-teams-app-locally
 sidebar_position: 2
 sidebar_label: Adding Bot in Teams App Locally
+status: 
+whatsPending: 
 ---
 
 
@@ -34,6 +36,7 @@ The bot will now show on your Left navigation menu. Please Note: In the future y
 the More icon (…) to see the bot button.
 
 ![Page 3 Image](/img/reference/images/Adding-Bot-in-Teams-App-Locally-v3_page3_2.png)
+
 
 
 

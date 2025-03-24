@@ -3,6 +3,8 @@ id: security-settings
 title: Security Settings
 sidebar_label: Security Settings
 description: Comprehensive guide to configuring and managing platform security settings
+status: 
+whatsPending: 
 ---
 
 # Security Settings
@@ -375,3 +377,4 @@ This guide provides detailed information on configuring and managing platform se
 After configuring security settings, consider exploring:
 1. [User Management](./user-management)
 2. [Role-Based Access Control](./rbac/role-based-access-control)
+

@@ -3,6 +3,8 @@ id: role-based-access-control
 title: Role-Based Access Control
 sidebar_label: Role-Based Access Control
 description: Comprehensive guide to understanding and implementing role-based access control in the platform
+status: 
+whatsPending: 
 ---
 
 # Role-Based Access Control
@@ -34,3 +36,4 @@ Employees generate data when they use the platform. This data is also protected 
 #### Actors
 
 These are user directly indirectly assigned to the record. e.g. Requested by, Assigned to etc. Based on the actors the user has access to the record.
+

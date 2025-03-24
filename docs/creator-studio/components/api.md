@@ -3,6 +3,8 @@ id: api
 title: API Components
 sidebar_label: API Components
 description: Documentation for API Components
+status: 
+whatsPending: 
 ---
 
 # API Components
@@ -22,3 +24,4 @@ The API Server component handles authentication by managing the base URL and sto
 The API component manages the specifics of each request—choosing the method (GET, POST, PUT, PATCH, or DELETE), constructing the payload, and setting any unique headers. When creating an API, you must select an API Server for authentication, then drag the API into your flow.
 
 ![API](../../../static/img/API%20Components/API.jpg)
+

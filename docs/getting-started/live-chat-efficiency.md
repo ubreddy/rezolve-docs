@@ -3,6 +3,8 @@ id: live-chat-efficiency
 title: Check Usage Live Chat Efficiency
 sidebar_label: Live Chat Efficiency
 description: Learn how to monitor and analyze virtual agent live chat efficiency through dashboards and reports
+status: 
+whatsPending: 
 ---
 
 # Check Usage Live Chat Efficiency in Dashboard and Reports
@@ -173,3 +175,4 @@ After analyzing bot efficiency, consider:
 - Sample size limitations
 - Seasonal variation effects
 - External factor influences
+

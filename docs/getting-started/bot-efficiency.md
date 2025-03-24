@@ -3,6 +3,8 @@ id: bot-efficiency
 title: Check Usage Bot Efficiency
 sidebar_label: Bot Efficiency
 description: Learn how to monitor and analyze virtual agent bot efficiency through dashboards and reports
+status: 
+whatsPending: 
 ---
 
 # Check Usage Bot Efficiency in Dashboard and Reports
@@ -173,3 +175,4 @@ After analyzing bot efficiency, consider:
 - Sample size limitations
 - Seasonal variation effects
 - External factor influences
+

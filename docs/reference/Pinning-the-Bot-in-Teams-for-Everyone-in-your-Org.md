@@ -1,6 +1,8 @@
 ---
 title: 'Pinning the Bot in Teams for Everyone in your Org'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

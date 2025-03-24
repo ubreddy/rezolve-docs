@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions on Existing SSO App  AD Sync'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

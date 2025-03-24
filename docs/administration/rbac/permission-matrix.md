@@ -3,6 +3,8 @@ id: permission-matrix
 title: Permission Matrix
 sidebar_label: Permission Matrix
 description: Comprehensive guide to understanding and using the platform's permission matrix
+status: 
+whatsPending: 
 ---
 
 # Permission Matrix

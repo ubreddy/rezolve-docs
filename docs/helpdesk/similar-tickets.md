@@ -3,6 +3,8 @@ id: similar-tickets
 title: Similar Tickets
 sidebar_label: Similar Tickets
 description: Documentation for Similar Tickets
+status: 
+whatsPending: 
 ---
 
 Agents can link related tickets to manage dependencies and avoid duplicate resolutions. Linking tickets helps in:
@@ -35,3 +37,4 @@ Once linked, agents can navigate between tickets easily, apply bulk actions, and
 4. Search for and select the ticket(s) to link
 5. Add a note explaining the relationship (optional)
 6. Save the link
+

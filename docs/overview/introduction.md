@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Introduction to Rezolve.ai
@@ -52,3 +54,4 @@ Ready to begin? Check out our [Getting Started](../getting-started/registration-
 - Visit our [Community Forums](https://community.rezolve.ai)
 - Contact [Support](https://support.rezolve.ai)
 - Check out our API Documentation
+

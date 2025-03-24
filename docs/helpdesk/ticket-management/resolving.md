@@ -3,6 +3,8 @@ id: resolving
 title: Resolving Tickets
 sidebar_label: Resolving Tickets
 description: Documentation for Resolving Tickets
+status: 
+whatsPending: 
 ---
 
 # Resolving Tickets in a Ticket Management System
@@ -24,3 +26,4 @@ Resolving a ticket effectively ensures customer satisfaction and compliance with
 - **Resolution Notes**: A well-documented resolution helps in future troubleshooting.
 - **Escalation Handling**: If an agent cannot resolve the issue, it should escalate efficiently.
 - **Customer Feedback**: Gathering feedback ensures continuous improvement in resolution processes.
+

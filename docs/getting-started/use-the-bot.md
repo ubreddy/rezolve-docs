@@ -3,6 +3,8 @@ id: use-the-bot
 title: Use the Bot
 sidebar_label: Use the Bot
 description: Learn how to interact with and utilize the virtual agent bot effectively
+status: 
+whatsPending: 
 ---
 
 # Use the Bot
@@ -160,3 +162,4 @@ After becoming familiar with the bot, consider:
 - Support resources for bot functionality
 - Feedback mechanisms
 - Training and improvement options
+

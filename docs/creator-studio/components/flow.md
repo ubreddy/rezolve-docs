@@ -3,6 +3,8 @@ id: flow
 title: Flow Components
 sidebar_label: Flow Components
 description: Documentation for Flow Components
+status: 
+whatsPending: 
 ---
 
 # Flow Components
@@ -16,3 +18,4 @@ Flows are components that the bot can run to automate a task or lead the end-use
 By default, several flows are automatically populated into a tenant upon tenant registration. These flows comprise the basic, out-of-box feature sets offered by Rezolve.ai.
 
 When creating a flow, you'll be asked to enter a name for the flow. Upon clicking **Create**, your flow will exist in a draft status and will not be added to the list of flows on the left until after you add at least 1 component and click **Save**.
+

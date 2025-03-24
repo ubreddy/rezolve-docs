@@ -3,6 +3,8 @@ id: faqs
 title: Announcements FAQs
 sidebar_label: FAQs
 description: Documentation for Announcements FAQs
+status: 
+whatsPending: 
 ---
 
 # Announcements FAQs
@@ -51,3 +53,4 @@ Yes, the user is given an option to select multiple number of users as audience 
 ## Is there an option to send announcements immediately instead of scheduling?
 
 No, The user will not be allowed to schedule an announcement for the immediate 2 minutes of creation time.
+

@@ -3,6 +3,8 @@ title: 'Uploading Custom Bot in Teams and Assigning Policy to Individual or Grou
 id: uploading-custom-bot-in-teams-and-assigning-policy-to-individual-or-group
 sidebar_position: 1
 sidebar_label: Uploading Custom Bot in Teams and Assigning Policy to Individual or Group
+status: 
+whatsPending: 
 ---
 
 # Uploading Custom Bot in Teams and Assigning Policy to Individual or Group
@@ -218,3 +220,4 @@ To make the bot more accessible, you can pin it to the Teams menu:
 9. Click **Confirm**
 
    ![Confirm Group Assignment](/img/reference/images/Uploading-Custom-Bot-in-Teams-and-Assigning-Policy-to-Individual-or-Group_page25_6.jpeg)
+

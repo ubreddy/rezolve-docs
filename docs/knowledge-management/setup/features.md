@@ -3,6 +3,8 @@ id: features
 title: Knowledge Management Features
 sidebar_label: Features
 description: Detailed overview of all Knowledge Management features and capabilities
+status: 
+whatsPending: 
 ---
 
 # Knowledge Management Features
@@ -84,3 +86,4 @@ This guide provides a comprehensive overview of all the features available in th
 - Review the [Subscriptions](/docs/knowledge-management/setup/subscriptions) page to choose the right plan
 - Learn how to [Connect Knowledge Repositories](/docs/knowledge-management/repositories/sharepoint) to import existing content
 - Explore [Category Management](/docs/knowledge-management/category-management) to organize your knowledge effectively
+

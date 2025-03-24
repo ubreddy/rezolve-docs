@@ -3,6 +3,8 @@ id: assigning
 title: Assigning Tickets
 sidebar_label: Assigning Tickets
 description: Documentation for Assigning Tickets
+status: 
+whatsPending: 
 ---
 
 
@@ -21,3 +23,4 @@ Ticket assignment is a critical process in a ticket management system to ensure 
 
 
 ![Ticket Assignment Interface](/img/Helpdesk/Assigning.jpg)
+

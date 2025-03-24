@@ -1,6 +1,8 @@
 ---
 title: 'Azure AD Configuration to Restrict App Access NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

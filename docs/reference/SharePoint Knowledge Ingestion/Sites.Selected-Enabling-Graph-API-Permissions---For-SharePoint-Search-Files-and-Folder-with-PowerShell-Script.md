@@ -1,6 +1,8 @@
 ---
 title: 'Sites.Selected Enabling Graph API Permissions   For SharePoint Search Files and Folder with PowerShell Script'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -186,3 +188,4 @@ Following these steps will allow you to successfully enable sites.selected permi
 ![Page 10 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-Graph-API-Permissions---For-SharePoint-Search-Files-and-Folder-with-PowerShell-Script_page10_4.png)
 
 ![Page 12 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Sites.Selected-Enabling-Graph-API-Permissions---For-SharePoint-Search-Files-and-Folder-with-PowerShell-Script_page12_4.jpeg)
+

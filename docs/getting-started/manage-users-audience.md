@@ -3,6 +3,8 @@ id: manage-users-audience
 title: Manage Users and Audience
 sidebar_label: Manage Users and Audience
 description: Manage users and audience
+status: 
+whatsPending: 
 ---
 
 # Manage Users and Audience
@@ -61,6 +63,7 @@ For creating the above users please refer  [Users management](../administration/
 ## Managing Audience
 
 For creating and managing audience please refer [Audience Management](../administration/audience-management/audience-management-composition)
+
 
 
 

@@ -3,6 +3,8 @@ id: web
 title: Using Virtual Agent on Web
 sidebar_label: Virtual Agent on Web
 description: Documentation for Using Virtual Agent on Web
+status: 
+whatsPending: 
 ---
 
 # Using Virtual Agent on Web
@@ -40,3 +42,4 @@ The AIBOT presents a full-screen interface:
 • Clear visual indicators for bot vs. user messages
 • Support for context switching between different topics
 • Expandable knowledge article displays with formatting preserved
+

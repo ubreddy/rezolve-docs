@@ -3,6 +3,8 @@ id: watchers
 title: Watchers
 sidebar_label: Watchers
 description: Documentation for Watchers
+status: 
+whatsPending: 
 ---
 
 
@@ -20,3 +22,4 @@ In the ticketing system, the **Watchers** feature allows users to be notified ab
 - The system ensures proper permissions so only authorized users can add others as watchers.
 
 This functionality enhances collaboration by keeping relevant stakeholders informed without requiring them to be assigned directly to the ticket.
+

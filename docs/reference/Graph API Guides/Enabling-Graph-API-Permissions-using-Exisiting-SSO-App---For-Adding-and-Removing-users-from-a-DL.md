@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions using Exisiting SSO App   For Adding and Removing users from a DL'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

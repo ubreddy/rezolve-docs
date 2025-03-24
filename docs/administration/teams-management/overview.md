@@ -3,6 +3,8 @@ id: teams-management-overview
 title: Teams Management Overview
 sidebar_label: Overview
 description: Comprehensive guide to creating and managing teams for collaboration and workflow organization
+status: 
+whatsPending: 
 ---
 
 # Teams Management Overview
@@ -395,3 +397,4 @@ This guide provides a comprehensive overview of the platform's teams management 
 After understanding teams management overview, consider exploring:
 1. [Workspace Management](../workspace-management/workspace-management-overview)
 2. [User Management](../user-management)
+

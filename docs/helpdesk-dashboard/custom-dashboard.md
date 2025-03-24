@@ -3,6 +3,8 @@ id: custom-dashboard
 title: Custom Dashboard
 sidebar_label: Custom Dashboard
 description: Documentation for Custom Dashboard
+status: 
+whatsPending: 
 ---
 
 # Custom Dashboard
@@ -90,3 +92,4 @@ A Custom Dashboard for a Single Ticket Type is a user-defined interface that tra
 - **Color Coding**: Highlight critical metrics with custom color schemes
 - **Export Options**: Schedule regular exports or generate on-demand reports
 - **Saved Views**: Create and save multiple configurations for different purposes
+

@@ -3,6 +3,8 @@ id: groups-management
 title: Groups Management
 sidebar_label: Groups Management
 description: Comprehensive guide to creating and managing user groups within the platform
+status: 
+whatsPending: 
 ---
 
 # Groups Management
@@ -27,4 +29,5 @@ TODO Create Group Image
 Please refer to the [Sync groups from external source](./sync-groups) for more details.
 
 ## Audit Trail
+
 

@@ -3,6 +3,8 @@ sidebar_position: 5
 id: custom-agents
 sidebar_label: Custom Agents
 description: Learn how to build, deploy, and manage custom AI agents in Rezolve.ai
+status: 
+whatsPending: 
 ---
 
 # Custom Agents
@@ -256,3 +258,4 @@ _Suggested Image: "example-implementations.png" - Code examples_
 ## Related Topics
 - [Knowledge Agents](knowledge-agents)
 - [System Integration](../core-concepts/integrations)
+

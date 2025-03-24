@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions using SSO App for Group Mailbox Flow'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

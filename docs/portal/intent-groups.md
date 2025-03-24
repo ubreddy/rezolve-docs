@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Intent Groups
@@ -65,3 +67,4 @@ _Suggested Image: "intent-best-practices.png" - Design guidelines_
 - [Audience](audience)
 - [Offers & Intent Groups](offers-intent-groups)
 - [Integration](integration)
+

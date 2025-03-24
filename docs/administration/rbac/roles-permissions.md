@@ -3,6 +3,8 @@ id: roles-permissions
 title: Roles and Permissions
 sidebar_label: Roles and Permissions
 description: Detailed guide to understanding the platform's roles and permissions structure
+status: 
+whatsPending: 
 ---
 
 # Roles and Permissions

@@ -3,6 +3,8 @@ id: settings-management
 title: Settings Management
 sidebar_label: Settings Management
 description: Comprehensive guide to configuring and managing platform settings
+status: 
+whatsPending: 
 ---
 
 # Settings Management
@@ -368,4 +370,5 @@ After configuring platform settings, consider exploring:
 2. [Security Settings](./security-settings)
 3. [User Management](./user-management)
 4. [Role-Based Access Control](./rbac/role-based-access-control)
+
 

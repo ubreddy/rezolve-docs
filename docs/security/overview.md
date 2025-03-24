@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Security & Access Control
@@ -210,3 +212,4 @@ _Suggested Image: "security-practices.png" - Best practices guide_
 - [Service Portal](../portal/overview)
 - [Use Cases](../use-cases/overview)
 - [System Integration](../core-concepts/integrations)
+

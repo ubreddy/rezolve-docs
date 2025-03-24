@@ -4,6 +4,8 @@ id: email-agents
 sidebar_label: Email Agents
 description: Learn how to configure and manage email processing in Rezolve.ai
 title: Email Agents
+status: 
+whatsPending: 
 ---
 
 # Email Agents
@@ -211,3 +213,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 ## Related Topics
 - [Ticket Automation](ticket-automation)
 - [System Integration](../core-concepts/integrations)
+

@@ -3,6 +3,8 @@ id: others
 title: Connecting Other Knowledge Repositories
 sidebar_label: Others
 description: Guide for integrating additional knowledge repositories not covered by dedicated connectors
+status: 
+whatsPending: 
 ---
 
 # Connecting Other Knowledge Repositories
@@ -243,3 +245,4 @@ Access detailed logs:
 - Set up [content transformation](/docs/knowledge-management/creating-articles) rules
 - Explore [analytics](/docs/knowledge-management/analytics-reporting) to monitor content usage
 - Implement [knowledge workflow](/docs/knowledge-management/knowledge-workflow) for maintaining imported content
+

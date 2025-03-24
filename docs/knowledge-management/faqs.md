@@ -3,6 +3,8 @@ id: faqs
 title: Knowledge Management FAQs
 sidebar_label: FAQs
 description: Frequently asked questions about the Knowledge Management system
+status: 
+whatsPending: 
 ---
 
 # Knowledge Management FAQs
@@ -275,3 +277,4 @@ For implementation guidance, see [Knowledge Workflow](/docs/knowledge-management
 - Explore [Organizing Knowledge](/docs/knowledge-management/organizing-knowledge) for best practices on knowledge structure
 - Learn about [Audience Management](/docs/knowledge-management/audience-management) to target content to specific users
 - Set up [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to measure knowledge effectiveness
+

@@ -1,6 +1,8 @@
 ---
 title: 'Azure Certificate expried'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

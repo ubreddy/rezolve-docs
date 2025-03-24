@@ -1,6 +1,8 @@
 ---
 title: 'Enabling API Permissions existing app   For SharePoint Pages'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -121,4 +123,5 @@ documents.
 ![Page 9 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page9_5.png)
 
 ![Page 10 Image](/img/reference/SharePoint%20Knowledge%20Ingestion/images/Enabling-API-Permissions-existing-app---For-SharePoint-Pages_page10_4.png)
+
 

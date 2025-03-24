@@ -3,6 +3,8 @@ id: line
 title: Line Chart
 sidebar_label: Line Chart
 description: Documentation for Line Chart
+status: 
+whatsPending: 
 ---
 
 # Line Chart
@@ -33,5 +35,6 @@ A Line Chart is used to visualize trends over time by connecting data points wit
 - **Custom Filters**: Status or type-specific filtering
 
 ![Line Chart](/img/Helpdesk/Line_Charts.jpg)
+
 
 

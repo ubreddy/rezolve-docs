@@ -1,6 +1,8 @@
 ---
 title: 'Setting Response and Resolution SLA Goal For a Queue New'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

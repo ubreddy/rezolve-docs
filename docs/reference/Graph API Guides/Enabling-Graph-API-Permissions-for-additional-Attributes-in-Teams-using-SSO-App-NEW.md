@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions for additional Attributes in Teams using SSO App'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Enabling Graph API Permissions for Microsoft Teams SSO App

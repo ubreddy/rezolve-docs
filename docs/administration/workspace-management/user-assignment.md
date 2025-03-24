@@ -3,6 +3,8 @@ id: workspace-user-assignment
 title: User Assignment to Workspaces
 sidebar_label: User Assignment
 description: Comprehensive guide to assigning users to workspaces and managing workspace membership
+status: 
+whatsPending: 
 ---
 
 # User Assignment to Workspaces
@@ -398,3 +400,4 @@ After implementing user assignment, consider exploring:
 3. [Usage Scenarios](./workspace-usage-scenarios)
 4. [User Management](../user-management)
 5. [Groups Management](../groups/groups-management)
+

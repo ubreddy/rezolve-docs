@@ -3,6 +3,8 @@ id: setup-teams-queues
 title: Setup Teams and Queues
 sidebar_label: Setup Teams and Queues
 description: Learn how to set up teams and manage queues for efficient helpdesk operations
+status: 
+whatsPending: 
 ---
 
 # Setup Teams and Check Queues
@@ -140,3 +142,4 @@ After setting up teams and queues, consider:
 - Support resources for team and queue management
 - Community best practices
 - Configuration review assistance
+

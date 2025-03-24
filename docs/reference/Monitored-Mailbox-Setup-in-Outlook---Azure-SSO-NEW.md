@@ -1,6 +1,8 @@
 ---
 title: 'Monitored Mailbox Setup in Outlook   Azure SSO NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

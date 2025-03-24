@@ -1,6 +1,8 @@
 ---
 sidebar_position: 2
 sidebar_label: Uploading Articles
+status: 
+whatsPending: 
 ---
 
 # Uploading Articles in KM
@@ -50,3 +52,4 @@ This document describes the step by step process for uploading and publishing an
 - [Category Management](./category-management.md)
 - [Article Templates](./article-templates.md)
 - [Content Guidelines](./content-guidelines.md)
+

@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions New app   For SharePoint Search'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

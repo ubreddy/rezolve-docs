@@ -3,6 +3,8 @@ id: subscriptions
 title: Knowledge Management Subscriptions
 sidebar_label: Subscriptions
 description: Overview of subscription options for Knowledge Management features
+status: 
+whatsPending: 
 ---
 
 # Knowledge Management Subscriptions
@@ -78,3 +80,4 @@ A 14-day free trial of the Professional tier is available for new customers. Dur
 - Review the [Features](/docs/knowledge-management/setup/features) page for detailed information about each feature
 - Contact sales at sales@example.com for custom Enterprise pricing
 - Schedule a demo to see the platform in action
+

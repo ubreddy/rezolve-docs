@@ -1,6 +1,8 @@
 ---
 title: 'Web Widget Instruction with a SharePoint Package'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

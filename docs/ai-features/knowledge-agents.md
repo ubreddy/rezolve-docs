@@ -3,6 +3,8 @@ sidebar_position: 4
 id: knowledge-agents
 sidebar_label: Knowledge Agents
 description: Learn how to configure and manage knowledge management in Rezolve.ai
+status: 
+whatsPending: 
 ---
 
 # Knowledge Agents
@@ -226,3 +228,4 @@ _Suggested Image: "advanced-features.png" - Advanced features overview_
 
 ## Related Topics
 - [Custom Agents](custom-agents)
+

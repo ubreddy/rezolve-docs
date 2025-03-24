@@ -3,6 +3,8 @@ id: sso-configuration
 title: Single Sign-On Configuration
 sidebar_label: SSO Configuration
 description: Comprehensive guide to setting up and managing Single Sign-On authentication
+status: 
+whatsPending: 
 ---
 
 # Single Sign-On Configuration
@@ -58,3 +60,4 @@ Link per idp
 ### Other settings
 
 * Session Time
+

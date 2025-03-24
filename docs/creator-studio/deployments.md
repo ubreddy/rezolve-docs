@@ -3,6 +3,8 @@ id: deployments
 title: Deployments
 sidebar_label: Deployments
 description: Documentation for Deployments
+status: 
+whatsPending: 
 ---
 
 # Deployments
@@ -19,3 +21,4 @@ Package Deployment allows you to deploy multiple components and/or flows to the 
 Note that once a package is deployed, any components in the Production Folder that share the same name as components in your package will be overwritten. Usually this is done intentionally to modify existing components in the Production Folder, but in the event that this could be done by mistake, a warning message will appear to give you the opportunity to cancel your deployment.
 
 ![Conflicts Screen](../../static/img/Creator%20Studio/Conflicts_Screen.jpg)
+

@@ -1,6 +1,8 @@
 ---
 sidebar_position: 2
 title: Rules Engine
+status: 
+whatsPending: 
 ---
 
 # Rules Engine
@@ -50,3 +52,4 @@ The rules engine enables dynamic decision making based on predefined conditions 
 - Test edge cases
 - Document rule logic
 - Regular reviews
+

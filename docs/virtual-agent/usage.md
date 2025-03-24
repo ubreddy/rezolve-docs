@@ -3,6 +3,8 @@ id: usage
 title: Virtual Agent Usage Guide
 sidebar_label: Agent Usage Guide
 description: Documentation for Virtual Agent Usage Guide
+status: 
+whatsPending: 
 ---
 
 # Rezolve.ai Chatbot User Guide
@@ -130,3 +132,4 @@ This feature is available to the user only through MS-Teams and Slack.
 - MS Teams and Slack Integration Guide
 - Troubleshooting Bot Issues
 - Live Agent Support Availability
+

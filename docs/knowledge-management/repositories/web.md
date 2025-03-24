@@ -3,6 +3,8 @@ id: web
 title: Connecting Web Content to Knowledge Management
 sidebar_label: Web
 description: Guide for importing and syncing web-based content into the Knowledge Management system
+status: 
+whatsPending: 
 ---
 
 # Connecting Web Content to Knowledge Management
@@ -152,3 +154,4 @@ Access detailed logs:
 - Configure [category management](/docs/knowledge-management/category-management) for web content
 - Set up [content transformation](/docs/knowledge-management/creating-articles) rules
 - Explore [analytics](/docs/knowledge-management/analytics-reporting) to monitor usage of web content
+

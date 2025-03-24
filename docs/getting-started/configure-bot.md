@@ -3,6 +3,8 @@ id: configure-bot
 title: Configure Bot
 sidebar_label: Configure Bot
 description: Configure the bot
+status: 
+whatsPending: 
 ---
 
 # Configure Bot
@@ -36,6 +38,7 @@ TODO
 Do this in Creator Studio directly or here?
 TODO 
 ![Standard Messages](/img/getting-started/bot-messages.png)
+
 
 
 

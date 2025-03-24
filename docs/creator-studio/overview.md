@@ -3,6 +3,8 @@ id: overview
 title: Creator Studio Overview
 sidebar_label: Creator Studio Overview
 description: Documentation for Creator Studio Overview
+status: 
+whatsPending: 
 ---
 
 # Creator Studio Overview
@@ -28,3 +30,4 @@ Creator Studio accommodates various development preferences:
 - **Hybrid approach** that allows collaboration between technical and non-technical team members
 
 Whether you're looking to streamline operations, enhance customer experiences, or innovate service delivery, Creator Studio provides the essential tools to develop and manage intelligent bots with unprecedented ease and efficiency.
+

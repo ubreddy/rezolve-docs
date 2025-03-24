@@ -3,6 +3,8 @@ id: testing-knowledge
 title: Testing Knowledge Content Effectiveness
 sidebar_label: Testing Knowledge
 description: Guide for testing and validating the effectiveness of knowledge content
+status: 
+whatsPending: 
 ---
 
 # Testing Knowledge Content Effectiveness
@@ -369,3 +371,4 @@ Track progress in addressing identified issues:
 - Explore [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) for comprehensive performance measurement
 - Learn about [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) to integrate testing into content processes
 - Set up [Knowledge Gaps Management](/docs/knowledge-management/knowledge-gaps) to address issues identified through testing
+

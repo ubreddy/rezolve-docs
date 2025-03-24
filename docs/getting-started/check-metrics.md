@@ -3,6 +3,8 @@ id: check-metrics
 title: Check Metrics
 sidebar_label: Check Metrics
 description: Learn how to monitor bot efficiency and agent performance through dashboards and reports
+status: 
+whatsPending: 
 ---
 
 # Check Metrics
@@ -183,3 +185,4 @@ After becoming familiar with metrics, consider:
 - Report configuration assistance
 - Data interpretation guidance
 - Performance benchmarking resources
+

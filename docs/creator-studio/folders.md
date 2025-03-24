@@ -3,6 +3,8 @@ id: folders
 title: Managing Folders
 sidebar_label: Managing Folders
 description: Documentation for Managing Folders
+status: 
+whatsPending: 
 ---
 
 # Managing Folders
@@ -80,3 +82,4 @@ You must then select the components you'd like to clone. You may clone as many c
 If a flow is selected, Creator Studio will automatically queue up all components being used by that flow as well, alleviating you of the need to select each component individually. After clicking "Clone" you will see a list of all components queued up to be cloned. Simply click "Proceed" to complete the process. Note that if the target folder already has a component with the same name, you will receive warning asking if you'd like to overwrite the old version.
 
 ![Conflicts Screen](../../static/img/Creator%20Studio/Conflicts_Screen.jpg)
+

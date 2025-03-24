@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: Introduction to Core Concepts
+status: 
+whatsPending: 
 ---
 
 # Introduction to Core Concepts
@@ -34,3 +36,4 @@ Rezolve.ai is built on a modern, scalable architecture that combines:
 ## Next Steps
 
 - Explore [Integrations](../integrations.md)
+

@@ -3,6 +3,8 @@ id: public
 title: Public Notes
 sidebar_label: Public Notes
 description: Documentation for Public Notes
+status: 
+whatsPending: 
 ---
 
 # Public Notes
@@ -31,3 +33,4 @@ These notes are visible to the requester and all team members. Public notes are 
 3. Select "Public Note" from the note type dropdown
 4. Enter your note in the text field
 5. Click "Add Note" to save
+

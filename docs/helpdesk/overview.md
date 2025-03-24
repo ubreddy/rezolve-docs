@@ -3,6 +3,8 @@ id: overview
 title: Helpdesk Overview
 sidebar_label: Overview
 description: Documentation for Helpdesk Overview
+status: 
+whatsPending: 
 ---
 
 # Helpdesk Overview
@@ -38,3 +40,4 @@ The purpose of a Ticket Management System is to enhance efficiency in resolving 
 - **Multi-Channel Support**: Handles tickets from emails, chats, portals, and calls. 
 
 - **Integration Capabilities**: Syncs with third-party tools like CRM, ITSM, and communication platforms.
+

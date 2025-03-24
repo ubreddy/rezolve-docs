@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+status: 
+whatsPending: 
 ---
 
 # HR Service Management
@@ -63,3 +65,4 @@ _Suggested Image: "hr-metrics.png" - Analytics dashboard_
 
 ## Related Topics
 - [Integration](../portal/integration)
+

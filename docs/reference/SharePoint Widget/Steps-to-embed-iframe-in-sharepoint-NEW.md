@@ -1,6 +1,8 @@
 ---
 title: 'Steps to embed iframe in sharepoint NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

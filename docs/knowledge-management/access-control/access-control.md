@@ -2,6 +2,8 @@
 sidebar_position: 9
 title: Access Control
 sidebar_label: Access Control
+status: 
+whatsPending: 
 ---
 
 # Access Control
@@ -54,3 +56,4 @@ Manage permissions and access levels for your knowledge base content.
 - Document permission changes
 - Monitor access patterns
 - Implement proper logging
+
