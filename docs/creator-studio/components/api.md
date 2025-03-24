@@ -13,7 +13,7 @@ whatsPending:
 
 The API and API Server components allow you to integrate with various 3rd party services using standard REST or SOAP requests. These components are unique in that they must be paired. Since most API calls require authentication, Creator Studio splits the process into two parts:
 
-## API Servers
+## API Servers [To be replaced with Connectors and Connections]
 
 The API Server component handles authentication by managing the base URL and storing credentials (such as a Client ID and Client Secret or an Access Token). Once configured, it authorizes your API calls, so you only need to enter sensitive credentials once. API Servers aren't added to flows—they simply support API components when executed by the bot.
 

@@ -1,7 +1,7 @@
 ---
 id: metadata-linking
 title: Metadata Linking
-sidebar_label: Linking
+sidebar_label: Metadata Linking
 description: Documentation for Metadata Linking
 status: 
 whatsPending: 

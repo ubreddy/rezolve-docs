@@ -3,8 +3,7 @@ id: ticket-types
 title: Ticket Types Configuration
 sidebar_label: Types Configuration
 description: Documentation for Ticket Types Configuration
-status: Done
-whatsPending: Images
+status: Pending
 ---
 
 # Ticket Types

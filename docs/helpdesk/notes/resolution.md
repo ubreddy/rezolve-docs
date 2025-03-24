@@ -1,7 +1,7 @@
 ---
 id: resolution
 title: Resolution Notes
-sidebar_label: Notes
+sidebar_label: Resolution Notes
 description: Documentation for Resolution Notes
 status: 
 whatsPending: 

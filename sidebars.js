@@ -350,7 +350,6 @@ module.exports = {
           items: [
             'creator-studio/components/flow',
             'creator-studio/components/card',
-            'creator-studio/components/integration-server',
             'creator-studio/components/connectors',
             'creator-studio/components/connections',
             'creator-studio/components/api',

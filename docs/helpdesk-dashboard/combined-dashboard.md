@@ -3,8 +3,8 @@ id: combined-dashboard
 title: Combined Dashboard
 sidebar_label: Combined Dashboard
 description: Documentation for Combined Dashboard
-status: 
-whatsPending: 
+status: Pending
+whatsPending: usage of dashboard filters, cross filter charts. 
 ---
 
 # Combined Dashboard

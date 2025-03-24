@@ -1,7 +1,7 @@
 ---
 id: linking
 title: Linking Tickets
-sidebar_label: Tickets
+sidebar_label: Linking Tickets
 description: Documentation for Linking Tickets
 status: 
 whatsPending: 

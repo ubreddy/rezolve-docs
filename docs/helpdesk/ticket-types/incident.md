@@ -1,7 +1,7 @@
 ---
 id: incident
 title: Incident Management
-sidebar_label: Management
+sidebar_label: Incident Management
 description: Documentation for Incident Management
 status: 
 whatsPending: 

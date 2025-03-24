@@ -1,7 +1,7 @@
 ---
 id: public
 title: Public Notes
-sidebar_label: Notes
+sidebar_label: Public Notes
 description: Documentation for Public Notes
 status: 
 whatsPending: 

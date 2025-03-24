@@ -1,7 +1,7 @@
 ---
 id: change
 title: Change Management
-sidebar_label: Management
+sidebar_label: Change Management
 description: Documentation for Change Management
 status: 
 whatsPending: 

@@ -1,7 +1,7 @@
 ---
 id: private
 title: Private Notes
-sidebar_label: Notes
+sidebar_label: Private Notes
 description: Documentation for Private Notes
 status: 
 whatsPending: 

@@ -1,7 +1,7 @@
 ---
 id: filters
 title: Ticket Filters
-sidebar_label: Filters
+sidebar_label: Ticket Filters
 description: Documentation for Ticket Filters
 status: 
 whatsPending: 
