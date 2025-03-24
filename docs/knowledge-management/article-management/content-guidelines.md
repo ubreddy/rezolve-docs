@@ -68,4 +68,4 @@ Best practices for creating effective knowledge base content.
 
 - [Article Management](./article-management.md)
 - [Category Management](./category-management.md)
-- [SEO Best Practices](./seo-best-practices.md)
+

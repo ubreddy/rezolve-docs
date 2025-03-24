@@ -63,13 +63,13 @@ Once fields are created in the Field Bank, they can be easily added to any templ
 1:	Navigate to your template in the Service Catalog
 
 2:	Go to the fields section
-
+ 
 3:	Click "Add Field from Bank" or a similar option
 
 4:	Browse or search for the field you want to add
 
 5:	Select the field to add it to your template
-
+ 
 
 # Managing Fields in the Field Bank
 
