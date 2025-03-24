@@ -1,6 +1,8 @@
 ---
 title: 'Admin Console Roles at a Glance NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -48,6 +50,7 @@ TICKET MANAGEMENT
 | Ticket Agent | Provide access to My Tickets | This role allows an agent to see tickets raised by users. |
 | Ticket Agent Supervisor | Provides Supervisor privileges in the Ticketing system. | This role gives you access to ticketing Reports, ability to close tickets at any status and a different view of ticketing if assigned as a queue approver. |
 | Ticket Admin | Provide Access to Ticketing Settings | This role gives a user the ability to configure queues and assign (add/remove) agents from queues. |
+
 
 
 

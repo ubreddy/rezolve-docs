@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Best Practices for Structuring Knowledge Articles
@@ -75,3 +77,4 @@ This guide provides best practices for creating and organizing knowledge article
 - Add relevant tags
 - Include proper categories
 - Set appropriate status
+

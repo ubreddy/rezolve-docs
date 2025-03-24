@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+status: 
+whatsPending: 
 ---
 
 # Knowledge Base Integrations
@@ -226,3 +228,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 - [Knowledge Agents](../ai-features/knowledge-agents)
 - [Bot Integration](bot-channels)
 - [System Integration](../core-concepts/integrations)
+

@@ -1,6 +1,8 @@
 ---
 title: 'How to Register an Azure Application for SharePoint Ingestion for Rezolve.ai'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

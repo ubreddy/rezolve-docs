@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Managed Service Provider
@@ -64,3 +66,4 @@ _Suggested Image: "msp-metrics.png" - Analytics dashboard_
 ## Related Topics
 - [Ticket Automation](../ai-features/ticket-automation)
 - [Integration](../portal/integration)
+

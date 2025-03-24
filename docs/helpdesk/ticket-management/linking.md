@@ -3,6 +3,8 @@ id: linking
 title: Linking Tickets
 sidebar_label: Tickets
 description: Documentation for Linking Tickets
+status: 
+whatsPending: 
 ---
 
 # Linking Tickets
@@ -16,3 +18,4 @@ Agents can link related tickets to manage dependencies and avoid duplicate resol
 Once linked, agents can navigate between tickets easily, apply bulk actions, and ensure consistency in responses.
 
 ![Ticket Linking Interface](/img/Helpdesk/Linking_Tickets.jpg)
+

@@ -3,6 +3,8 @@ id: analytics-reporting
 title: Knowledge Analytics and Reporting
 sidebar_label: Analytics and Reporting
 description: Guide for measuring, analyzing, and reporting on knowledge base performance and impact
+status: 
+whatsPending: 
 ---
 
 # Knowledge Analytics and Reporting
@@ -358,3 +360,4 @@ Communicate insights effectively:
 - Explore [Knowledge Gaps Management](/docs/knowledge-management/knowledge-gaps) to address issues identified through analytics
 - Learn about [Testing Knowledge](/docs/knowledge-management/testing-knowledge) to validate content effectiveness
 - Set up [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) to integrate analytics into content processes
+

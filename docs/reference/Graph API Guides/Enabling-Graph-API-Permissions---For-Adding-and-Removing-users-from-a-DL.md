@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions   For Adding and Removing users from a DL'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

@@ -3,6 +3,8 @@ id: subscriptions
 title: Subscriptions
 sidebar_label: Subscriptions
 description: Documentation for Subscriptions
+status: 
+whatsPending: 
 ---
 
 # Subscriptions
@@ -73,3 +75,4 @@ Track the effectiveness of your subscriptions with:
 - Open and interaction statistics
 - User engagement metrics
 - Data utilization insights
+

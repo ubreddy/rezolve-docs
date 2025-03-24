@@ -3,6 +3,8 @@ id: widget
 title: Using Virtual Agent Widget
 sidebar_label: Virtual Agent Widget
 description: Documentation for Using Virtual Agent Widget
+status: 
+whatsPending: 
 ---
 
 # Using Virtual Agent Widget
@@ -40,3 +42,4 @@ The Widget presents as a non-intrusive floating button:
 • Can be minimized to return to browsing
 • Provides notification indicators for new messages
 • Offers the same core functionality as the full AIBOT in a compact format
+

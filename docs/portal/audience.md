@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+status: 
+whatsPending: 
 ---
 
 # Audience
@@ -66,3 +68,4 @@ _Suggested Image: "audience-management.png" - Management dashboard_
 - [Intent Groups](intent-groups)
 - [Offers & Intent Groups](offers-intent-groups)
 - [Integration](integration)
+

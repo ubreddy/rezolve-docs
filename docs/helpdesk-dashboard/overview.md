@@ -3,6 +3,8 @@ id: overview
 title: Helpdesk Dashboard Overview
 sidebar_label: Dashboard Overview
 description: Documentation for Helpdesk Dashboard Overview
+status: 
+whatsPending: 
 ---
 
 # Helpdesk Dashboard Overview
@@ -61,3 +63,4 @@ Each chart can display insights based on:
 - **Average** – Mean resolution time, response time, or customer satisfaction score
 
 By leveraging these charts and metrics, the Ticketing System Dashboard provides clear, data-driven insights to enhance efficiency, optimize workflows, and improve service performance.
+

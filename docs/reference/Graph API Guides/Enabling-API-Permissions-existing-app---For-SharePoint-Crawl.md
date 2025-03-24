@@ -1,6 +1,8 @@
 ---
 title: 'Enabling API Permissions existing app   For SharePoint Crawl'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -121,4 +123,5 @@ documents.
 ![Page 9 Image](/img/reference/Graph%20API%20Guides/images/Enabling-API-Permissions-existing-app---For-SharePoint-Crawl_page9_5.png)
 
 ![Page 10 Image](/img/reference/Graph%20API%20Guides/images/Enabling-API-Permissions-existing-app---For-SharePoint-Crawl_page10_4.png)
+
 

@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions on Exisiting SSO App  Password Reset Flow'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

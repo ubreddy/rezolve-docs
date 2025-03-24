@@ -3,6 +3,8 @@ id: servicenow
 title: Servicenow Integration
 sidebar_label: Integration
 description: Documentation for Servicenow Integration
+status: 
+whatsPending: 
 ---
 
 
@@ -322,4 +324,5 @@ SERVICENOW_USERNAME=<username>
 SERVICENOW_PASSWORD=<password>
 SERVICENOW_INSTANCE=<instance_url>
 WEBHOOK_SECRET=<webhook_secret>
+
 

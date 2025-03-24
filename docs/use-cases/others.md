@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+status: 
+whatsPending: 
 ---
 
 # Other Use Cases
@@ -71,3 +73,4 @@ _Suggested Image: "success-metrics.png" - Analytics dashboard_
 
 ## Related Topics
 - [Integration](../portal/integration)
+

@@ -3,6 +3,8 @@ id: knowledge-workflow
 title: Knowledge Workflow Management
 sidebar_label: Knowledge Workflow
 description: Guide for implementing effective knowledge workflows for content creation, review, and maintenance
+status: 
+whatsPending: 
 ---
 
 # Knowledge Workflow Management
@@ -312,3 +314,4 @@ Improve workflow efficiency:
 - Explore [Testing Knowledge](/docs/knowledge-management/testing-knowledge) to validate content effectiveness
 - Learn about [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to measure workflow performance
 - Set up [Knowledge Gaps Management](/docs/knowledge-management/knowledge-gaps) to identify content needs
+

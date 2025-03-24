@@ -3,6 +3,8 @@ id: bulk-operations
 title: Bulk Operations
 sidebar_label: Operations
 description: Documentation for Bulk Operations
+status: 
+whatsPending: 
 ---
 
 # Bulk Operations
@@ -46,3 +48,4 @@ Enables managing multiple tickets simultaneously with the following actions:
 - **Consistency**: Apply the same changes across multiple tickets to ensure uniform handling
 - **Workload Management**: Quickly process large volumes of tickets during peak periods
 - **Error Reduction**: Minimize the risk of inconsistent updates when handling similar tickets
+

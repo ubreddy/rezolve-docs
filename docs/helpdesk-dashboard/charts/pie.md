@@ -3,6 +3,8 @@ id: pie
 title: Pie Chart
 sidebar_label: Pie Chart
 description: Documentation for Pie Chart
+status: 
+whatsPending: 
 ---
 
 # Pie Chart

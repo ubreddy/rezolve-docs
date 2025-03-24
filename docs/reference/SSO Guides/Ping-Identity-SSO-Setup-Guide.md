@@ -1,6 +1,8 @@
 ---
 title: 'Ping Identity SSO Setup Guide'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -65,5 +67,6 @@ permissions within the application itself.
 By following these steps, you can successfully add a SAML application to Ping Identity and assign
 users to it. If you encounter any issues, consult the Ping Identity documentation or support for
 further assistance.
+
 
 

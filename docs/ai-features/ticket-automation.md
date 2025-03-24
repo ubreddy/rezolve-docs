@@ -3,6 +3,8 @@ sidebar_position: 3
 id: ticket-automation
 sidebar_label: Ticket Automation
 description: Learn how to configure and manage ticket automation in Rezolve.ai
+status: 
+whatsPending: 
 ---
 
 # Standard Ticket Automation Agents
@@ -197,3 +199,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 ## Related Topics
 - [Email Agents](email-agents)
 - [Knowledge Agents](knowledge-agents)
+

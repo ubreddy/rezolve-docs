@@ -3,6 +3,8 @@ id: user-attributes
 title: User Attributes
 sidebar_label: User Attributes
 description: Comprehensive guide to managing user attributes and profile information
+status: 
+whatsPending: 
 ---
 
 # User Attributes
@@ -22,3 +24,4 @@ This guide provides detailed information on managing user attributes and profile
 * Required
 * Allow Multiple
 * Append or overwrite on sync
+

@@ -3,6 +3,8 @@ id: confluence
 title: Connecting Confluence to Knowledge Management
 sidebar_label: Confluence
 description: Step-by-step guide for integrating Atlassian Confluence as a knowledge repository
+status: 
+whatsPending: 
 ---
 
 # Connecting Confluence to Knowledge Management
@@ -131,3 +133,4 @@ For large Confluence instances:
 - Configure [category management](/docs/knowledge-management/category-management) for imported Confluence content
 - Set up [audience targeting](/docs/knowledge-management/audience-management) for Confluence content
 - Explore [analytics](/docs/knowledge-management/analytics-reporting) to monitor usage of Confluence content
+

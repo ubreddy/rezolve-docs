@@ -3,6 +3,8 @@ id: group
 title: Group Chart
 sidebar_label: Group Chart
 description: Documentation for Group Chart
+status: 
+whatsPending: 
 ---
 
 A Grouped Bar Chart is used to compare multiple variables side by side. Each group represents a category, and within each category, there are multiple bars representing different subcategories.
@@ -18,3 +20,4 @@ A Grouped Bar Chart is used to compare multiple variables side by side. Each gro
 * X-Axis: Category (e.g., Ticket Type – Hardware, Software, Network).
 * Y-Axis: Count of Tickets.
 * Grouping: By Agent or Location (each group will have multiple bars per agent or location).
+

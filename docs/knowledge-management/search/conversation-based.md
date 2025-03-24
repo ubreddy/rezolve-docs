@@ -3,6 +3,8 @@ id: conversation-based
 title: Conversation-Based Knowledge Search in Live Chat
 sidebar_label: Conversation-Based Search
 description: Guide for implementing and optimizing conversation-based knowledge search in live chat interactions
+status: 
+whatsPending: 
 ---
 
 # Conversation-Based Knowledge Search in Live Chat
@@ -274,3 +276,4 @@ Improve agent response speed:
 - Explore [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for maintaining content quality
 - Learn about [Testing Knowledge](/docs/knowledge-management/testing-knowledge) to validate effectiveness
 - Set up [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to track performance
+

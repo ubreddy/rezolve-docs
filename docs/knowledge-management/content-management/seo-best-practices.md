@@ -1,6 +1,8 @@
 ---
 sidebar_position: 7
 title: SEO Best Practices
+status: 
+whatsPending: 
 ---
 
 # SEO Best Practices
@@ -59,3 +61,4 @@ Optimize your knowledge base articles for better search engine visibility and us
 - Maintain consistent quality
 - Regular content updates
 - Monitor and adjust strategy
+

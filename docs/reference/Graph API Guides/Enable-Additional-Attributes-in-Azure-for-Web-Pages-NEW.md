@@ -1,6 +1,8 @@
 ---
 title: 'Enable Additional Attributes in Azure for Web Pages NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

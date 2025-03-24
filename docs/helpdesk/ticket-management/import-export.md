@@ -3,6 +3,8 @@ id: import-export
 title: Import and Export
 sidebar_label: and Export
 description: Documentation for Import and Export
+status: 
+whatsPending: 
 ---
 
 # Import and Export
@@ -121,3 +123,4 @@ The system offers flexible exporting options to help users retrieve and analyze 
    - Perform detailed analysis of helpdesk performance metrics
    - Identify patterns in ticket creation and resolution
    - Support data-driven decision making for process improvements
+

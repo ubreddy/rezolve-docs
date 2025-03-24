@@ -3,6 +3,8 @@ id: transition
 title: Ticket Transitions
 sidebar_label: Transitions
 description: Documentation for Ticket Transitions
+status: 
+whatsPending: 
 ---
 
 # Ticket Transitions
@@ -38,3 +40,4 @@ Ticket transitions provide several key benefits:
 - **Ensures consistent handling of similar issues**
 - **Facilitates accurate reporting and metrics**
 - **Helps identify bottlenecks in the resolution process**
+

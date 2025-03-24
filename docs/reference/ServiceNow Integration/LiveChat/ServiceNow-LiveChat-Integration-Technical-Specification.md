@@ -1,6 +1,8 @@
 ---
 title: 'ServiceNow LiveChat Integration Technical Specification'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -251,4 +253,5 @@ WEBHOOK\_SECRET=
 ![Page 5 Image](/img/reference/ServiceNow%20Integration/LiveChat/images/ServiceNow-LiveChat-Integration-Technical-Specification_page5_4.png)
 
 ![Page 7 Image](/img/reference/ServiceNow%20Integration/LiveChat/images/ServiceNow-LiveChat-Integration-Technical-Specification_page7_4.png)
+
 

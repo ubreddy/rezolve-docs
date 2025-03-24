@@ -1,6 +1,8 @@
 ---
 sidebar_position: 5
 sidebar_label: Article Management
+status: 
+whatsPending: 
 ---
 
 # Article Management
@@ -107,4 +109,5 @@ Learn how to create, edit, and manage articles in Rezolve.ai's Knowledge Managem
 ## Related Topics
 - [Category Management](./category-management.md)
 - [Content Guidelines](./content-guidelines.md)
+
 

@@ -3,6 +3,8 @@ id: filters
 title: Ticket Filters
 sidebar_label: Filters
 description: Documentation for Ticket Filters
+status: 
+whatsPending: 
 ---
 
 # Ticket Filters
@@ -59,5 +61,6 @@ Ticket filters are a powerful way to organize, sort, and find specific tickets i
 
 1. Provides a quick way to locate specific tickets using keywords, ticket ID, requester name, assigned agent, or description.
 2. Enhances efficiency when dealing with a high volume of tickets.
+
 
 

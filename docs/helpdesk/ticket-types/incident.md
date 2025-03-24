@@ -3,6 +3,8 @@ id: incident
 title: Incident Management
 sidebar_label: Management
 description: Documentation for Incident Management
+status: 
+whatsPending: 
 ---
 
 # Incident Management
@@ -30,5 +32,6 @@ An Incident in IT Service Management (ITSM) refers to an unplanned disruption or
 3. **Investigation & Diagnosis** – Analyze the cause and find a solution.
 4. **Resolution & Recovery** – Implement a fix and verify service restoration.
 5. **Closure** – Document the resolution and close the incident.
+
 
 

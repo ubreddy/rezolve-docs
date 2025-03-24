@@ -3,6 +3,8 @@ id: moving
 title: Moving Tickets
 sidebar_label: Tickets
 description: Documentation for Moving Tickets
+status: 
+whatsPending: 
 ---
 
 # Moving Tickets
@@ -35,3 +37,4 @@ The **Move Ticket** functionality allows users to reclassify tickets when they h
 - **User Permissions**: Only authorized users may have the ability to move tickets.
 
 ![Bulk Ticket Moving](/img/Helpdesk/Bulk_Move.jpg)
+

@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions for SharePoint List using SSO App NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

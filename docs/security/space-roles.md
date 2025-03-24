@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+status: 
+whatsPending: 
 ---
 
 # Space Roles
@@ -66,3 +68,4 @@ _Suggested Image: "role-administration.png" - Management dashboard_
 - [Queues](queues)
 - [Workspaces](workspaces)
 - [Permission Map](permission-map)
+

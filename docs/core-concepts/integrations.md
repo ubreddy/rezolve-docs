@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Integrations
@@ -135,3 +137,4 @@ _Suggested Image: "integration-checklist.png" - Best practices checklist_
 - [Knowledge Integration](../integrations/knowledge-base)
 - [Ticketing Integration](../integrations/ticketing-systems)
 - [Custom Agents](../ai-features/custom-agents)
+

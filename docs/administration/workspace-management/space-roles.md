@@ -3,6 +3,8 @@ id: workspace-space-roles
 title: Workspace Roles and Permissions
 sidebar_label: Space Roles
 description: Comprehensive guide to managing roles and permissions within workspaces
+status: 
+whatsPending: 
 ---
 
 # Workspace Roles and Permissions
@@ -387,3 +389,4 @@ After implementing workspace roles, consider exploring:
 3. [Usage Scenarios](./workspace-usage-scenarios)
 4. [Role-Based Access Control](../rbac/role-based-access-control)
 5. [Teams Management](../teams-management/teams-management-overview)
+

@@ -3,6 +3,8 @@ id: combined-dashboard
 title: Combined Dashboard
 sidebar_label: Combined Dashboard
 description: Documentation for Combined Dashboard
+status: 
+whatsPending: 
 ---
 
 # Combined Dashboard
@@ -96,3 +98,4 @@ The Multiple Ticket Type Dashboard provides a comprehensive and comparative anal
 - Users can download reports in PDF or CSV formats for further analysis
 - Can schedule automated reports to be sent via email
 - Includes historical data tracking for reference and compliance
+

@@ -3,6 +3,8 @@ id: registration-guide
 title: Registration Guide
 sidebar_label: Registration
 description: Step-by-step guide to register and set up your account
+status: 
+whatsPending: 
 ---
 
 # Registration
@@ -43,5 +45,6 @@ description: Step-by-step guide to register and set up your account
 4. Tenant spinning will take a couple of minutes. You will receive a notification when it is ready, along with the instructions of using the tenant.
 
 5. You will receive an email with the login credentials.
+
 
 

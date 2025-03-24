@@ -3,6 +3,8 @@ id: ticket-based
 title: Ticket-Based Knowledge Search
 sidebar_label: Ticket-Based Search
 description: Guide for implementing and optimizing ticket-based knowledge search for support agents
+status: 
+whatsPending: 
 ---
 
 # Ticket-Based Knowledge Search
@@ -243,3 +245,4 @@ Automate responses using knowledge:
 - Explore [Conversation-Based Search](/docs/knowledge-management/search/conversation-based) for live chat integration
 - Learn about [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for maintaining content quality
 - Set up [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to track knowledge effectiveness
+

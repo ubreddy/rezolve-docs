@@ -1,6 +1,8 @@
 ---
 title: 'Prerequisite for Agent in Teams Instructions_12.14.21'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

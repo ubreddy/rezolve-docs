@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Ticketing Systems Integration
@@ -226,3 +228,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 ## Related Topics
 - [Bot Integration](bot-channels)
 - [Custom Agents](../ai-features/custom-agents)
+

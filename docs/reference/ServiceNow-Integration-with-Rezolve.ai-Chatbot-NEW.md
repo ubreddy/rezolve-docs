@@ -1,6 +1,8 @@
 ---
 title: 'ServiceNow Integration with Rezolve.ai Chatbot NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

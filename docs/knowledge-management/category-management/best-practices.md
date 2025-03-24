@@ -1,6 +1,8 @@
 ---
 sidebar_position: 3
 title: Category Best Practices
+status: 
+whatsPending: 
 ---
 
 # Category Best Practices
@@ -81,3 +83,4 @@ Guidelines for creating and maintaining an effective category structure in your 
 
 - [Article Management](../article-management/article-management.md)
 - [Content Guidelines](../article-management/content-guidelines.md)
+

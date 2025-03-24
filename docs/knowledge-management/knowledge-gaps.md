@@ -3,6 +3,8 @@ id: knowledge-gaps
 title: Knowledge Gaps Management
 sidebar_label: Knowledge Gaps Management
 description: Guide for identifying and addressing gaps in your knowledge base
+status: 
+whatsPending: 
 ---
 
 # Knowledge Gaps Management
@@ -265,3 +267,4 @@ Monitor overall knowledge base health:
 - Explore [Knowledge Search and Discovery](/docs/knowledge-management/search/ticket-based) to optimize content findability
 - Learn about [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for content lifecycle management
 - Set up [Testing Knowledge](/docs/knowledge-management/testing-knowledge) to validate content effectiveness
+

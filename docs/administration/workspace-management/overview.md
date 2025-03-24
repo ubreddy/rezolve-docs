@@ -3,6 +3,8 @@ id: workspace-management-overview
 title: Workspace Management Overview
 sidebar_label: Overview
 description: Comprehensive guide to creating and managing workspaces for team collaboration and resource organization
+status: 
+whatsPending: 
 ---
 
 # Workspace Management Overview

@@ -3,6 +3,8 @@ id: audit-history
 title: Audit History
 sidebar_label: Audit History
 description: Documentation for Audit History
+status: 
+whatsPending: 
 ---
 
 # Audit History
@@ -26,3 +28,4 @@ To view and/or restore a previous version of that component, click the History t
 The History menu shows a list of all recorded changes made to that individual component and allows you to compare changes using the **Show Diff button**. The Show Diff button provides a side-by-side comparison of the changes made between two versions of a component, highlighting the differences in a clear and readable format. This feature enables you to easily identify and review the changes made to a component, making it easier to track and manage updates.
 
 ![Show Diff](../../static/img/Creator%20Studio/Show_Diff.jpg)
+

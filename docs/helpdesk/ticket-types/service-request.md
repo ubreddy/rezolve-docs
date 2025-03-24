@@ -3,6 +3,8 @@ id: service-request
 title: Service Request Management
 sidebar_label: Request Management
 description: Documentation for Service Request Management
+status: 
+whatsPending: 
 ---
 
 # Service Request Management
@@ -26,3 +28,4 @@ A **Service Request** refers to a formal user request for a service, information
   - **Closure** – Request is marked as completed.
 
 ![Service Request Interface](/img/Helpdesk/Service_Request.png)
+

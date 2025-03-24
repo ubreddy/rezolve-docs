@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Offers & Intent Groups
@@ -66,3 +68,4 @@ _Suggested Image: "offers-best-practices.png" - Implementation guide_
 - [Audience](audience)
 - [Integration](integration)
 - [Teams](../security/teams)
+

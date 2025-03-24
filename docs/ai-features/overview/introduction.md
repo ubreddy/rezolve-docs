@@ -4,6 +4,8 @@ title: AI Features Overview
 id: ai-features-overview
 sidebar_label: AI Features Overview
 description: Overview of the platform's AI capabilities and features
+status: 
+whatsPending: 
 ---
 
 # AI Features Overview
@@ -38,3 +40,4 @@ Discover the powerful AI capabilities of Rezolve.ai that enhance service deliver
 
 - Learn about [Ticket Automation](../ticket-automation.md)
 - Discover [Knowledge Agents](../knowledge-agents.md)
+

@@ -2,6 +2,8 @@
 title: 'Signup Process Through Microsoft Teams'
 sidebar_position: 1
 sidebar_label: Signup Process Through Microsoft Teams
+status: 
+whatsPending: 
 ---
 
 
@@ -75,6 +77,7 @@ Note: If Other is selected you will receive an additional prompt to provide team
 
 6. Click Submit
 It will take a few minutes while your tenant gets sets up. The Rezolve app will automatically change over to your tenant.
+
 
 
 

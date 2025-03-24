@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+status: 
+whatsPending: 
 ---
 
 # Queues
@@ -66,3 +68,4 @@ _Suggested Image: "queue-operations.png" - Operations dashboard_
 - [Workspaces](workspaces)
 - [Space Roles](space-roles)
 - [Permission Map](permission-map)
+

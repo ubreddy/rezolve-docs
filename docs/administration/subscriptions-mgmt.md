@@ -3,6 +3,8 @@ id: subscriptions-mgmt
 title: Subscriptions Management
 sidebar_label: Subscriptions Overview
 description: Comprehensive guide to understanding and managing platform subscriptions
+status: 
+whatsPending: 
 ---
 
 # Subscriptions Management
@@ -49,4 +51,5 @@ Once Enabled Bot settings and features can be further configured, including Bot 
 Once enabled Search Portal would be available to employees. Knowledge Management should be selected for this module.
 
 TODO to add screenshots.
+
 

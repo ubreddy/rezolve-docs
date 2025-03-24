@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: Automation Workflows
+status: 
+whatsPending: 
 ---
 
 # Automation Workflows
@@ -34,3 +36,4 @@ Automation workflows help streamline your service delivery process by automating
 - Test thoroughly before deployment
 - Monitor performance
 - Document customizations
+

@@ -3,6 +3,8 @@ id: scheduling
 title: Scheduling Announcements
 sidebar_label: Scheduling Announcements
 description: Documentation for Scheduling Announcements
+status: 
+whatsPending: 
 ---
 
 # Scheduling Announcements
@@ -30,3 +32,4 @@ Announcements in Rezolve.ai can be scheduled for immediate delivery or for a fut
 
 
    ![Teams Announcements](../../static/img/Announcements/teams_announcements.png)
+

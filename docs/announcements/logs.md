@@ -3,6 +3,8 @@ id: logs
 title: Announcement Logs
 sidebar_label: Logs
 description: Documentation for Announcement Logs
+status: 
+whatsPending: 
 ---
 
 # Announcement Logs
@@ -19,3 +21,4 @@ description: Documentation for Announcement Logs
   - **Content preview** for reference.
 
 ![Announcement Logs](../../static/img/Announcements/logs_Announcements.png)
+

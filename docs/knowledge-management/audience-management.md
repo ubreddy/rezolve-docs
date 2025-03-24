@@ -3,6 +3,8 @@ id: audience-management
 title: Audience Management in Knowledge Base
 sidebar_label: Audience Management
 description: Guide for targeting knowledge content to specific audiences and user groups
+status: 
+whatsPending: 
 ---
 
 # Audience Management in Knowledge Base
@@ -245,3 +247,4 @@ Analyze how different audiences navigate your knowledge base:
 - Explore [Knowledge Gaps Management](/docs/knowledge-management/knowledge-gaps) to identify missing content for specific audiences
 - Learn about [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to measure audience engagement
 - Set up [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) with audience-specific approval processes
+

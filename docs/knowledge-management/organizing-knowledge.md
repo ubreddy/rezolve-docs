@@ -3,6 +3,8 @@ id: organizing-knowledge
 title: Organizing Knowledge Around Workspaces and Folders
 sidebar_label: Organizing Knowledge
 description: Guide for effectively organizing your knowledge base using workspaces, folders, and other organizational tools
+status: 
+whatsPending: 
 ---
 
 # Organizing Knowledge Around Workspaces and Folders
@@ -253,3 +255,4 @@ Use bulk tools for efficient reorganization:
 - Explore [Audience Management](/docs/knowledge-management/audience-management) to target content to specific users
 - Learn about [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for content lifecycle management
 - Set up [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to monitor content organization effectiveness
+

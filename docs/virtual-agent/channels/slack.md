@@ -3,6 +3,8 @@ id: slack
 title: Using Virtual Agent in Slack
 sidebar_label: Virtual Agent in Slack
 description: Documentation for Using Virtual Agent in Slack
+status: 
+whatsPending: 
 ---
 
 # Using Virtual Agent in Slack
@@ -40,3 +42,4 @@ Users interact with the Virtual Agent directly in Slack:
 • Receive notifications as direct messages
 • Use interactive elements like dropdowns and buttons
 • Access persistent conversation history in the direct message thread
+

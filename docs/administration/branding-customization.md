@@ -3,6 +3,8 @@ id: branding-customization
 title: Branding and Customization
 sidebar_label: Branding and Customization
 description: Comprehensive guide to customizing the platform appearance with your organization's branding
+status: 
+whatsPending: 
 ---
 
 # Branding and Customization
@@ -337,3 +339,4 @@ This guide provides detailed information on customizing the platform's appearanc
 After implementing branding and customization, consider exploring:
 1. [Settings Management](./settings-management)
 2. [Workspace Management](./workspace-management/workspace-management-overview)
+

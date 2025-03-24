@@ -3,6 +3,8 @@ id: servicenow
 title: Connecting ServiceNow to Knowledge Management
 sidebar_label: ServiceNow
 description: Step-by-step guide for integrating ServiceNow Knowledge Base as a repository
+status: 
+whatsPending: 
 ---
 
 # Connecting ServiceNow to Knowledge Management
@@ -138,3 +140,4 @@ For large ServiceNow knowledge bases:
 - Set up [audience targeting](/docs/knowledge-management/audience-management) based on ServiceNow roles
 - Configure [analytics](/docs/knowledge-management/analytics-reporting) to track usage of ServiceNow content
 - Explore [knowledge workflow](/docs/knowledge-management/knowledge-workflow) for maintaining content across systems
+

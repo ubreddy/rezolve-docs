@@ -1,6 +1,8 @@
 ---
 title: 'Pre Req for Signup Through Microsoft Teams NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

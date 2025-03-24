@@ -3,6 +3,8 @@ id: change
 title: Change Management
 sidebar_label: Management
 description: Documentation for Change Management
+status: 
+whatsPending: 
 ---
 
 # Change Management
@@ -81,6 +83,7 @@ Below is an example of a change management ticket:
 - **Impact Analysis**: [Details about potential impact]
 - **Roll Out Plan**: [Implementation steps]
 - **Back Out Plan**: [Recovery procedure]
+
 
 
 

@@ -2,6 +2,8 @@
 sidebar_position: 3
 title: Content Guidelines
 sidebar_label: Content Guidelines
+status: 
+whatsPending: 
 ---
 
 # Content Guidelines
@@ -68,4 +70,5 @@ Best practices for creating effective knowledge base content.
 
 - [Article Management](./article-management.md)
 - [Category Management](./category-management.md)
+
 

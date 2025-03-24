@@ -3,6 +3,8 @@ id: quick-actions
 title: Quick Actions
 sidebar_label: Quick Actions
 description: Documentation for Quick Actions
+status: 
+whatsPending: 
 ---
 
 # Quick Actions
@@ -43,3 +45,4 @@ Quick Actions can be accessed in several ways:
 2. **List View**: Select one or more tickets in the list view to access bulk Quick Actions
 3. **Keyboard Shortcuts**: Use predefined keyboard shortcuts for the most common actions (if configured)
 4. **Context Menu**: Right-click on a ticket to access a context menu with available Quick Actions
+

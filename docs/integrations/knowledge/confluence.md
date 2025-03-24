@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: Confluence Integration
+status: 
+whatsPending: 
 ---
 
 # Confluence Integration
@@ -57,3 +59,4 @@ Common issues and solutions:
 
 - [Integration Overview](../overview/introduction.md)
 - [Content Management](../../knowledge-management/content/writing-guide.md)
+

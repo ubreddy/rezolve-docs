@@ -3,6 +3,8 @@ id: faqs
 title: Creator Studio FAQs
 sidebar_label: Creator Studio FAQs
 description: Documentation for Creator Studio FAQs
+status: 
+whatsPending: 
 ---
 
 # Creator Studio FAQs
@@ -22,3 +24,4 @@ Creator Studio broadly supports REST API. As long as the product you're trying t
 ### How can I track changes made to my flows and components?
 
 Creator Studio includes a comprehensive Audit History feature that tracks all modifications to flows and components. You can access this through the Studio History menu, which shows who made changes, when they were made, and what was modified. The **Show Diff button** allows you to compare different versions side-by-side, making it easy to track changes and restore previous versions if needed.
+

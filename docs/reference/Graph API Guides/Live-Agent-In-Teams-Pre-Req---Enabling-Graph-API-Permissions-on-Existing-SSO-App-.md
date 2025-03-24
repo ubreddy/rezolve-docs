@@ -1,6 +1,8 @@
 ---
 title: 'Live Agent In Teams Pre Req   Enabling Graph API Permissions on Existing SSO App '
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

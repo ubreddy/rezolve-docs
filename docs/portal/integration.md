@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+status: 
+whatsPending: 
 ---
 
 # Portal Integration
@@ -66,3 +68,4 @@ _Suggested Image: "integration-management.png" - Management dashboard_
 - [Audience](audience)
 - [Bot Integration](../integrations/bot-channels)
 - [System Integration](../core-concepts/integrations)
+

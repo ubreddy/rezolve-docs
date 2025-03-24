@@ -3,6 +3,8 @@ id: skills-gaps
 title: Bot Skills and Gaps
 sidebar_label: Skills and Gaps
 description: Documentation for Bot Skills and Gaps
+status: 
+whatsPending: 
 ---
 
 # Bot Skills and Gaps
@@ -37,3 +39,4 @@ description: Documentation for Bot Skills and Gaps
    - Learn about alternative support channels for complex scenarios
 
 The Virtual Agent continuously learns from interactions to improve its capabilities and reduce knowledge gaps over time.
+

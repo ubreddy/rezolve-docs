@@ -1,6 +1,8 @@
 ---
 sidebar_position: 6
 title: Content Guidelines
+status: 
+whatsPending: 
 ---
 
 # Content Guidelines
@@ -60,3 +62,4 @@ Best practices and guidelines for creating effective knowledge base content.
 - [ ] Links are working
 - [ ] Images are optimized
 - [ ] Formatting is consistent
+

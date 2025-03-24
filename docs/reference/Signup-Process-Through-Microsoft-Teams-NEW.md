@@ -1,6 +1,8 @@
 ---
 title: 'Signup Process Through Microsoft Teams'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

@@ -3,6 +3,8 @@ id: agent-efficiency
 title: Check Agent Efficiency
 sidebar_label: Agent Efficiency
 description: Learn how to monitor and analyze agent performance through dashboards and reports
+status: 
+whatsPending: 
 ---
 
 # Check Agent Efficiency in Dashboard and Reports
@@ -173,3 +175,4 @@ After analyzing agent efficiency, consider:
 - Sample size limitations
 - Seasonal variation effects
 - External factor influences
+

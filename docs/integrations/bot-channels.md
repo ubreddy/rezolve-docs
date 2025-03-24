@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 # Bot Channel Integrations
@@ -259,3 +261,4 @@ _Suggested Image: "troubleshooting-guide.png" - Troubleshooting flowchart_
 - [Custom Agents](../ai-features/custom-agents)
 - [System Integration](../core-concepts/integrations)
 - [Bot Architecture](../core-concepts/bot)
+

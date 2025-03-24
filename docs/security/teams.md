@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+status: 
+whatsPending: 
 ---
 
 # Teams
@@ -66,3 +68,4 @@ _Suggested Image: "team-management.png" - Management dashboard_
 - [Workspaces](workspaces)
 - [Space Roles](space-roles)
 - [Permission Map](permission-map)
+

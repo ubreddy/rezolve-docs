@@ -3,6 +3,8 @@ id: roles
 title: Roles
 sidebar_label: Roles
 description: Documentation for Roles
+status: 
+whatsPending: 
 ---
 
 # Roles
@@ -26,6 +28,7 @@ TODO Expand all roles with description and permissions and which module uses the
 | Knowledge Admin | Admin | Knowledge Management | All |
 | Bot Analyst | Analyst | Creator Studio and Bot Management | All |
 | Bot Admin | Admin | Creator Studio and Bot Management | All |
+
 
 
 

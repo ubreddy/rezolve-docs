@@ -1,6 +1,8 @@
 ---
 title: 'Azure Certificate expried   Creating New Certificate'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 
@@ -56,6 +58,7 @@ Updating Certificate
 
 13. Send the certificate expiration you set, Application (client) ID, Client Secret ID, Client Secret Value and
 the downloaded Manifest to Rezolve
+
 
 
 

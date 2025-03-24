@@ -3,6 +3,8 @@ id: knowledge-ingest
 title: Ingest Documents in Knowledge Base
 sidebar_label: Ingest Documents
 description: Learn how to upload and ingest documents into your knowledge base
+status: 
+whatsPending: 
 ---
 
 # Ingest Documents in Knowledge Base
@@ -135,3 +137,4 @@ After successfully ingesting documents, consider:
 2. Creating templates for common document types
 3. Training users on knowledge base access
 4. Integrating knowledge with virtual agents
+

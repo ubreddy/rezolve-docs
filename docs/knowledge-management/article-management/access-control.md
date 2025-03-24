@@ -2,6 +2,8 @@
 sidebar_position: 5
 title: Access Control
 sidebar_label: Access Control
+status: 
+whatsPending: 
 ---
 
 # Access Control
@@ -84,3 +86,4 @@ Access control allows you to determine who can view, edit, and manage different 
 - [Category Management](./category-management.md)
 - [Article Management](./article-management.md)
 - [Content Guidelines](./content-guidelines.md)
+

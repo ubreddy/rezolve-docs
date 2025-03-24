@@ -3,6 +3,8 @@ id: queues
 title: Queues Setup
 sidebar_label: Setup
 description: Documentation for Queues Setup
+status: 
+whatsPending: 
 ---
 
 # Queues Setup
@@ -61,3 +63,4 @@ This screen is for creating a new queue.
 
 
   ![Queue Creation Interface](/img/Helpdesk/Queue_Creation.png)
+

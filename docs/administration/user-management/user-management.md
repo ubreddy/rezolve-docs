@@ -3,6 +3,8 @@ id: user-management
 title: User Management
 sidebar_label: User Management
 description: Comprehensive guide to managing users within the platform
+status: 
+whatsPending: 
 ---
 
 # User Management

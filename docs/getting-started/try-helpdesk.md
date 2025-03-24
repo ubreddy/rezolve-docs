@@ -3,6 +3,8 @@ id: try-helpdesk
 title: Try Helpdesk
 sidebar_label: Try Helpdesk
 description: Learn how to use the helpdesk features to manage customer support tickets
+status: 
+whatsPending: 
 ---
 
 # Try Helpdesk
@@ -137,3 +139,4 @@ After familiarizing yourself with the helpdesk basics, consider:
 - Support resources for helpdesk functionality
 - Community forums
 - Feature request process
+

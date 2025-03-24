@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 title: Integrations Overview
+status: 
+whatsPending: 
 ---
 
 # Integrations Overview
@@ -34,3 +36,4 @@ Learn about Rezolve.ai's integration capabilities with various platforms and sys
 ## Getting Started
 
 - Connect to [Confluence](../knowledge/confluence.md)
+

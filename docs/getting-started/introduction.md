@@ -3,6 +3,8 @@ id: introduction
 title: Introduction
 sidebar_label: Introduction
 description: Welcome to our comprehensive documentation portal
+status: 
+whatsPending: 
 ---
 
 # Introduction
@@ -93,3 +95,4 @@ Steps:
 There are other advanced use cases that are not covered in this gettign started guide like IT automation, Desktop Automation, Creator Studio etc. 
 
 For these refer to respective detailed user guides.
+

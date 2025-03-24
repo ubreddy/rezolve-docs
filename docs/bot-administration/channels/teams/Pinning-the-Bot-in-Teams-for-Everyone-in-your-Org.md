@@ -3,6 +3,8 @@ title: 'Pinning the Bot in Teams for Everyone in your Org'
 id: pinning-the-bot-in-teams-for-everyone-in-your-org
 sidebar_position: 1
 sidebar_label: Pinning the Bot in Teams for Everyone in your Org
+status: 
+whatsPending: 
 ---
 
 
@@ -40,6 +42,7 @@ want to move where it is in the list, simply select the app and then click Move 
 ![Page 4 Image](/img/reference/images/Pinning-the-Bot-in-Teams-for-Everyone-in-your-Org_page4_4.jpeg)
 
 ![Page 4 Image](/img/reference/images/Pinning-the-Bot-in-Teams-for-Everyone-in-your-Org_page4_5.jpeg)
+
 
 
 

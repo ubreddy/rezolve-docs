@@ -3,6 +3,8 @@ id: sync-groups
 title: Synchronizing Groups from External Systems
 sidebar_label: Sync Groups
 description: Comprehensive guide to synchronizing groups from external directory services
+status: 
+whatsPending: 
 ---
 
 # Synchronizing Groups from External Systems
@@ -19,6 +21,7 @@ This guide provides detailed instructions for configuring and managing group syn
 * Schedule the syncronization
 * Source Application details
 * Overwrite behavior
+
 
 
 

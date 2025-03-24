@@ -1,6 +1,8 @@
 ---
 title: 'Sites.Selected Enabling API Permissions   For SharePoint Sites Crawl with PowerShell Script'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

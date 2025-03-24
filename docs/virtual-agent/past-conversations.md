@@ -3,6 +3,8 @@ id: past-conversations
 title: Past Conversations
 sidebar_label: Conversations
 description: Documentation for Past Conversations
+status: 
+whatsPending: 
 ---
 
 # Past Conversations
@@ -77,3 +79,4 @@ description: Documentation for Past Conversations
 - When an agent becomes available, you'll be notified
 - The agent will receive the conversation history for context
 - You can continue the conversation seamlessly with the human agent
+

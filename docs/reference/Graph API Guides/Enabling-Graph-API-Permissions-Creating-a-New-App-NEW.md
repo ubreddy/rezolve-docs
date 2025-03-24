@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Graph API Permissions Creating a New App NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

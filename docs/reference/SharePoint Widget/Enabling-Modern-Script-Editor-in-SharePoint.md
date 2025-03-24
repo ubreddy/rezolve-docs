@@ -1,6 +1,8 @@
 ---
 title: 'Enabling Modern Script Editor in SharePoint'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

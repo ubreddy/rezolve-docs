@@ -1,6 +1,8 @@
 ---
 title: 'Adding Bot in Teams App Locally v3'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

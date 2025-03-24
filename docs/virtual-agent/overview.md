@@ -3,6 +3,8 @@ id: overview
 title: Virtual Agent Overview
 sidebar_label: Agent Overview
 description: Documentation for Virtual Agent Overview
+status: 
+whatsPending: 
 ---
 
 # Virtual Agent Overview
@@ -20,3 +22,4 @@ The Virtual Agent is an AI-powered assistant that automates interactions across 
 • **Status Updates**: Checks and reports on existing ticket statuses
 
 • **Workflow Automation**: Executes complex business processes through configured flows
+

@@ -3,6 +3,8 @@ id: external-sync
 title: External System Synchronization
 sidebar_label: External Synchronization
 description: Comprehensive guide to synchronizing users and groups from external systems
+status: 
+whatsPending: 
 ---
 
 # External System Synchronization
@@ -27,6 +29,7 @@ This guide provides detailed instructions for configuring and managing synchroni
 
 
 ## Workday
+
 
 
 

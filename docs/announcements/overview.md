@@ -3,6 +3,8 @@ id: overview
 title: Announcements Overview
 sidebar_label: Overview
 description: Documentation for Announcements Overview
+status: 
+whatsPending: 
 ---
 
 # Announcements overview
@@ -25,3 +27,4 @@ The Announcement feature in Rezolve.ai empowers administrators to effectively co
 
 
 ![Create Announcement](../../static/img/Announcements/Create_Announcement.png)
+

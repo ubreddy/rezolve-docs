@@ -1,6 +1,8 @@
 ---
 title: 'Azure AD Configuration to Enable Single Sign On NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

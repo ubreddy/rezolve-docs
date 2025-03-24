@@ -2,6 +2,8 @@
 sidebar_position: 8
 title: Article Templates
 sidebar_label: Article Templates
+status: 
+whatsPending: 
 ---
 
 # Article Templates
@@ -76,3 +78,4 @@ Standardize your knowledge base content using predefined templates.
 - Add relevant metadata
 - Link to related articles
 - Use proper versioning
+

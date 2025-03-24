@@ -3,6 +3,8 @@ id: reports
 title: Reports
 sidebar_label: Reports
 description: Documentation for Reports
+status: 
+whatsPending: 
 ---
 
 # Reports
@@ -70,4 +72,5 @@ Dashboard Reports provide detailed insights into ticketing, agent performance, a
   - Customer Satisfaction Score (CSAT) per ticket, agent, and team
   - Customer comments and feedback analysis
 - Helps in identifying service improvement areas
+
 

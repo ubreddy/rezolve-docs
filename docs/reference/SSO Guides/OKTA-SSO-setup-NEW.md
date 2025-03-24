@@ -1,6 +1,8 @@
 ---
 title: 'OKTA SSO setup NEW'
 sidebar_position: 1
+status: 
+whatsPending: 
 ---
 
 

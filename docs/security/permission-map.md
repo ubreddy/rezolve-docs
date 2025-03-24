@@ -1,5 +1,7 @@
 ---
 sidebar_position: 6
+status: 
+whatsPending: 
 ---
 
 # Permission Map
@@ -66,3 +68,4 @@ _Suggested Image: "permission-management.png" - Management dashboard_
 - [Queues](queues)
 - [Workspaces](workspaces)
 - [Space Roles](space-roles)
+

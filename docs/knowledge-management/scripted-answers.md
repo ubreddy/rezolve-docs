@@ -3,6 +3,8 @@ id: scripted-answers
 title: Scripted Answers in Knowledge Management
 sidebar_label: Scripted Answers
 description: Guide for creating and managing AI-powered scripted answers from your knowledge base
+status: 
+whatsPending: 
 ---
 
 # Scripted Answers in Knowledge Management
@@ -215,3 +217,4 @@ Maintain versions of scripted answers:
 - Explore [Knowledge Gaps Management](/docs/knowledge-management/knowledge-gaps) to identify missing content
 - Learn about [Testing Knowledge](/docs/knowledge-management/testing-knowledge) for quality assurance
 - Set up [Analytics and Reporting](/docs/knowledge-management/analytics-reporting) to track performance
+
