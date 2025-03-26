@@ -6,8 +6,6 @@ description: Documentation for Exports
 status: 
 whatsPending: 
 ---
-
-# Exports
-
-Content coming soon...
-
+### Export Features
+- Analysts can export chatbot analytics data for further processing
+- Supports exporting reports in multiple formats for data analysis and sharing
