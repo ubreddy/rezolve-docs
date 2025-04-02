@@ -37,6 +37,8 @@ Insert ticket information using special notation:
 - Select from available fields in the template
 - Values are automatically populated when the email is sent
 
+![email_notification](/img/Service%20Catalog/email_notification.png)
+
 ## Template Best Practices
 - **Standardization**: Create templates for common notifications to ensure consistency
 - **Personalization**: Include recipient's name and specific ticket details

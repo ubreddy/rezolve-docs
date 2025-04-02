@@ -17,11 +17,15 @@ Filters help users quickly find and organize tickets based on specific criteria.
 - Useful for template-specific categorization
 - Appear in the Agent UI for that template's tickets
 
+![template_filter](/img/Service%20Catalog/Filters.png)
+
 ### Tenant-Level Filters
 - Created in the Filter section of Service Catalog
 - Apply across all templates in the tenant
 - Provide consistent filtering options throughout the system
 - Can reference any template field values
+
+![tenant_filter](/img/Service%20Catalog/tenant_filter.png)
 
 ### Filter Creation
 To create a filter:

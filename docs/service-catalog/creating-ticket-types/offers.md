@@ -41,3 +41,5 @@ Offers can be assigned to specific audiences to control who can see and use them
 - Create audiences based on groups, roles, attributes, or individual users
 - Assign the audience to the offer
 - Only members of that audience will see the offer in the ticketing console
+
+![Offers](/img/Service%20Catalog/Offers.png)

@@ -11,7 +11,7 @@ whatsPending:
 
 ## 1. Bot Profile
  
- TODO: Insert the screenshots for Bot Profile
+![Bot Profile](/img/administration/Bot_Profile.png)
 
 ## 2. Main Menu
 

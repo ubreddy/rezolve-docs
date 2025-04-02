@@ -35,3 +35,11 @@ After creating layouts, you need to link them to the appropriate views in the sy
 - Configure field visibility and behavior for each layout
 - Use the "Linked Layouts" feature to associate layouts with their corresponding views
 - Test each view to ensure fields appear and behave as expected
+
+![Layout View](/img/Service%20Catalog/layout_view.png)
+
+
+![Create View](/img/Service%20Catalog/Create_View.png)
+
+
+![Detail View](/img/Service%20Catalog/Detail_View.png)

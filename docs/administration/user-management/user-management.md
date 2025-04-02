@@ -9,30 +9,39 @@ whatsPending:
 
 # User Management
 
-Before creating users please refer to the [Roles](../rbac/roles) to have an understanding of roles being available and applied to each module.
+The User Management module is the foundation of access control within Rezolve.ai, providing comprehensive tools for managing user accounts and their permissions:
 
+## User Registration and Onboarding
 
-TODO the following
+- **Batch Import**: Register multiple users simultaneously via CSV upload
+- **Azure AD Integration**: Synchronize users directly from Microsoft Azure Active Directory
+- **Manual Creation**: Add individual users with custom profile information
+- **Invitation Workflow**: Send email invitations with self-registration links
+- **Status Management**: Control active, inactive, and pending account states
 
-## CRUD Operations on Users
+![User Management](/img/administration/User_mgmt.png)
 
-TODO Create User Image
+## Role Management
 
-Assigning roles 
+Roles in Rezolve.ai define what actions users can perform and what areas of the platform they can access:
 
-## User specific operations
+- **Predefined Roles**: Assign standard roles such as Tenant Admin, User Admin, Ticket Agent, Knowledge Manager, Bot Analyst, and more
+- **Custom Roles**: Create organization-specific roles with tailored permission sets
+- **Multi-Role Support**: Assign multiple roles to individual users when needed
+- **Role Hierarchy**: Establish permission inheritance relationships between roles
 
-1. Password Reset, if SSO is not enabled
+### Module-Based Permissions
 
+Control access to specific platform modules:
 
-## Bulk Operations on Users
+- Ticket Management
+- Live Chat
+- Virtual Agent Management
+- Learning Management
+- Analytics
+- Knowledge Management
 
-
-
-##  Sync users from external source
-Please refer to the [Sync users from external source](./external-sync) for more details.
-
-## Audit Trail
+![Role Groups](/img/administration/role-groups.png)
 
 
 ## Login Logs [Upcoming]

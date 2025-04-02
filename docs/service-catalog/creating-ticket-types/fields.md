@@ -43,6 +43,9 @@ This section allows you to set field-level conditions based on user roles and at
 - **Conditional Editability**: Make the field editable only when certain conditions are met
 - **Conditional Requirement**: Make the field required only when certain conditions are met
 
+
+![Fields](/img/Service%20Catalog/Fields.png)
+
 ## Default Fields
 When creating a template, some fields are included by default and cannot be removed:
 - **Subject**: A brief title for the ticket

@@ -100,4 +100,7 @@ To remove a field from the Field Bank:
 
 3:	Confirm the deletion
 
+![Fields Bank](/img/Service%20Catalog/fields_banks.png)
+
+
 #### Note: Deleting a field from the Field Bank does not remove it from templates where it's already being used.

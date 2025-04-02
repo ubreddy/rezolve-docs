@@ -32,4 +32,4 @@ TODO Expand all roles with description and permissions and which module uses the
 
 
 
-
+![Role Groups](../../../static/img/administration/role-groups.png)

@@ -25,3 +25,6 @@ Actors can be used as the basis for conditions at both field and layout levels:
 - Show or hide fields based on who is assigned to the ticket
 - Make sections editable only for specific actors
 - Require additional information when certain actors are involved
+
+
+![Actors](/img/Service%20Catalog/Actors.png)
