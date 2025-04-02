@@ -33,10 +33,10 @@ Ability to configure how the main menu in the bot should be displayed.
 
 TODO
 
-## 8. Standard Messages ? 
+## 7. Standard Messages
 
 Do this in Creator Studio directly or here?
-TODO 
+ 
 ![Standard Messages](/img/getting-started/bot-messages.png)
 
 
