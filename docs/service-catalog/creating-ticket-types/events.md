@@ -30,6 +30,8 @@ Events are triggers that initiate actions based on specific occurrences in the t
 - **SLA**: Triggers when an SLA threshold is breached
 - **SLA Relative Item**: Triggers at a specific percentage of an SLA's duration
 
+![Events](/img/Service%20Catalog/Events.png)
+
 ### Event Permissions
 Control who can trigger events based on:
 - Organization-wide access

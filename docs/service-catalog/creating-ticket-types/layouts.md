@@ -23,3 +23,6 @@ Similar to field-level conditions, you can set layout-level conditions to contro
 - **Group related fields**: Organize fields that belong together in the same section
 - **Progressive disclosure**: Use conditions to show fields only when they become relevant
 - **Responsive design**: Consider how layouts will appear on different devices
+
+
+![Layout](/img/Service%20Catalog/layout.png)

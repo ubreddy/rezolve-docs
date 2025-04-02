@@ -32,3 +32,12 @@ Workflows are created separately from templates and can be reused across multipl
 - Create workflows in the dedicated workflow design screen
 - When configuring a template, attach the appropriate workflow to the status field
 - This allows for standardized processes across different ticket types
+
+
+
+
+![Workflows](/img/Service%20Catalog/workflows.png)
+
+
+
+![Workflow Components](/img/Service%20Catalog/workflow_components.png)

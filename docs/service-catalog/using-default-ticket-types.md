@@ -2,11 +2,14 @@
 id: using-default-ticket-types
 title: Using Default Ticket Types
 sidebar_label: Using Default Ticket Types
-description: Documentation for Using Default Ticket Types
+description: Guide to configuring and using default ticket types in the Service Catalog
 status: 
 whatsPending: 
 ---
 
+# Using Default Ticket Types
+
+## Overview
 
 Default ticket types serve as fallback options within the Rezolve.ai Virtual Agent when no specific template match is found for a user's request. This ensures that user interactions always lead to productive outcomes, even when precise intent mapping isn't possible.
 
@@ -20,6 +23,9 @@ Default ticket types serve as fallback options within the Rezolve.ai Virtual Age
 
 - When a user interacts with the Virtual Agent and provides an utterance that should trigger a template, but no specific match is found, the system will automatically trigger the default template instead of returning an error.
 - Most organizations typically use a Generic Request template as their default, allowing for the capture of miscellaneous requests that don't fit into more specific categories.
+
+![Service Catalog](/img/Service%20Catalog/Service_Catalog.png)
+
 
 ### Benefits of Using Default Ticket Types
 

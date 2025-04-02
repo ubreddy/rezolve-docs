@@ -78,9 +78,15 @@ Manages the list of users monitoring the ticket:
 - Remove watchers based on conditions
 - Include CC watchers for email notifications
 
+
+![actions](/img/Service%20Catalog/actions.png)
+
 ### Action Configuration
 Each action requires:
 - **Action Type Selection**: Choose the appropriate action category
 - **Target Configuration**: Specify what the action affects
 - **Conditional Logic**: Define when the action should execute
 - **User Permissions**: Determine who can initiate the action
+
+
+![action_config](/img/Service%20Catalog/action_config.png)

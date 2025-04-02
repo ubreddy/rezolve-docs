@@ -46,8 +46,16 @@ Defines how many tickets can be related:
 - Establish prerequisites before a ticket can progress
 - Create automated workflows spanning multiple tickets
 
+![relations](/img/Service%20Catalog/relations.png)
+
 ### Relation Benefits
 - **Visibility**: Provides clear connections between related issues
 - **Traceability**: Creates audit trails across complex processes
 - **Coordination**: Facilitates management of interdependent work
 - **Reporting**: Enables hierarchical reporting on related tickets
+
+
+![relation_config](/img/Service%20Catalog/relation_config.png)
+
+
+![relation_cardianlity](/img/Service%20Catalog/relation_cardianlity.png)

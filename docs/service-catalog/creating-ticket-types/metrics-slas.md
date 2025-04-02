@@ -42,9 +42,17 @@ Create custom metrics based on specific business needs:
 - Select the fields or events to track
 - Set up visualization preferences for reporting
 
+
+
+![Metric_SLA](/img/Service%20Catalog/Metric_SLA.png)
+
+![SLA_config](/img/Service%20Catalog/SLA_config.png)
+
 ### Performance Dashboards
 Metrics can be visualized in customizable dashboards:
 - **Real-time Dashboards**: Live view of current ticket status and metrics
 - **Historical Analysis**: Trend analysis over time periods
 - **Comparative Views**: Performance across teams, agents, or ticket types
 - **Drill-down Capabilities**: Ability to examine specific tickets contributing to metrics
+
+![sla_metric](/img/Service%20Catalog/sla_metric.png)
