@@ -9,6 +9,8 @@ whatsPending:
 
 # Introduction to Administration
 
-This guide provides an overview of the platform's administration capabilities, helping administrators understand how to effectively manage users, roles, workspaces, and system settings.
+
+This guide provides an overview of the platform's administration capabilities, helping administrators understand how to effectively manage users, roles, audience, workspaces, and system settings.
+
 
 ![Admin App](/img/administration/Admin_App.png)

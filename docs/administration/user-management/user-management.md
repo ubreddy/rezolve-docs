@@ -43,8 +43,3 @@ Control access to specific platform modules:
 
 ![Role Groups](/img/administration/role-groups.png)
 
-
-## Login Logs [Upcoming]
-
-
-## Force Logout [Upcoming]

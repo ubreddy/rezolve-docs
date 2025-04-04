@@ -20,24 +20,3 @@ The virtual agent can access information from several different types of knowled
 - **Knowledge Articles**: Create and manage custom knowledge articles directly within the platform
 
 Through effective knowledge management, administrators can ensure that the virtual agent has access to the most current and relevant information, improving the accuracy and usefulness of its responses to employee queries.
-
-## Introduction
-
-This documentation provides guidance on configuring and maintaining knowledge sources for Rezolve.ai's virtual agent.
-
-## Features
-
-- Vector-based RAG architecture for comprehensive knowledge grounding
-- Multiple knowledge source integration options
-- Centralized knowledge management tools
-- Real-time knowledge updates and synchronization
-
-
-## Related Topics
-
-- Virtual Agent Architecture
-- Knowledge Source Configuration
-- Knowledge Article Creation
-- SharePoint Integration
-
-

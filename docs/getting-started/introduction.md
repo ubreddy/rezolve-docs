@@ -9,10 +9,11 @@ whatsPending:
 
 # Introduction
 
-Rezolve platform has multiple modules.
-This is a quick setup guide to help you get started with the platform 
-
-Since it has multiple modules you can get started with any of the modules. To make it easier the guide will cover the most common use cases.
+We are delighted you've chosen Rezolve.ai as your AI-first ITSM solution. Your decision marks the beginning of a transformation in how your organization handles IT service management—one that prioritizes efficiency, intelligence, and exceptional user experience.
+ 
+Rezolve.ai combines cutting-edge artificial intelligence with powerful service management capabilities to streamline IT operations, reduce resolution times, and elevate the support experience for both your technical teams and end-users.
+ 
+This guide will walk you through everything you need to know to get started with Rezolve.ai and begin realizing the full potential of an AI-driven ITSM platform. Whether you're setting up for the first time or expanding your implementation, we're here to ensure your success every step of the way. Rezolve platform has multiple modules. This is a quick setup guide to help you get started with the platform. Since it has multiple modules you can get started with any of the modules. To make it easier the guide will cover the most common use cases.
 
 
 ## Use cases
