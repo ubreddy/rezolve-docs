@@ -11,53 +11,36 @@ whatsPending:
 
 This guide provides detailed instructions for configuring Single Sign-On (SSO) authentication for your platform, supporting both SAML and OAuth protocols.
 
-## SSO Setup
-
-### SAML Setup  
-
-#### IDP side
-
-**1. Azure**
-
-
-**2. Okta**
-
-
-**3. Other Idps**
-
-
-
-
-#### Rezolve side
-
 
 ### Oauth Setup 
 
-#### IDP side
+![SSO_ONE](../../../static/img/administration/SSO_ONE.png)
 
-**1. Azure**
+![SSO_TWO](../../../static/img/administration/SSO_TWO.png)
 
+![SSO_THREE](../../../static/img/administration/SSO_THREE.png)
 
-**2. Okta**
+![SSO_FOUR](../../../static/img/administration/SSO_FOUR.png)
 
+![SSO_FIVE](../../../static/img/administration/SSO_FIVE.png)
 
-**3. Other Idps**
+![SSO_SIX](../../../static/img/administration/SSO_SIX.png)
 
-#### Rezolve side
+![SSO_SEVEN](../../../static/img/administration/SSO_SEVEN.png)
 
-### Testing
+![SSO_EIGHT](../../../static/img/administration/SSO_EIGHT.png)
 
-## Multiple IDPs setup
+![SSO_NINE](../../../static/img/administration/SSO_NINE.png)
 
-Link per idp 
+![SSO_TEN](../../../static/img/administration/SSO_TEN.png)
 
-### Login Settings 
+![SSO_ELEVEN](../../../static/img/administration/SSO_ELEVEN.png)
 
-* Default to IDP always
-* Choice of IDPs if multiple are configured
-* Userid password login
+![SSO_TWELVE](../../../static/img/administration/SSO_TWELVE.png)
 
-### Other settings
+![SSO_THIRTEEN](../../../static/img/administration/SSO_THIRTEEN.png)
 
-* Session Time
+![SSO FOURTEEN](../../../static/img/administration/SSO_FOURTEEN.png)
+
+![SSO FIFTEEN](../../../static/img/administration/SSO_FIFTEEN.png)
 

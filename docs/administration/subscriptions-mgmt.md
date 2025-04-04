@@ -27,10 +27,13 @@ Configure the modules that are required for your subscription.
 
 Once the Knowledge Management module is selected, its related features that are available to be enabled could be selected.
 
+![knowledge_subscription](/img/administration/knowledge_subscription.png)
 
 ## Live Chat Subscription {#live-chat-subscription}
 
 Either Rezolve Live Chat or ServiceNow Live Chat could be selected.
+
+![Live_chat_subscription](/img/administration/Live_chat_subscription.png)
 
 ## Insights Subscription {#insights-subscription}
 
@@ -50,6 +53,6 @@ Once Enabled Bot settings and features can be further configured, including Bot 
 
 Once enabled Search Portal would be available to employees. Knowledge Management should be selected for this module.
 
-TODO to add screenshots.
+
 
 

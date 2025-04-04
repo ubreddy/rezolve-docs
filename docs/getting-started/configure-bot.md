@@ -36,6 +36,7 @@ You can configure the quick conversational commands here for frequent use cases.
 TODO
 
 ## 7. Standard Messages
+## 7. Standard Messages
 
 You can configure default responses and behavior for the bot and live chat conversations here - 
 ![Standard Messages](/img/getting-started/bot-messages.png)
