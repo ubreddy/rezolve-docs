@@ -20,6 +20,9 @@ Before connecting SharePoint to the Knowledge Management system, ensure you have
 - **Microsoft Graph API credentials** (for SharePoint Online) or SharePoint API credentials (for on-premises)
 - **Knowledge Management admin privileges** in your platform account
 
+
+![SharePoint Integration](/img/administration/sharepoint_integration.png)
+
 ## Connection Methods
 
 ### Method 1: Direct Integration (Recommended)

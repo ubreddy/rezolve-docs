@@ -19,6 +19,8 @@ The GenAI Features section allows administrators to configure and manage the gen
   - Response formatting preferences
 - Set up content safety filters
 
+![GenAI One](/img/administration/gen_ai_one.png)
+
 #### Smart Summary Configuration
 - Enable/disable the Smart Summary feature
 - Configure summary generation parameters:
@@ -33,6 +35,9 @@ The GenAI Features section allows administrators to configure and manage the gen
 - Manage context preservation parameters
 - Configure follow-up generation
 
+
+![GenAI Two](/img/administration/gen_ai_two.png)
+
 #### Conversation Intelligence
 - Set up intent recognition parameters
 - Configure entity extraction capabilities
@@ -44,6 +49,8 @@ The GenAI Features section allows administrators to configure and manage the gen
 - Configure model-specific parameters
 - Set up fallback mechanisms
 - Manage model version control
+
+![GenAI Three](/img/administration/gen_ai_three.png)
 
 #### Compliance and Governance
 - Configure content filtering parameters

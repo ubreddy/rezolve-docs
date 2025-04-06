@@ -22,6 +22,9 @@ The Web channel provides a browser-based interface for interacting with the Rezo
 1. Navigate to Bot Administration > Channels
 2. Select the Web configuration page
 
+
+![Web Channel](/img/administration/web_channel.png)
+
 #### Basic Setup
 1. Enable/disable the Web channel
 2. Configure the base URL for access
@@ -33,6 +36,9 @@ The Web channel provides a browser-based interface for interacting with the Rezo
 2. Configure color scheme to match organizational branding
 3. Customize welcome messages and chat window layout
 4. Set up header and footer content
+
+
+![Widget Settings](/img/administration/widget_settings.png)
 
 #### Deployment Options
 1. Standalone web application with dedicated URL
