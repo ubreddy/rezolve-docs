@@ -22,6 +22,9 @@ The Guest User Settings section allows administrators to configure access for ex
 - Configure URL expiration settings
 - Create purpose-specific guest links
 
+
+![Guest User](/img/administration/guest_user.png)
+
 #### Authentication Requirements
 - Configure what information guests must provide:
   - Name (required)

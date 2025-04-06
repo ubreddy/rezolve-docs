@@ -22,6 +22,8 @@ The Web Widget provides a compact, embeddable version of the Rezolve.ai virtual 
 1. Navigate to Bot Administration > Channels
 2. Select the Web Widget configuration page
 
+![Widget Channel](/img/administration/widget_channel.png)
+
 #### Basic Setup
 1. Enable/disable the Web Widget
 2. Generate the embedding code
@@ -39,6 +41,8 @@ The Web Widget provides a compact, embeddable version of the Rezolve.ai virtual 
 2. Set up auto-expansion triggers (time-based, page-based)
 3. Configure mobile behavior
 4. Set animation preferences
+
+![Widget Profile](/img/administration/widget_profile.png)
 
 #### Deployment Generation
 1. Copy the generated JavaScript snippet
