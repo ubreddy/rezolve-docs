@@ -18,7 +18,7 @@ The Bot Profile Settings section allows administrators to customize the persona 
 - Bot description and introduction text
 - Specialized role definition
 
-![Bot Profile](/img/administration/bot_profile.png)
+![Bot Profile](../../static/img/administration/Bot_Profile.png)
 
 #### Conversation Style
 - Tone of voice (professional, casual, technical, friendly)
