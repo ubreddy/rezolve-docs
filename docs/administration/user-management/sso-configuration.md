@@ -42,5 +42,5 @@ This guide provides detailed instructions for configuring Single Sign-On (SSO) a
 
 ![SSO_FOURTEEN](../../../static/img/administration/sso_fourteen.png)
 
-![SSO_FIFTEEN](../../../static/img/administration/SSO_FIFTEEN.png)
+![SSO_FIFTEEN](../../../static/img/administration/sso_fifteen.png)
 

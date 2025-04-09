@@ -9,9 +9,8 @@ whatsPending:
 
 # Audience Usage Scenarios
 
-This guide provides practical examples and use cases for implementing audience management across different platform features, helping you maximize the value of your audience segmentation strategy.
+This guide provides practical examples and use cases for implementing audience management across different platform features across Rezolve.ai, helping you maximize the value of your audience segmentation strategy.
 
-Audience Usage Scenarios in Rezolve.ai encompass the various ways that defined audiences can be applied throughout the platform to create targeted, personalized experiences. These practical applications transform audience definitions from abstract concepts into powerful tools for delivering relevant content and functionality to specific user segments.
 
 ## Knowledge Content Targeting
 
@@ -57,7 +56,7 @@ Audiences can drive interface customization throughout the platform:
 - **Feature Access**: Enabling specialized features for particular audiences
 - **Navigation Options**: Customizing available menu items based on user context
 - **Default Views**: Setting different default displays based on likely user needs
-- **Help Content**: Providing contextually relevant assistance based on audience
+
 
 These adaptations create streamlined interfaces that emphasize the most relevant capabilities for each user segment.
 
@@ -68,21 +67,13 @@ Audiences provide precision in communication and alerts:
 - **Announcements**: Targeting system announcements to relevant user segments
 - **Alerts**: Sending notifications about issues to affected audiences only
 - **Surveys**: Directing feedback requests to appropriate user groups
-- **Training Invitations**: Promoting relevant learning opportunities to suitable audiences
 - **Change Communications**: Notifying users about changes that affect their specific context
 
 This targeted approach ensures communications reach relevant recipients without creating noise for others.
 
 ## Analytics and Reporting Segmentation
 
-Audiences enable more meaningful analysis of platform usage:
+Audiences enable more meaningful analysis of platform usage by exposing the relevant KPIs and Analytics to the relevant audience:
 
-- **Segmented Metrics**: Comparing performance statistics across different user segments
-- **Adoption Analysis**: Evaluating feature usage patterns by audience
-- **Satisfaction Comparison**: Contrasting feedback scores between different audiences
-- **Trend Identification**: Spotting patterns unique to particular user segments
-- **Impact Assessment**: Measuring how changes affect different audience groups differently
 
-These insights help organizations understand diverse user needs and experiences rather than relying on aggregate data alone.
-
-By implementing these various audience usage scenarios, organizations create a multi-dimensional personalization framework that acknowledges and responds to the diverse needs of different user segments. This approach significantly enhances user satisfaction by delivering experiences that feel tailored to each individual's specific context and requirements.
+By implementing these audience usage scenarios, organizations create a multi-dimensional personalization framework that acknowledges and responds to the diverse needs of different user segments. This approach significantly enhances user satisfaction by delivering experiences that feel tailored to each individual's specific context and requirements.

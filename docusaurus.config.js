@@ -137,7 +137,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://rezolve.statuspage.io',
+            href: 'https://status.rezolve.ai',
             label: 'Status',
             position: 'right',
           },

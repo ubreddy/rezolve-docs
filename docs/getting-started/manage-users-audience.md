@@ -19,25 +19,26 @@ To start using the instance you need to setup minimum of one user. The registeri
 |-----------------------------|-----------------|----------|
 | **Knowledge Admin/Knowledge Analyst** | Ability to ingest knowledge into the bot. | No |
 | **Bot User** | Test the bot (Minimum 1). If audience-based testing is needed, users from different audience groups are required. | No |
-| **Super Admin** | In simple scenarios, the Super Admin can upload knowledge and test the bot without additional users. | - |
+| **Super Admin** | In test scenarios, the Super Admin can upload knowledge and test the bot without additional users. | - |
 
 ### 2. For Helpdesk
 
 | Role                        | Responsibilities | Required |
 |-----------------------------|-----------------|----------|
-| **Ticket User** | Able to open tickets | Yes |
-| **Ticket Agent** | Handle tickets. Minimum 1 per queue | Yes |
-| **Ticket Agent Supervisor** | Supervise ticket agents | Yes |
-| **Ticket Admin** | Manage tickets. Super admin can do this role | No |
+| **Ticket User** | Able to report tickets | Yes |
+| **Ticket Agent** | Service reported tickets. Minimum 1 per queue | Yes |
+| **Ticket Agent Supervisor** | Service reported tickets and Supervise ticket agents | Yes |
+| **Ticket Admin** | Add / remove agents and supervisors from ticket queues | No |
 
 ### 3. For Live Chat
 
 | Role                        | Responsibilities | Required |
 |-----------------------------|-----------------|----------|
-| **Live Chat Agent** | Ability to chat with the user. | Yes |
+| **Bot User** | Use the bot (Minimum 1). Escalate to live chat | No |
+| **Live Chat Agent** | Ability to chat with the bot users. | Yes |
 | **Live Chat Supervisor** | Supervise live chat agents | No |
 | **Live Chat Admin** | Manage live chat configurations. Super admin can do this role | No |
-| **Bot User** | Use the bot (Minimum 1). Escalate to live chat | No |
+
 
 ### 4. For Insights
 

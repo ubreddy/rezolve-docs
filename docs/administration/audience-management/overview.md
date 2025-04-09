@@ -15,8 +15,6 @@ Audience Management in Rezolve.ai provides a sophisticated targeting system that
 
 This powerful capability serves as the foundation for personalization throughout the platform, enabling targeted knowledge delivery, customized virtual agent responses, and specialized interface experiences based on each user's specific context and needs. Audience definitions can range from simple (e.g., all users in a specific department) to highly complex (e.g., users with specific roles, locations, and usage patterns).
 
-The core concept of Audience Management revolves around creating defined segments without manually assigning individual users. Instead, membership is determined automatically based on whether users meet the specified criteria. This dynamic approach means audience composition automatically adjusts as user properties change, ensuring targeting remains accurate without manual intervention.
-
 
 ![Audience](/img/administration/Audience.png)
 
@@ -44,8 +42,9 @@ Audiences can be leveraged throughout the platform for various purposes:
 
 - **Knowledge Content**: Showing specific knowledge articles to relevant audiences
 - **Virtual Agent Responses**: Tailoring bot behavior based on user context
-- **Interface Customization**: Adjusting available features or interface elements for different user segments
+- **Ticket Interface Customization**: Adjusting available features or interface elements for different user segments
 - **Notification Targeting**: Sending announcements or alerts to specific audience segments
 - **Service Catalog**: Displaying relevant service offerings based on user context
+
 
 By implementing a thoughtful audience strategy, organizations can move beyond one-size-fits-all experiences to deliver contextually relevant content and services that acknowledge each user's specific situation, role, and needs. This personalization significantly enhances user satisfaction while improving efficiency by presenting the most relevant options to each user.

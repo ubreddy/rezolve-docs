@@ -17,6 +17,7 @@ Attributes can be created and managed to reflect organization-specific informati
 - **Custom Attributes**: Organization-specific fields that can be created to capture unique characteristics relevant to business processes
 - **System Attributes**: Automatically generated and managed fields that track system-related user information
 
+
 The attribute creation process allows administrators to define various properties:
 
 - **Attribute Type**: Data type such as text, number, date, boolean, or selection list
@@ -65,12 +66,8 @@ The User Attributes section includes management tools for maintaining attribute 
 - **Usage Analysis**: Understanding which attributes are actively used in platform functions
 - **Value Standardization**: Tools to consolidate inconsistent values (e.g., merging "NY" and "New York")
 
+
 Organizations typically develop an attribute strategy that balances comprehensiveness with manageability, focusing on attributes that drive meaningful differences in how users interact with the platform or how work is routed and processed. This strategic approach ensures that the attribute framework remains valuable without becoming unnecessarily complex.
 
 Through thoughtful implementation of user attributes, organizations can create highly personalized support experiences that acknowledge user context while enabling efficient, targeted service delivery based on relevant user characteristics.
 
-## Other properties
-
-* Required
-* Allow Multiple
-* Append or overwrite on sync
