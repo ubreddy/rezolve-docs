@@ -211,9 +211,9 @@ function Feature({title, description, icon, path, count, color}) {
               <h3>{title}</h3>
             </div>
             <p>{description}</p>
-            <span className={styles.docCount} style={{backgroundColor: `${color}22`, color: color}}>
+            {count && <span className={styles.docCount} style={{backgroundColor: `${color}22`, color: color}}>
               {count} docs
-            </span>
+            </span>}
           </div>
         </div>
       </Link>
