@@ -29,11 +29,50 @@ Generates a new ticket in response to an event:
 - Map fields from the triggering ticket to the new one
 - Establish relationships between the tickets
 
-### Bot Notification
-Sends notifications through Teams:
-- Configure the message content
-- Determine recipients
-- Include relevant ticket information and links
+### Bot Notification Setup (Slack & Teams)
+
+Our product allows administrators to automate communication using Bot Notifications via Slack and Microsoft Teams, triggered by defined events in the Event and Action module.
+
+
+![teams_notify](/img/administration/teams_notify.png)
+
+#### Overview: Event and Action Mechanism
+
+The Event and Action feature allows the admin to automate responses based on specific events. One such action is sending bot notifications via Slack or Teams.
+
+#### How to Configure Bot Notifications
+
+**Step 1: Navigate to Event and Action Configuration**
+* Go to the Admin Panel.
+* Select Event and Action settings.
+* Click on "Add New Action to Perform".
+
+**Step 2: Choose "Bot Notification"**
+* From the Action Type dropdown, select Bot Notification.
+* Upon selecting this option, the following new fields will appear:
+  * Notify On* (dropdown)
+  * Audience
+
+#### Field Details
+
+**Notify On***
+* Select the platform for notification:
+  * Slack
+  * Teams
+
+**Teams Notification*** (multi-line text box)
+* This field appears when either Slack or Teams is selected in "Notify On".
+* Input should be in platform-specific format:
+  * For Slack, use Slack Block Kit JSON
+  * For Teams, use Microsoft Teams Adaptive Card JSON
+* Note: The textbox strictly accepts only valid JSON input. Any invalid format will be rejected.
+
+#### Audience
+* Use this field to define who will receive the notification.
+* You can tag individuals or groups using:
+  * @username to notify specific users.
+  * @groupname to notify groups.
+
 
 ### Trigger Webhook
 Sends data to external systems via API:
