@@ -18,7 +18,11 @@ At the core of Rezolve.ai's category management is the concept of team-based wor
 - **Controlled Access**: Only users with appropriate team assignments can access specific workspaces
 - **Unified Platform**: All workspaces exist within a single tenant while maintaining logical separation
 
+
+
 <img src="/img/Knowledge Management/knowledge.png" alt="Knowledge" />
+
+
 
 
 ## Category Setup During Tenant Registration
@@ -30,7 +34,9 @@ The foundation for knowledge categorization is established during the initial te
 - These teams are automatically created as values under the "Teams" attribute
 
 
+
 <img src="/img/Knowledge Management/registration.png" alt="Registration" />
+
 
 ## Team Assignment and Workspace Access
 
@@ -48,6 +54,7 @@ Each team workspace provides a complete knowledge management environment with:
 - Documents
 - SharePoint Documents
 - Crawled URLs
+
 
 <img src="/img/Knowledge Management/team_assignment.png" alt="Team Assignment" />
 

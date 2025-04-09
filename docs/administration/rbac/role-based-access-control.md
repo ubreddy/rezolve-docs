@@ -24,9 +24,7 @@ For granular control of preparing and authoring this data [Teams](../teams-manag
 
 ### Accessing Employee Data
 
-While the employees have access to all the data prepared by helpdesk teams or subteams, they can only access the data that is relevant to them based on their roles, locations, attributes etc.
-
-For this purpose [Audience](../audience-management/audience-management-overview) is used.
+Service teams can create knowledge and data that would be available to employees based on their Audience and group membership. While employees can potentially access all data prepared by helpdesk teams or subteams, they can only view what is relevant to them based on their roles, locations, attributes, etc. For this purpose, Audience is used.
 
 ### Generated Data
 

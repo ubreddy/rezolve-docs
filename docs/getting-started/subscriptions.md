@@ -9,12 +9,12 @@ whatsPending:
 
 # Subscriptions
 
-Configure the modules that are required for your subscription. 
+Your subscription can be tailored to meet your organization's specific needs. Each of the following modules serves a distinct purpose in enhancing your service management and knowledge management capabilities.
 
 | Module | Description |
 | --- | --- |
 | Knowledge Management| For ingesting and managing the knowledge bases that Bot or enterprise search should use |
-| Live Chat | Live Chat module either that of Rezolve or ServiceNow |
+| Live Chat | Live Chat module (Either Rezolve Live Chat or ServiceNow Live Chat can be selected.)) |
 | Insights | Insights module for extrenal data |
 | Helpdesk | Helpdesk and Tickeiting / Systom of Record module|
 | Service Catalog | Ability to create set of request types or ticket types that employees can access |
@@ -23,12 +23,12 @@ Configure the modules that are required for your subscription.
 
 ## Knowledge Subscription {#knowledge-subscription}
 
-Once the Knowledge Management module is selected, its related features that are available to be enabled could be selected.
+Once the Knowledge Management module is selected, its related features can be enabled.
 
 
 ## Live Chat Subscription {#live-chat-subscription}
 
-Either Rezolve Live Chat or ServiceNow Live Chat could be selected.
+Either Rezolve Live Chat or ServiceNow Live Chat can be selected.
 
 ## Insights Subscription {#insights-subscription}
 

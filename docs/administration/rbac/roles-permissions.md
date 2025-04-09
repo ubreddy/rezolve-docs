@@ -11,5 +11,9 @@ whatsPending:
 
 All roles and permissions are available in the [Roles](./roles) page.
 
-TODO
-Describe what the granular roles are and how they are used.
+However, granular roles can be created for any individual user that you'd like to give extra privileges to. For this, got to Admin App > User Management > View User
+
+Click on manage roles and select the roles group > roles/permissions that you'd want to add specifically for this user. 
+
+![Granular Roles](/img/administration/roles_granular.png)
+

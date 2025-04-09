@@ -11,7 +11,7 @@ whatsPending:
 
 ## Overview
 
-Rezolve.ai is an AI-powered virtual assistant designed to streamline support ticket management and provide instant answers to user queries. The chatbot can be integrated with MS Teams, Slack, and embedded on websites via CDN widgets, offering a seamless support experience.
+Rezolve.ai is an AI-powered virtual assistant designed to streamline support ticket management and provide instant answers to user queries. The chatbot can be integrated with MS Teams, Slack, and embedded on websites via web widgets, offering a seamless support experience.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Rezolve.ai assists users by enabling them to:
 
 ### 1. Multi-Platform Support
 - Available on MS Teams, Slack, and Web
-- Supports CDN widgets for website embedding
+- Supports web widgets for website embedding
 - Allows guest user access without login (limited functionality)
 
 ### 2. Ticket Management
@@ -49,7 +49,7 @@ Rezolve.ai assists users by enabling them to:
 ### Accessing Rezolve.ai
 - Web bot access is available within a tenant through virtual agent menu on the left panel
 - MS Teams & Slack Integration: Follow your company's setup instructions
-- CDN Widget: Contact IT support to embed the bot on a website
+- Web Widget: Contact IT support to embed the bot on a website
 - Guest User Mode: No login required, but ticket status tracking is unavailable
 
 ### Creating a Ticket

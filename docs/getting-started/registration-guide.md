@@ -18,9 +18,11 @@ whatsPending:
 
 ## Steps
 
-1. Go to Registration portal as provided by Rezolve. Yes, you have to get in touch with Rezolve for spinning a tenant, as of now.
+You'd need to get in touch with Rezolve team for spinning a tenant. Once the Rezolve Team shares a customised registration link - 
 
-2. Fill the form 
+1. Go to the Registration Portal
+
+2. Fill the sign up form 
 <figure style={{ textAlign: 'center', margin: '20px 0' }}>
   <img src="/img/getting-started/registration-form.jpg" alt="Registration Form" width="400" />
   <figcaption style={{ fontSize: '14px', color: 'gray', marginTop: '8px' }}>Registration Form</figcaption>

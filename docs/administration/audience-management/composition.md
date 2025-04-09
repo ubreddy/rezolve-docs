@@ -54,23 +54,6 @@ The audience builder provides a visual interface for constructing these complex 
 
 When creating audiences, administrators can preview the resulting membership to verify that the criteria produce the expected results. This preview capability shows which users would be included based on current data, helping refine audience definitions before they're put into use.
 
-## Governance Controls
 
-Audience composition also includes important controls for maintaining governance:
-
-- **Naming Conventions**: Establishing clear, descriptive names that indicate audience purpose
-- **Description Fields**: Documenting the intended use and composition logic
-- **Creator Attribution**: Tracking who created and modified audience definitions
-- **Version History**: Maintaining records of how audience criteria have evolved
-- **Usage Tracking**: Identifying where each audience is being utilized
-
-## Common Audience Types
-
-Organizations typically develop different types of audiences to serve various purposes:
-
-- **Structural Audiences**: Based on formal organizational characteristics like department or location
-- **Functional Audiences**: Based on roles, responsibilities, or capabilities
-- **Contextual Audiences**: Based on situational factors or temporary conditions
-- **Behavioral Audiences**: Based on observed usage patterns or preferences
 
 By thoughtfully designing audience compositions that align with business needs, organizations can create targeting frameworks that deliver highly relevant content and experiences without requiring constant manual adjustment. This approach balances personalization with administrative efficiency, creating dynamic targeting that remains accurate as the organization evolves.
