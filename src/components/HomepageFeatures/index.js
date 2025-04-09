@@ -99,33 +99,33 @@ const FeatureList = [
   {
     title: 'Automation Studio',
     icon: '⚙️',
-    description: 'Design and implement automated workflows',
+    description: 'Coming Soon',
     path: '/docs/automation-studio/overview',
-    count: 12,
+    // count: 12,
     color: colors.primary
   },
   {
     title: 'IT Automation',
     icon: '⚡',
-    description: 'Automate routine IT tasks and workflows',
+    description: 'Coming Soon',
     path: '/docs/it-automation/overview',
-    count: 8,
+    // count: 8,
     color: colors.primary
   },
   {
     title: 'Desktop Automation',
     icon: '⚡',
-    description: 'Automate RMM tasks and workflows',
+   description: 'Coming Soon',
     path: '/docs/desktop-automation/overview',
-    count: 12,
+    // count: 12,
     color: colors.primary
   },
   {
   title: 'Integrations',
   icon: '🔌',
-  description: 'Manage Integrations',
+  description: 'Coming Soon',
   path: '/docs/integrations/overview',
-  count: 19,
+  // count: 19,
   color: colors.primary
   },
   {
@@ -164,17 +164,17 @@ const FeatureList = [
   {
     title: 'Aura Insights',
     icon: '🔍',
-    description: 'Manage using Insights into bot performance and ticket management',
+    description: 'Coming Soon',
     path: '/docs/aura-insights/overview',
-    count: 8,
+    // count: 8,
     color: colors.primary
   },
   {
     title: 'Enterprise Search',
     icon: '🔍',
-    description: 'Configure and use Enterprise Search. [Upcoming]',
+    description: 'Coming Soon',
     path: '/docs/enterprise-search/overview',
-    count: 9,
+    // count: 9,
     color: colors.primary
   },
   
