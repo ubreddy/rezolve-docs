@@ -12,7 +12,7 @@ whatsPending:
 ## 1. Bot Profile
  
 You can configure your bot's profile here. This may include Bot Name, Bot Profile, Company name, Company profile - this helps in personalizing the bot.
-![Bot Profile](/img/administration/Bot_Profile.png)
+![Bot Profile](/img/administration/bot_profile.png)
 
 ## 2. Main Menu
 
