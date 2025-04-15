@@ -23,7 +23,7 @@ The document upload feature is accessible to specific roles within the Rezolve.a
 
 This role-based access ensures that knowledge base management is limited to appropriate personnel while providing flexibility for organizations to assign responsibilities based on their structure.
 
-![Upload Two](/img/Knowledge%20management/upload_two.png)
+![Upload Two](/img/Knowledge%20Management/upload_two.png)
 
 ## Supported File Formats
 
@@ -35,7 +35,7 @@ Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation currentl
 
 Support for these formats covers the vast majority of organizational documentation, ensuring that existing knowledge assets can be readily incorporated into the Virtual Agent's knowledge base.
 
-![Upload Three](/img/Knowledge%20management/upload_three.png)
+![Upload Three](/img/Knowledge%20Management/upload_three.png)
 
 
 
@@ -52,7 +52,7 @@ The document upload interface supports efficient processing of multiple document
 
 This batch upload capability streamlines the process of building a comprehensive knowledge base, allowing administrators to efficiently process large document collections.
 
-![Upload Four](/img/Knowledge%20management/upload_four.png)
+![Upload Four](/img/Knowledge%20Management/upload_four.png)
 
 
 
@@ -72,7 +72,7 @@ This processing transforms static documents into dynamic knowledge sources that 
 
 To ensure that information is appropriately targeted and secured, documents can be assigned to specific audiences:
 
-![Upload Five](/img/Knowledge%20management/upload_five.png)
+![Upload Five](/img/Knowledge%20Management/upload_five.png)
 
 
 
@@ -84,7 +84,7 @@ When a document is whitelisted for a specific audience:
 - The document content is effectively hidden from all other users
 - This is ideal for sensitive or role-specific information
 
-![Upload Six](/img/Knowledge%20management/upload_six.png)
+![Upload Six](/img/Knowledge%20Management/upload_six.png)
 
 ### Blacklisting
 

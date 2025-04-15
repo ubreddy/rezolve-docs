@@ -38,7 +38,7 @@ Scripted Articles deliver exact, word-for-word responses without modification:
 - **Media Support:** Can include images, links, videos, and other rich media
 - **Multi-step Capabilities:** Supports sequential, step-by-step information delivery
 
-![Article Two](/img/Knowledge%20management/article_two.png)
+![Article Two](/img/Knowledge%20Management/article_two.png)
 
 
 Scripted Articles are ideal for:
@@ -57,7 +57,7 @@ Non-Scripted Articles utilize AI to generate dynamic, conversational responses:
 - **Natural Variation:** Provides slightly different wording each time while maintaining accuracy
 - **Simplified Format:** Typically uses more straightforward formatting
 
-![Article Three](/img/Knowledge%20management/article_three.png)
+![Article Three](/img/Knowledge%20Management/article_three.png)
 
 
 
@@ -81,7 +81,7 @@ The article creation process follows these general steps:
 6. Add any additional elements (media, steps, variants)
 7. Save the article as Draft or Published
 
-![Article Four](/img/Knowledge%20management/article_four.png)
+![Article Four](/img/Knowledge%20Management/article_four.png)
 
 
 ### Rich Content Features
@@ -94,7 +94,7 @@ For Scripted Articles in particular, several advanced content features are avail
 - Include file attachments for supplementary materials
 - Insert hyperlinks to related resources
 
-![Article Five](/img/Knowledge%20management/article_five.png)
+![Article Five](/img/Knowledge%20Management/article_five.png)
 
 
 #### Multi-Step Answers
@@ -109,7 +109,7 @@ For complex procedures or explanations:
 
 These multi-step articles are particularly effective for procedures, troubleshooting guides, or any information that follows a sequential process.
 
-![Article Six](/img/Knowledge%20management/article_six.png)
+![Article Six](/img/Knowledge%20Management/article_six.png)
 
 
 #### Question Variants
@@ -123,7 +123,7 @@ To improve the Virtual Agent's ability to match user questions with appropriate 
 
 These variants significantly improve the matching accuracy of the Virtual Agent by accounting for the different ways users might ask for the same information.
 
-![Article Seven](/img/Knowledge%20management/article_seven.png)
+![Article Seven](/img/Knowledge%20Management/article_seven.png)
 
 
 ## Audience Management
@@ -142,7 +142,7 @@ When an article is blacklisted for a specific audience:
 - Members of the blacklisted audience will not see this article
 - Useful for excluding certain groups from seeing particular content
 
-![Article Eight](/img/Knowledge%20management/article_eight.png)
+![Article Eight](/img/Knowledge%20Management/article_eight.png)
 
 
 Audience settings can be configured during article creation or modified later through article settings. This capability ensures that the Virtual Agent provides appropriate information based on who is asking, maintaining information security while delivering personalized responses.
@@ -165,7 +165,7 @@ Articles in Published status:
 - Are available based on their audience settings
 - Appear in knowledge base metrics and reporting
 
-![Article Nine](/img/Knowledge%20management/article_nine.png)
+![Article Nine](/img/Knowledge%20Management/article_nine.png)
 
 
 The ability to move articles between Draft and Published states provides a workflow for content development, review, and activation that ensures only approved content is used in Virtual Agent responses.
@@ -185,7 +185,7 @@ The AutoComplete feature leverages AI to assist in article creation:
 5. Review and edit the generated content as needed
 6. Save as Draft or Published
 
-![Article Ten](/img/Knowledge%20management/article_ten.png)
+![Article Ten](/img/Knowledge%20Management/article_ten.png)
 
 
 This powerful feature significantly accelerates knowledge base development by generating comprehensive first drafts that knowledge authors can then refine, rather than creating all content from scratch.
@@ -197,7 +197,7 @@ For organizations with multiple departments or functions, Knowledge Articles can
 - **Role-Based Workspaces:** Organized by function rather than department
 - **Topic-Based Workspaces:** Grouped by subject matter regardless of department
 
-![Article Eleven](/img/Knowledge%20management/article_eleven.png)
+![Article Eleven](/img/Knowledge%20Management/article_eleven.png)
 
 
 This organizational structure helps manage large knowledge bases by compartmentalizing content while still allowing the Virtual Agent to access all relevant information when answering queries.
@@ -210,7 +210,7 @@ The system provides visibility into the knowledge base size and composition:
 - **Publication Status:** Counts of Draft vs. Published articles
 - **Audience Coverage:** Analysis of which audiences are served by current content
 
-![Article Twelve](/img/Knowledge%20management/article_twelve.png)
+![Article Twelve](/img/Knowledge%20Management/article_twelve.png)
 
 These metrics are visible on the Virtual Agent Management dashboard, providing at-a-glance insights into the scope and composition of the knowledge base.
 

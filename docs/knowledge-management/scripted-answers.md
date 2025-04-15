@@ -27,7 +27,7 @@ Scripted Articles are distinguished by several important characteristics:
 - **Structured Presentation:** Allows for multi-step, sequential information delivery
 - **Question Variants:** Supports multiple phrasings of the same question for improved matching
 
-![Article Two](/img/Knowledge%20management/article_two.png)
+![Article Two](/img/Knowledge%20Management/article_two.png)
 
 
 These characteristics make Scripted Articles the ideal choice for any information that must be delivered with absolute precision and consistency.
@@ -46,7 +46,7 @@ To create a Scripted Article through the interface:
 6. Add media, steps, or other elements as needed
 7. Save as Draft or Published
 
-![Article Three](/img/Knowledge%20management/article_three.png)
+![Article Three](/img/Knowledge%20Management/article_three.png)
 
 
 ### Enhanced Content Features
@@ -70,7 +70,7 @@ Scripted Articles support several advanced content features that enhance their e
 
 This media support makes Scripted Articles particularly effective for visual procedures, complex explanations, or situations where "showing" is as important as "telling."
 
-![Article Four](/img/Knowledge%20management/article_four.png)
+![Article Four](/img/Knowledge%20Management/article_four.png)
 
 
 #### Multi-Step Procedures
@@ -84,7 +84,7 @@ For complex processes or sequential instructions:
 
 When delivered to users, these steps are presented in a structured, sequential format that guides them through complex procedures one step at a time.
 
-![Article Five](/img/Knowledge%20management/article_five.png)
+![Article Five](/img/Knowledge%20Management/article_five.png)
 
 
 #### Question Variants
@@ -101,7 +101,7 @@ For example, an article titled "How do I reset my password?" might include varia
 - "Can't log in, need new password"
 - "Change password instructions"
 
-![Article Six](/img/Knowledge%20management/article_six.png)
+![Article Six](/img/Knowledge%20Management/article_six.png)
 
 
 
@@ -120,7 +120,7 @@ For organizations with substantial knowledge requirements, Rezolve.ai | Next-Gen
 5. Upload the completed file
 6. Review and publish the imported articles
 
-![Article Seven](/img/Knowledge%20management/article_seven.png)
+![Article Seven](/img/Knowledge%20Management/article_seven.png)
 
 
 
@@ -134,7 +134,7 @@ The template includes several key columns:
 - **Status:** Whether to import as Draft or Published
 - **Audience:** Audience targeting information (if applicable)
 
-![Article Eight](/img/Knowledge%20management/article_eight.png)
+![Article Eight](/img/Knowledge%20Management/article_eight.png)
 
 
 ### Metadata for Workspace Assignment
@@ -145,7 +145,7 @@ The metadata columns in the template enable automatic routing of articles to app
 - **Subcategory:** Further topic refinement
 - **Tags:** Keywords for additional classification
 
-![Article Nine](/img/Knowledge%20management/article_nine.png)
+![Article Nine](/img/Knowledge%20Management/article_nine.png)
 
 
 This metadata ensures that bulk-uploaded articles are properly organized within the knowledge management system, maintaining structural integrity even when adding large volumes of content.
@@ -161,7 +161,7 @@ While the XLSX format has some limitations compared to the rich text editor, sev
 
 Organizations often use the bulk upload for initial content population, followed by enhanced formatting through the interface for selected articles that require rich media or complex presentation.
 
-![Article Ten](/img/Knowledge%20management/article_ten.png)
+![Article Ten](/img/Knowledge%20Management/article_ten.png)
 
 
 ## Use Cases for Scripted Articles
@@ -196,7 +196,7 @@ When information benefits from visual support:
 - Location directions with maps
 - Visual differentiation of similar items
 
-![Article Eleven](/img/Knowledge%20management/article_eleven.png)
+![Article Eleven](/img/Knowledge%20Management/article_eleven.png)
 
 
 ## Best Practices for Scripted Articles
@@ -218,7 +218,7 @@ When information benefits from visual support:
 - **Abbreviations:** Include both full terms and common abbreviations
 - **Problem-Focused:** Include variants that describe the problem rather than ask for the solution
 
-![Article Twelve](/img/Knowledge%20management/article_twelve.png)
+![Article Twelve](/img/Knowledge%20Management/article_twelve.png)
 
 ### Bulk Upload Success Factors
 - **Template Adherence:** Follow the template format exactly
