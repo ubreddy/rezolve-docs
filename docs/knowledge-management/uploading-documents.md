@@ -11,7 +11,7 @@ Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation's Knowle
 
 The document upload functionality supports multiple file formats, batch processing, audience targeting, and version control to create a comprehensive, well-organized knowledge repository that powers the Virtual Agent's responses.
 
-![Upload One](/img/Knowledge%20management/upload_one.png)
+![Upload One](/img/Knowledge%20Management/upload_one.png)
 
 ## Access and Permissions
 

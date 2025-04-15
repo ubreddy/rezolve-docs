@@ -13,7 +13,7 @@ Scripted Articles represent a cornerstone of Rezolve.ai | Next-Gen ITSM & HR Sup
 
 This powerful component of the knowledge base is particularly valuable for technical instructions, compliance information, policy statements, and other content where precision is paramount. Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation  provides comprehensive tools for creating, managing, and optimizing Scripted Articles to ensure the Virtual Agent delivers exactly the right information in exactly the right way.
 
-![Article One](/img/Knowledge%20management/article_one.png)
+![Article One](/img/Knowledge%20Management/article_one.png)
 
 
 ## Key Characteristics of Scripted Articles

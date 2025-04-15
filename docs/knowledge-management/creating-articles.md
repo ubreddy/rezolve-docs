@@ -13,7 +13,7 @@ Knowledge Articles form the foundation of Rezolve.ai | Next-Gen ITSM & HR Suppor
 
 Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation  offers two distinct types of Knowledge Articles—Scripted and Non-Scripted—each with unique characteristics suited to different information delivery needs. This dual approach provides organizations with flexibility in how information is presented while maintaining accuracy and relevance.
 
-![Article One](/img/Knowledge%20management/article_one.png)
+![Article One](/img/Knowledge%20Management/article_one.png)
 
 
 ## Access and Permissions
