@@ -14,6 +14,7 @@ Rezolve.ai's Virtual Agent can be seamlessly integrated into SharePoint environm
 
 The SharePoint integration appears as a chat icon in the corner of SharePoint pages that expands into a full-featured bot interface when clicked. This implementation leverages SharePoint Framework (SPFx), Microsoft's modern development model for SharePoint customizations, ensuring secure, performant integration that follows best practices for SharePoint development.
 
+![SharePoint One](/img/administration/sharepoint_one.png)
 
 ## Creating the SharePoint Package
 
