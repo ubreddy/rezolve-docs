@@ -423,10 +423,11 @@ module.exports = {
       label: 'Announcements',
       items: [
         'announcements/overview',
+        'announcements/botnotificationLivechAtappSetup',
         'announcements/creating',
-        'announcements/scheduling',
+        'announcements/faqs',
         'announcements/logs',
-        'announcements/faqs'
+        'announcements/scheduling'
       ]
     }
   ],

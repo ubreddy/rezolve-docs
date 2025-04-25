@@ -1,0 +1,71 @@
+
+<h2 id="2e1kxmjj">Virtual Agent Management Dashboard</h2>
+<p id="5ut6uz">The <strong>Virtual Agent Management Dashboard</strong> provides real-time insights into the performance and usage of the <strong>Rezolve.AI ITSM bot</strong> within your organization. It displays key metrics and trends that help monitor bot effectiveness and user engagement.</p>
+<h3 id="3hh2dnm">Key Metrics Section</h3>
+<h4 id="mkbikum">Top Cards</h4>
+<p id="mkbikum">The following metrics are displayed:</p>
+<ul id="m1hnu66">
+<li id="tnf20fd"><strong>Interactions</strong>: Total number of sessions between users and the bot</li>
+<li id="gk84uan"><strong>Questions Answered</strong>: Number of successful query resolutions by the bot</li>
+<li id="ec0voxo"><strong>Size of Scripted Knowledge Base</strong>: Number of pre-configured response templates</li>
+<li id="3y3t0a8"><strong>System Users</strong>: Total number of active users with access to the bot</li>
+</ul>
+<h3 id="w9cn66h">Interactive Charts</h3>
+<h4 id="dtjh2ei">User Interaction Graph</h4>
+<p id="dtjh2ei">This graph includes:</p>
+<ul id="q0nev2r">
+<li id="p1akrr"><strong>Bar chart</strong> shows daily trends of bot usage</li>
+<li id="v04ao6e"><strong>Blue bars</strong> represent questions asked</li>
+<li id="6ilvcce"><strong>Red bars</strong> represent interactions</li>
+<li id="axuupx"><strong>Filterable by Time range</strong>: WEEK, MONTH, 12 MONTH, ALL</li>
+<li id="lur2tz"><strong>X-axis</strong> displays dates</li>
+<li id="9ik6u9s"><strong>Y-axis</strong> shows interaction volume</li>
+</ul>
+<h3 id="xh9ek3">Performance Analysis</h3>
+<ul id="hv68vo">
+<li id="4owiuhj"><strong>Pie chart</strong> shows bot effectiveness</li>
+<li id="ixzt6g"><strong>Categories</strong>:</li>
+<ul id="22ufotu">
+<li id="50x3nv"><strong>Helpful</strong> (Blue)</li>
+<li id="rbx6gr"><strong>Not Helpful</strong> (Red)</li>
+</ul>
+<li id="d6493uf"><strong>Filterable by time periods</strong> (Week/Month/12 Month/All)</li>
+</ul>
+<h3 id="gn6kfe">Need Training Section</h3>
+<ul id="ioledji">
+<li id="qip9hgf"><strong>Helps identify</strong> knowledge gaps</li>
+<li id="ofbuhik"><strong>Bar graph</strong> shows instances where the bot identified the need for additional training with a weekly breakdown of training needs identified</li>
+<li id="qg43ypa"><strong>Useful for</strong> continuous bot improvement</li>
+<li id="es7z5k"><strong>Filterable by time periods</strong> (Week/Month/12 Month/All)</li>
+<li id="a354fbj"><strong>X-axis</strong> displays dates</li>
+<li id="0c9ym7m"><strong>Y-axis</strong> shows instances volume</li>
+</ul>
+<h3 id="l8i81z">Average Feedback</h3>
+<ul id="via7vy7">
+<li id="e7gbolu"><strong>Displays user satisfaction metrics</strong></li>
+</ul>
+<h3 id="lgtx0oh">Best Practices</h3>
+<ol id="08tjf1">
+<li id="f5ywvxc"><strong>Regular monitoring</strong> of the "Need Training" section to improve bot capabilities</li>
+<li id="vijipnl"><strong>Track</strong> the helpful vs. not helpful ratio to measure bot effectiveness</li>
+<li id="p4kzsyu"><strong>Monitor</strong> user interaction trends to identify usage patterns</li>
+<li id="orqlnv"><strong>Review</strong> average feedback to maintain service quality</li>
+</ol>
+<h3 id="cz1puh9">Data Interpretation Tips</h3>
+<ul id="g3stbof">
+<li id="qrg8zb9"><strong>Sudden spikes</strong> in interactions may indicate system-wide issues</li>
+<li id="nc1r0c"><strong>Low helpful ratings</strong> suggest a need for knowledge base updates</li>
+<li id="1br74x"><strong>Consistent training needs</strong> in specific areas indicate knowledge gaps</li>
+<li id="w3ov32"><strong>Track user count growth</strong> to plan for scaling</li>
+</ul>
+<h3 id="ix33h4">Troubleshooting</h3>
+<p><!-- Doc 2 is in language en-US. Optimizing Doc 2 for scanning, using lists and bold where appropriate, but keeping language en-US, and adding id attributes to every HTML element: --></p>
+<ul id="iee5zdf">
+<li id="x5used5"><strong>If graphs show no data</strong>, check the selected time range:</li>
+<ul id="bcksvx">
+<li id="9s11uhp"><strong>Check</strong> the selected time range</li>
+<li id="oyugcyn"><strong>Ensure</strong> you have proper dashboard access permissions</li>
+</ul>
+<li id="w3z3ydc"><strong>Refresh</strong> the page if metrics seem outdated</li>
+<li id="u5pu6u"><strong>Contact</strong> the system administrator for access issues</li>
+</ul>
