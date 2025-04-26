@@ -17,7 +17,7 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
 - Navigate to **App Registrations**.
 - Click **New Registration** to create a new app.
 
-![Step 1 Screenshot](/img/announcements/package1.jpg)
+![Step 1 Screenshot](/img/Announcements/package1.jpg)
 
 ## Step 2: Register a New App
 - Enter the **App Name**.
@@ -30,13 +30,13 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
     ```
 - Click **Register**.
 
-![Step 2 Screenshot](/img/announcements/package2.jpg)
+![Step 2 Screenshot](/img/Announcements/package2.jpg)
 
 ## Step 3: API Permissions
 - Go to **API Permissions**.
 - Add all necessary permissions (delegated & application) as per your requirements.
 
-![Step 3 Screenshot](/img/announcements/package3.jpg)
+![Step 3 Screenshot](/img/Announcements/package3.jpg)
 
 ## Step 4: Authentication Settings
 - Go to the **Authentication** section of your app.
@@ -47,7 +47,7 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
 - Check the **Authorization endpoint** checkbox.
 - Click **Save**.
 
-![Step 4 Screenshot](/img/announcements/package4.jpg)
+![Step 4 Screenshot](/img/Announcements/package4.jpg)
 
 ## Step 5: Create a Client Secret
 - Go to **Certificates & Secrets**.
@@ -56,7 +56,7 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
 - Click **Add**.
 - **Copy the Value** immediately – this is your client secret for future reference.
 
-![Step 5 Screenshot](/img/announcements/package5.jpg)
+![Step 5 Screenshot](/img/Announcements/package5.jpg)
 
 ## Step 6: Save App & Tenant IDs
 - Go to the **Overview** screen.
@@ -64,7 +64,7 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
   - **Application (client) ID**
   - **Directory (tenant) ID**
 
-![Step 6 Screenshot](/img/announcements/package6.jpg)
+![Step 6 Screenshot](/img/Announcements/package6.jpg)
 
 ## Step 7: Standard Server Configuration
 - Go to your standard server (graphAPI & teamsso modules).
@@ -74,7 +74,7 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
   3. App ID (from Step 6)
   4. Secret (from Step 5)
 
-![Step 7 Screenshot](/img/announcements/package7.jpg)
+![Step 7 Screenshot](/img/Announcements/package7.jpg)
 
 ## Step 8: Database - `bot_mapper` Table Entry
 - Run the following SQL to enable the Teams app (adjust values as needed):
@@ -85,12 +85,12 @@ This guide provides step-by-step instructions to set up the Rezolve.ai bot notif
     (93, '3802c1c1-9aec-440c-98f2-3b468cc87a1b'::uuid, NULL, NULL, '2020-08-05 17:58:40.193', NULL, '2020-08-05 17:58:40.168', 'Published', 'default', '33efe0de-5d52-4b41-8017-edcdffc84800', '3304b368-9baa-47ee-9b9e-0be7ecab9a53', '["notification", "agentchat", "tickets"]'::jsonb);
   ```
 
-![Step 8 Screenshot](/img/announcements/package9.png)
+![Step 8 Screenshot](/img/Announcements/package9.png)
 
 ## Step 10: Tenant Table Entry
 - Ensure your Active Directory tenant ID exists in the `tenant` table. If not, add it to enable channel creation.
 
-![Step 9 Screenshot](/img/announcements/package10.png)
+![Step 9 Screenshot](/img/Announcements/package10.png)
 
 ## Step 11: Rezolve App Distribution
 Rezolve will share:
@@ -98,7 +98,7 @@ Rezolve will share:
 - App for Agents (Target: Agents)
 - App for notifications
 
-![Step 10 Screenshot](/img/announcements/package11.png)
+![Step 10 Screenshot](/img/Announcements/package11.png)
 
 ## Step 12: Add App to Microsoft Teams
 1. Click the **Apps** icon in Teams (left panel).
