@@ -9,262 +9,203 @@ whatsPending:
 
 # Knowledge Gaps Management
 
-This guide explains how to identify, prioritize, and address gaps in your knowledge base to ensure comprehensive coverage of important topics and improve self-service resolution rates.
+Knowledge Gaps in Rezolve.ai represent instances where the virtual agent (bot) was unable to provide a satisfactory response to a user query. These gaps are systematically captured, categorized, and presented to administrators through the Knowledge Gaps interface, enabling continuous improvement of the bot's knowledge base and response capabilities.
 
 ## Understanding Knowledge Gaps
 
-Knowledge gaps are missing or incomplete information in your knowledge base that:
+Rezolve.ai identifies three distinct types of knowledge gaps:
 
-- Prevent users from finding answers to their questions
-- Lead to increased support tickets and calls
-- Reduce self-service success rates
-- Create inconsistent customer experiences
-- Decrease agent efficiency
+### 1. Missing Knowledge
 
-## Automated Gap Detection
+Occurs when:
 
-### Search Analytics
+- The bot explicitly states it does not have information on the topic
+- The query is within the bot's intended scope
+- No relevant knowledge source is available to answer the query
 
-The system automatically identifies potential knowledge gaps through:
+**Example:**
 
-1. **Zero-Result Searches**: Queries that return no results
-2. **Low-Satisfaction Searches**: Queries where users don't click on results
-3. **High-Abandonment Searches**: Queries where users leave without resolution
-4. **Repeated Searches**: Queries performed multiple times by the same user
+User: "What's the process for requesting a temporary parking pass?"
 
-To access search analytics:
-1. Navigate to **Analytics** > **Search Insights**
-2. View the **Knowledge Gaps** tab
-3. Filter by date range, user segment, or content category
-4. Sort by frequency, impact, or trend
+Bot: "I'm sorry, I don't have information about temporary parking passes."
 
-### Support Ticket Analysis
+Missing knowledge gaps typically indicate content that should be added to the knowledge base.
 
-Identify gaps by analyzing support interactions:
+![Knowledge Gaps Types](/img/Knowledge%20Management/gap1.png)
 
-1. Go to **Analytics** > **Ticket Insights**
-2. Review the **Knowledge Gap Analysis** report
-3. See common ticket topics without corresponding knowledge articles
-4. View trending issues without documentation
-5. Analyze agent-created temporary answers
+### 2. Out of Scope
 
-### AI-Powered Gap Detection
+Occurs when:
 
-Leverage AI to proactively identify missing content:
+- The bot identifies that the query falls outside its configured scope
+- The question relates to topics the bot is not designed to address
 
-1. Navigate to **Knowledge Management** > **AI Insights**
-2. Review the **Content Coverage** analysis
-3. See AI-suggested topics based on:
-   - Industry benchmarks
-   - Competitive analysis
-   - Product feature coverage
-   - Common user journeys
-4. Evaluate gap impact and priority scores
+**Example:**
 
-## Manual Gap Identification
+User: "Can you explain string theory to me?"
 
-### Knowledge Audits
+Bot: "I'm sorry, but questions about scientific theories are outside my scope. I'm designed to help with IT-related inquiries."
 
-Conduct regular knowledge audits:
+Out of scope gaps may indicate user misconceptions about the bot's purpose or potential opportunities to expand the bot's capabilities.
 
-1. Define audit scope and objectives
-2. Create a content inventory
-3. Evaluate content against quality standards
-4. Identify missing topics and information
-5. Document gaps and prioritize them
+### 3. Inaccurate Answer
 
-### Stakeholder Input
+Occurs when:
 
-Gather input from key stakeholders:
+- The bot provides an answer
+- The user indicates dissatisfaction via negative feedback (thumbs down)
+- The answer may be outdated, incomplete, or incorrect
 
-1. Survey subject matter experts
-2. Interview customer-facing teams
-3. Collect feedback from product managers
-4. Review customer success stories and challenges
-5. Analyze competitive offerings
+**Example:**
 
-### User Feedback
+User: "How do I reset my password?"
 
-Leverage direct user feedback:
+Bot: Provides steps for an outdated password reset process
 
-1. Implement "Was this helpful?" ratings on articles
-2. Add "Something missing?" feedback forms
-3. Conduct user surveys on knowledge coverage
-4. Review community forum discussions
-5. Analyze social media mentions
+User: Gives thumbs down to indicate the answer wasn't helpful
 
-## Gap Prioritization
+Inaccurate answer gaps indicate content that needs to be updated or improved.
 
-### Impact Assessment
+## Accessing Knowledge Gaps
 
-Evaluate the impact of each identified gap:
+To access the Knowledge Gaps interface:
 
-1. Go to **Knowledge Management** > **Gap Analysis**
-2. Review the impact metrics for each gap:
-   - Search volume
-   - Ticket volume
-   - Customer impact
-   - Business impact
-   - Resolution complexity
-3. Sort gaps by impact score
+1. Navigate to "Virtual Agent Management"
+2. Select "Knowledge Management"
+3. Go to "Knowledge Insights"
+4. Click on "Knowledge Gaps"
 
-### Effort Estimation
+![Knowledge Gaps Interface](/img/Knowledge%20Management/gap2.png)
 
-Assess the effort required to fill each gap:
+## Knowledge Gaps Interface
 
-1. Estimate content creation time
-2. Identify required subject matter experts
-3. Evaluate research requirements
-4. Consider approval and review complexity
-5. Factor in technical implementation needs
+The Knowledge Gaps interface displays all captured instances where the bot failed to provide satisfactory answers:
 
-### Prioritization Matrix
+For each knowledge gap, the interface typically shows:
 
-Use the prioritization matrix to decide which gaps to address first:
+- The user's query/utterance
+- The type of gap (Missing Knowledge, Out of Scope, Inaccurate Answer)
+- When the gap occurred
+- Frequency (if the same gap has occurred multiple times)
+- Action buttons for addressing the gap
 
-1. Navigate to **Gap Management** > **Prioritization**
-2. View the matrix plotting impact vs. effort
-3. Focus on high-impact, low-effort gaps first
-4. Schedule high-impact, high-effort gaps with adequate resources
-5. Deprioritize or eliminate low-impact gaps
+## Addressing Knowledge Gaps
 
-## Gap Resolution Workflow
+For each identified gap, administrators have several options accessible through action buttons:
 
-### Content Creation Assignment
+### 1. Fix Now
 
-Assign gaps to appropriate content creators:
+The "Fix Now" button provides immediate options to address the knowledge gap:
 
-1. Go to **Gap Management** > **Assignments**
-2. Select gaps to assign
-3. Choose content creators based on expertise
-4. Set deadlines and priorities
-5. Provide context and requirements
+![Fix Now Options](/img/Knowledge%20Management/gap3.png)
 
-### Content Development Process
+#### Upload Document
+- Upload a document containing the answer to the query
+- The system will process and index the document
+- Future similar queries will be answered using this document
 
-Follow the structured process for filling knowledge gaps:
+#### Crawl URL
+- Provide a URL to a webpage containing relevant information
+- The system will crawl and index the content
+- The bot will use this information for future responses
 
-1. Research the topic thoroughly
-2. Identify key information requirements
-3. Draft the content using appropriate templates
-4. Include relevant media and examples
-5. Link to related content
-6. Submit for review
+#### Add Knowledge Article
+- Create a new knowledge article directly addressing the gap
+- Write a detailed answer to the specific query
+- Format and structure the information for optimal bot usage
 
-### Review and Approval
+### 2. Explanation
 
-Ensure quality through proper review:
+The "Explanation" button reveals how the query was processed:
 
-1. Subject matter expert review for accuracy
-2. Editorial review for clarity and style
-3. Compliance review if applicable
-4. User testing for effectiveness
-5. Final approval and publication
+![Fix Now Options](/img/Knowledge%20Management/gap4.png)
 
-### Measurement and Validation
+- Shows the flow chart of the query processing
+- Indicates which decision points led to the knowledge gap
+- Helps identify why the bot couldn't answer effectively
+- Provides insights for systemic improvements
 
-Verify that gaps have been effectively filled:
+### 3. View Chat
 
-1. Monitor search success rates for the topic
-2. Track self-service resolution rates
-3. Measure ticket deflection
-4. Collect user feedback
-5. Update gap status in the management system
+The "View Chat" button displays the complete conversation context:
 
-## Proactive Gap Prevention
+![View Chat Interface](/img/Knowledge%20Management/gap5.png)
 
-### Content Planning
+- Shows the entire chat session containing the knowledge gap
+- Provides context around the query
+- Reveals any preceding questions or follow-ups
+- Helps understand the user's intent more clearly
 
-Prevent gaps through proactive planning:
+### 4. Delete Gap
 
-1. Align knowledge creation with product roadmap
-2. Create content templates for common topics
-3. Develop knowledge standards and guidelines
-4. Implement pre-launch content requirements
-5. Establish content refresh schedules
+Administrators can also delete a knowledge gap from the list if:
 
-### Knowledge Mapping
+- The gap is irrelevant or intentional
+- The query is inappropriate
+- The gap has been addressed through broader knowledge base improvements
 
-Create comprehensive knowledge maps:
+## Example: Addressing Different Types of Gaps
 
-1. Go to **Knowledge Management** > **Knowledge Map**
-2. View visual representation of your knowledge coverage
-3. Identify thin or missing areas
-4. Plan content to fill structural gaps
-5. Ensure balanced coverage across topics
+### Example 1: Fixing a Missing Knowledge Gap
 
-### Automated Suggestions
+**Gap:** Users frequently ask about the new hybrid work policy, but the bot has no information.
 
-Leverage AI for content suggestions:
+**Solution:**
 
-1. Enable **Content Advisor** in the article editor
-2. Review AI-suggested additions to your content
-3. Consider recommended related topics
-4. Add suggested examples and clarifications
-5. Implement structured content recommendations
+1. Click "Fix Now"
+2. Select "Upload Document"
+3. Upload the official hybrid work policy document
+4. The system processes the document
+5. Future queries about hybrid work will receive accurate responses
 
-## Integration with Development Processes
+### Example 2: Handling an Out of Scope Gap
 
-### Product Development Integration
+**Gap:** Multiple users ask about company stock options, which is outside the IT bot's scope.
 
-Integrate knowledge management with product development:
+**Solution Options:**
 
-1. Include knowledge requirements in feature specifications
-2. Assign documentation tasks in development sprints
-3. Conduct knowledge reviews during feature testing
-4. Synchronize content releases with product releases
-5. Automate documentation updates from code comments
+If it should remain out of scope:
+1. Create a clearer "out of scope" response directing users to HR
+2. No knowledge addition required
 
-### API and SDK Documentation
+If scope should be expanded:
+1. Click "Fix Now"
+2. Add Knowledge Article about where to find stock option information
+3. Update bot scope configuration
 
-Maintain comprehensive technical documentation:
+### Example 3: Correcting an Inaccurate Answer
 
-1. Implement automated API documentation generation
-2. Create interactive code examples
-3. Develop guided implementation tutorials
-4. Maintain version-specific documentation
-5. Provide troubleshooting guides for common issues
+**Gap:** Bot provides outdated VPN connection instructions, receiving consistent negative feedback.
 
-## Analytics and Reporting
+**Solution:**
 
-### Gap Coverage Metrics
+1. Click "Fix Now"
+2. Select "Add Knowledge Article"
+3. Create new article with current VPN connection process
+4. Mark old information as deprecated
+5. Test to ensure the bot now provides updated information
 
-Track progress in addressing knowledge gaps:
+## Best Practices for Knowledge Gap Management
 
-1. Navigate to **Analytics** > **Gap Coverage**
-2. View metrics on:
-   - Total identified gaps
-   - Gaps in progress
-   - Resolved gaps
-   - Gap resolution time
-   - Impact of resolved gaps
-3. Filter by category, priority, or time period
+- **Regular Review:** Schedule weekly or bi-weekly reviews of knowledge gaps
+- **Prioritize by Frequency:** Address gaps that occur most frequently first
+- **Look for Patterns:** Identify categories of information consistently missing
+- **Involve Subject Matter Experts:** Have specialists review content additions
+- **Test Fixes:** Verify that gaps are properly addressed by testing similar queries
+- **Maintain Documentation:** Keep records of how gaps were addressed
+- **Analyze Trends:** Monitor if certain types of gaps increase or decrease over time
+- **Update Training:** Use gaps to improve overall bot training and scope definition
 
-### Knowledge Health Dashboard
+## Conclusion
 
-Monitor overall knowledge base health:
+The Knowledge Gaps feature in Rezolve.ai provides a systematic approach to identifying and addressing instances where the virtual agent fails to meet user needs. By categorizing gaps into Missing Knowledge, Out of Scope, and Inaccurate Answer types, the system enables targeted improvements to the knowledge base.
 
-1. Go to **Analytics** > **Knowledge Health**
-2. Review the comprehensive dashboard showing:
-   - Coverage score by category
-   - Content freshness metrics
-   - Quality assessment scores
-   - User satisfaction ratings
-   - Self-service success rates
+The intuitive interface with Fix Now, Explanation, and View Chat options makes it straightforward for administrators to understand why gaps occurred and how to address them effectively. This continuous improvement process ensures that the virtual agent becomes increasingly capable of answering user queries accurately over time.
 
-## Best Practices
-
-- **Continuous monitoring**: Make gap detection an ongoing process
-- **Balanced approach**: Combine automated detection with human insight
-- **Clear ownership**: Assign responsibility for gap management
-- **Regular reviews**: Schedule periodic gap analysis sessions
-- **Feedback loops**: Create mechanisms for continuous improvement
-- **Prioritize impact**: Focus on gaps with the highest business impact
-- **Measure results**: Track the effectiveness of gap resolution
+By diligently managing knowledge gaps, organizations can significantly enhance the effectiveness of their virtual agent, improve user satisfaction, and reduce the need for human intervention in routine inquiries. The systematic approach to knowledge improvement also creates a valuable feedback loop that helps prioritize content development and maintenance efforts.
 
 ## Next Steps
 
 - Explore [Knowledge Search and Discovery](/docs/knowledge-management/search/ticket-based) to optimize content findability
 - Learn about [Knowledge Workflow](/docs/knowledge-management/knowledge-workflow) for content lifecycle management
 - Set up [Testing Knowledge](/docs/knowledge-management/testing-knowledge) to validate content effectiveness
-
