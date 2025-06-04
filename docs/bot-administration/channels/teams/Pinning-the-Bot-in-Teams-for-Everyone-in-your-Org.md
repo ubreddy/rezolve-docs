@@ -1,14 +1,14 @@
 ---
-title: 'Pinning the Bot in Teams for Everyone in your Org'
+title: 'Pinning the bot'
 id: pinning-the-bot-in-teams-for-everyone-in-your-org
 sidebar_position: 1
-sidebar_label: Pinning the Bot in Teams for Everyone in your Org
+sidebar_label: Pinning the bot
 status: 
 whatsPending: 
 ---
 
 
-# Pinning the Bot in Teams for Everyone in your Org
+# Pinning the bot
 
 
 
