@@ -1,11 +1,11 @@
 ---
-title: 'Enabling Graph API Permissions for additional Attributes in Teams using SSO App'
+title: 'Enabling Graph API'
 sidebar_position: 1
 status: 
 whatsPending: 
 ---
 
-# Enabling Graph API Permissions for Microsoft Teams SSO App
+# Enabling Graph API
 
 This guide provides step-by-step instructions for enabling Graph API permissions in your Azure AD application to allow the bot to perform automations for your end-users in Microsoft Teams.
 

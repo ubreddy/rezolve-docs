@@ -19,11 +19,11 @@ module.exports = {
           label: 'Registration'
         },
         {type: 'doc', id: 'getting-started/manage-users-audience', label: 'Manage Users and Audience'},
-        {
-          type: 'doc',
-          id: 'getting-started/subscriptions',
-          label: 'Subscriptions'
-        },
+        // {
+        //   type: 'doc',
+        //   id: 'getting-started/subscriptions',
+        //   label: 'Subscriptions'
+        // },
         {
           type: 'category',
           label: 'Configurations',
@@ -32,7 +32,7 @@ module.exports = {
             'getting-started/configure-bot-channels',
             'getting-started/configure-catalog',
             'getting-started/configure-live-chat',
-            'getting-started/integrations'
+            //'getting-started/integrations'
           ]
         },
         {
@@ -45,24 +45,24 @@ module.exports = {
           id: 'getting-started/knowledge-ingest',
           label: 'Ingest Knowledge'
         },
-        { type: 'category', label: 'Test', items: [
-          'getting-started/try-helpdesk',
-          'getting-started/check-live-chat',
-          'getting-started/check-search',
-          'getting-started/try-insights',
-          'getting-started/use-the-bot',
-          'getting-started/check-gaps'
-        ]},
-        {
-          type: 'category',
-          label: 'Check Metrics',
-          items: [
-            'getting-started/check-metrics',
-            'getting-started/bot-efficiency',
-            'getting-started/agent-efficiency',
-            'getting-started/live-chat-efficiency'
-          ]
-        },
+        // { type: 'category', label: 'Test', items: [
+        //   'getting-started/try-helpdesk',
+        //   'getting-started/check-live-chat',
+        //   'getting-started/check-search',
+        //   'getting-started/try-insights',
+        //   'getting-started/use-the-bot',
+        //   'getting-started/check-gaps'
+        // ]},
+        // {
+        //   type: 'category',
+        //   label: 'Check Metrics',
+        //   items: [
+        //     'getting-started/check-metrics',
+        //     'getting-started/bot-efficiency',
+        //     'getting-started/agent-efficiency',
+        //     'getting-started/live-chat-efficiency'
+        //   ]
+        // },
         
         
       ]
@@ -78,11 +78,11 @@ module.exports = {
           id: 'administration/introduction',
           label: 'Introduction'
         },
-        {
-          type: 'doc',
-          id: 'administration/subscriptions-mgmt',
-          label: 'Subscriptions Management'
-        },
+        // {
+        //   type: 'doc',
+        //   id: 'administration/subscriptions-mgmt',
+        //   label: 'Subscriptions Management'
+        // },
         {
           type: 'category',
           label: 'Role-Based Access Control',
@@ -121,16 +121,16 @@ module.exports = {
             'administration/audience-management/audience-management-usage-scenarios'
           ]
         },
-        {
-          type: 'category',
-          label: 'Workspace Management',
-          items: [
-            'administration/workspace-management/workspace-management-overview',
-            'administration/workspace-management/workspace-space-roles',
-            'administration/workspace-management/workspace-user-assignment',
-            'administration/workspace-management/workspace-usage-scenarios'
-          ]
-        },
+        // {
+        //   type: 'category',
+        //   label: 'Workspace Management',
+        //   items: [
+        //     'administration/workspace-management/workspace-management-overview',
+        //     'administration/workspace-management/workspace-space-roles',
+        //     'administration/workspace-management/workspace-user-assignment',
+        //     'administration/workspace-management/workspace-usage-scenarios'
+        //   ]
+        // },
         {
           type: 'category',
           label: 'Teams Management',
@@ -138,41 +138,41 @@ module.exports = {
             'administration/teams-management/teams-management-overview'
           ]
         },
-        {
-          type: 'category',
-          label: 'Features Enablement',
-          items: [
-            'administration/features'
-          ]
-        },
-        {
-          type: 'doc',
-          id: 'administration/settings-management',
-          label: 'Settings Management'
-        },
+        // {
+        //   type: 'category',
+        //   label: 'Features Enablement',
+        //   items: [
+        //     'administration/features'
+        //   ]
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'administration/settings-management',
+        //   label: 'Settings Management'
+        // },
         {
           type: 'doc',
           id: 'administration/branding-customization',
           label: 'Branding and Customization'
         },
-        {
-          type: 'doc',
-          id: 'administration/security-settings',
-          label: 'Security Settings'
-        },
-        {
-          type: 'category',
-          label: 'Audit Logs',
-          items: [
-            'administration/audit/compliance',
-            'administration/audit/reports',
-            'administration/audit/trails'
-          ]
-        },
-        {
-          type: 'doc',
-          id: 'administration/faqs',
-          label: 'FAQs'        }
+        // {
+        //   type: 'doc',
+        //   id: 'administration/security-settings',
+        //   label: 'Security Settings'
+        // },
+        // {
+        //   type: 'category',
+        //   label: 'Audit Logs',
+        //   items: [
+        //     'administration/audit/compliance',
+        //     'administration/audit/reports',
+        //     'administration/audit/trails'
+        //   ]
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'administration/faqs',
+        //   label: 'FAQs'        }
       ]
     }
   ],
@@ -190,7 +190,7 @@ module.exports = {
           type: 'category',
           label: 'Setting up Knowledge Management',
           items: [
-            'knowledge-management/setup/subscriptions',
+            //'knowledge-management/setup/subscriptions',
             'knowledge-management/setup/features'
           ]
         },
@@ -203,7 +203,7 @@ module.exports = {
             'knowledge-management/repositories/servicenow',
             'knowledge-management/repositories/itglue',
             'knowledge-management/repositories/web',
-            'knowledge-management/repositories/others'
+           // 'knowledge-management/repositories/others'
           ]
         },
         {
@@ -226,54 +226,54 @@ module.exports = {
           id: 'knowledge-management/scripted-answers',
           label: 'Scripted Answers'
         },
-        {
-          type: 'doc',
-          id: 'knowledge-management/organizing-knowledge',
-          label: 'Organizing Knowledge'
-        },
-        {
-          type: 'doc',
-          id: 'knowledge-management/audience-management',
-          label: 'Audience Management'
-        },
-        {
-          type: 'doc',
-          id: 'knowledge-management/knowledge-workflow',
-          label: 'Knowledge Workflow'
-        },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/organizing-knowledge',
+        //   label: 'Organizing Knowledge'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/audience-management',
+        //   label: 'Audience Management'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/knowledge-workflow',
+        //   label: 'Knowledge Workflow'
+        // },
         {
           type: 'doc',
           id: 'knowledge-management/knowledge-gaps',
           label: 'Knowledge Gaps Management'
         },
-        {
-          type: 'doc',
-          id: 'knowledge-management/testing-knowledge',
-          label: 'Testing Knowledge'
-        },
-        {
-          type: 'doc',
-          id: 'knowledge-management/analytics-reporting',
-          label: 'Analytics and Reporting'
-        },
-        {
-          type: 'category',
-          label: 'Search and Discovery',
-          items: [
-            'knowledge-management/search/ticket-based',
-            'knowledge-management/search/conversation-based'
-          ]
-        },
-        {
-          type: 'doc',
-          id: 'knowledge-management/faqs',
-          label: 'FAQs'
-        },
-        {
-          type: 'doc',
-          id: 'knowledge-management/troubleshooting',
-          label: 'Troubleshooting'
-        }
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/testing-knowledge',
+        //   label: 'Testing Knowledge'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/analytics-reporting',
+        //   label: 'Analytics and Reporting'
+        // },
+        // {
+        //   type: 'category',
+        //   label: 'Search and Discovery',
+        //   items: [
+        //     'knowledge-management/search/ticket-based',
+        //     'knowledge-management/search/conversation-based'
+        //   ]
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/faqs',
+        //   label: 'FAQs'
+        // },
+        // {
+        //   type: 'doc',
+        //   id: 'knowledge-management/troubleshooting',
+        //   label: 'Troubleshooting'
+        // }
       ]
     }
   ],
@@ -321,19 +321,19 @@ module.exports = {
             'bot-administration/settings/bot-profile'
           ]
         },
-        {
-          type: 'category',
-          label: 'Integrations',
-          items: [
-            'bot-administration/integrations/servicenow',
-            'bot-administration/integrations/jira',
-            'bot-administration/integrations/zendesk',
-            'bot-administration/integrations/manageengine',
-            'bot-administration/integrations/connectwise',
-            'bot-administration/integrations/bmc-remedy'
-          ]
-        },
-        'bot-administration/creator-studio-intro',
+        // {
+        //   type: 'category',
+        //   label: 'Integrations',
+        //   items: [
+        //     'bot-administration/integrations/servicenow',
+        //     'bot-administration/integrations/jira',
+        //     'bot-administration/integrations/zendesk',
+        //     'bot-administration/integrations/manageengine',
+        //     'bot-administration/integrations/connectwise',
+        //     'bot-administration/integrations/bmc-remedy'
+        //   ]
+        // },
+        // 'bot-administration/creator-studio-intro',
         'bot-administration/faqs'
       ]
     }
@@ -350,8 +350,8 @@ module.exports = {
           items: [
             'creator-studio/components/flow',
             'creator-studio/components/card',
-            'creator-studio/components/connectors',
-            'creator-studio/components/connections',
+            // 'creator-studio/components/connectors',
+            //'creator-studio/components/connections',
             'creator-studio/components/api',
             'creator-studio/components/action',
             'creator-studio/components/slots'
@@ -425,7 +425,7 @@ module.exports = {
         'announcements/overview',
         'announcements/botnotificationLivechAtappSetup',
         'announcements/creating',
-        'announcements/faqs',
+        //'announcements/faqs',
         'announcements/logs',
         'announcements/scheduling'
       ]
@@ -443,7 +443,7 @@ module.exports = {
           items: [
             'helpdesk/setup/teams',
             'helpdesk/setup/queues',
-            'helpdesk/setup/subscriptions-features',
+            //'helpdesk/setup/subscriptions-features',
             'helpdesk/setup/ticket-types'
           ]
         },

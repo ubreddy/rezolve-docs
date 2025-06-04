@@ -1,11 +1,11 @@
 ---
-title: 'Uploading Custom Bot in Teams and Assigning Policy to Individual or Group'
+title: 'Uploading Custom Bot'
 sidebar_position: 1
 status: 
 whatsPending: 
 ---
 
-# Uploading Custom Bot in Teams and Assigning Policy to Individual or Group
+# Uploading Custom Bot
 
 This guide provides step-by-step instructions for uploading a custom bot to Microsoft Teams and assigning access policies to individuals or groups within your organization.
 

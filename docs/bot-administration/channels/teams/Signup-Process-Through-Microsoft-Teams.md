@@ -1,13 +1,13 @@
 ---
-title: 'Signup Process Through Microsoft Teams'
+title: 'Signup'
 sidebar_position: 1
-sidebar_label: Signup Process Through Microsoft Teams
+sidebar_label: Signup
 status: 
 whatsPending: 
 ---
 
 
-# Signup Process Through Microsoft Teams
+# Signup
 
 
 

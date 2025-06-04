@@ -1,12 +1,12 @@
 ---
 title: Bot Notification and Live Chat App Setup
-sidebar_label: Teams Package Setup for Live chat and Bot
+sidebar_label: MS Teams setup
 description: Documentation for Bot Notification and Live Chat App Setup
 status: 
 whatsPending: 
 ---
 
-# Microsoft Teams Bot Notification & Live Chat App Setup
+# MS Teams setup
 
 This guide provides step-by-step instructions to set up the Rezolve.ai bot notification and live chat app in Microsoft Teams, including Azure registration, permissions, authentication, secrets, database entries, manifest configuration, and Teams app upload.
 

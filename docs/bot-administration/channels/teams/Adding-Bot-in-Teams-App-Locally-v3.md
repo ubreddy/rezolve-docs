@@ -1,14 +1,14 @@
 ---
-title: 'Adding Bot in Teams App Locally'
+title: 'Adding bot'
 id: adding-bot-in-teams-app-locally
 sidebar_position: 2
-sidebar_label: Adding Bot in Teams App Locally
+sidebar_label: Adding bot
 status: 
 whatsPending: 
 ---
 
 
-# Adding Bot in Teams App Locally
+# Adding bot
 
 Adding the Bot to Your Teams Locally
 1. Click “Apps” from the menu bar on the bottom left side
