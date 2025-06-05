@@ -506,8 +506,8 @@ module.exports = {
         'helpdesk/quick-actions',
         'helpdesk/personalization',
         'helpdesk/queue-management',
-        'helpdesk/team-collaboration',
-        'helpdesk/customer-communication',
+        //'helpdesk/team-collaboration',
+        //'helpdesk/customer-communication',
         {
           type: 'category',
           label: 'Channels',
@@ -515,12 +515,12 @@ module.exports = {
             'helpdesk/channels/bot',
             'helpdesk/channels/email',
             'helpdesk/channels/service-portal',
-            'helpdesk/channels/portal',
-            'helpdesk/channels/mobile'
+            //'helpdesk/channels/portal',
+            //'helpdesk/channels/mobile'
           ]
         },
-        'helpdesk/reporting-analytics',
-        'helpdesk/faqs'
+        //'helpdesk/reporting-analytics',
+        //'helpdesk/faqs'
       ]
     }
   ],
@@ -547,11 +547,11 @@ module.exports = {
           label: 'Charts',
           items: [
             'helpdesk-dashboard/charts/data-list',
-            'helpdesk-dashboard/charts/stats',
+            //'helpdesk-dashboard/charts/stats',
             'helpdesk-dashboard/charts/bar',
             'helpdesk-dashboard/charts/pie',
             'helpdesk-dashboard/charts/line',
-            'helpdesk-dashboard/charts/area',
+            //'helpdesk-dashboard/charts/area',
             'helpdesk-dashboard/charts/group',
             'helpdesk-dashboard/charts/summary-table',
             'helpdesk-dashboard/charts/filters'
@@ -587,8 +587,8 @@ module.exports = {
         'service-portal/self-service-options',
         'service-portal/knowledge-base-integration',
         'service-portal/external-linking',
-        'service-portal/faqs',
-        'service-portal/troubleshooting',
+        //'service-portal/faqs',
+        //'service-portal/troubleshooting',
       ]
     }
   ],
@@ -679,7 +679,7 @@ module.exports = {
           label: 'Reporting',
           items: [
             'bot-analytics/reporting/custom-reports',
-            'bot-analytics/reporting/scheduled-reports',
+            //'bot-analytics/reporting/scheduled-reports',
             'bot-analytics/reporting/exports',
           ]
         },
@@ -860,8 +860,8 @@ module.exports = {
            'service-catalog/creating-ticket-types/actions',
            'service-catalog/creating-ticket-types/email-notification-templates',
            'service-catalog/creating-ticket-types/filters',
-           'service-catalog/creating-ticket-types/quick-actions',
-           'service-catalog/creating-ticket-types/permission-matrix',
+          //  'service-catalog/creating-ticket-types/quick-actions',
+          //  'service-catalog/creating-ticket-types/permission-matrix',
            'service-catalog/creating-ticket-types/relations',
            'service-catalog/creating-ticket-types/dependency-field-mapping',
            'service-catalog/creating-ticket-types/special-fields',
