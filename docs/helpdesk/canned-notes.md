@@ -1,7 +1,7 @@
 ---
 id: canned-notes
 title: Canned Notes
-sidebar_label: Notes
+sidebar_label: Canned Notes
 description: Documentation for Canned Notes
 status: 
 whatsPending: 

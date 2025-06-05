@@ -1,8 +1,8 @@
 ---
 id: dependency-field
-title: Dependency Field
-sidebar_label: Dependency Field
-description: Documentation for Dependency Field
+title: Dependent field
+sidebar_label: Dependent field
+description: Documentation for Dependent field
 status: 
 whatsPending: 
 ---
