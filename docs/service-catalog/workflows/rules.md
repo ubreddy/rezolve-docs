@@ -9,6 +9,8 @@ whatsPending:
 
 Rules in workflows determine the conditions under which certain actions occur or transitions are available. They provide the logic that governs ticket movement through the workflow.
 
+![Rule Example](/img/Service%20Catalog/rule1.png)
+
 ## Condition Rules
 
 Condition rules determine when certain actions can be taken or transitions are available:
@@ -26,6 +28,9 @@ Action rules specify what happens automatically at certain points in the workflo
 - **Notifications**: Send emails or alerts to relevant stakeholders
 - **Queue Assignments**: Move the ticket to a different queue or team
 - **Actor Assignments**: Change the assigned agent or add watchers
+
+
+![Rule Example](/img/Service%20Catalog/rule3.png) 
 
 ## Creating and Managing Rules
 

@@ -13,9 +13,20 @@ whatsPending:
 
 Rezolve.ai's Virtual Agent is designed to meet users where they work through multiple deployment channels. Each channel provides the core capabilities of the Virtual Agent while adapting to the unique characteristics and constraints of each platform. This multi-channel approach ensures consistent support experiences while maximizing accessibility and adoption across different user preferences and work environments.
 
+
+
+![Web Channel Example 1](/img/Helpdesk/web1.png)
+
+![Web Channel Example 2](/img/Helpdesk/web2.png)
+
+![Web Channel Example 3](/img/Helpdesk/web3.png)
+
+
 ## Microsoft Teams
 
 Microsoft Teams integration brings Rezolve.ai's Virtual Agent directly into the collaborative environment where many employees spend their workday. The Teams bot appears as a chat contact and leverages adaptive cards that match the Teams visual style for a seamless experience.
+
+![Teams Bot Example](/img/Helpdesk/teamsBot.png)
 
 ### Key Features:
 
@@ -37,6 +48,8 @@ The Teams channel is particularly valuable for organizations heavily invested in
 ## Slack
 
 For organizations using Slack as their primary collaboration platform, Rezolve.ai offers a fully-featured Slack integration of the Virtual Agent. This implementation uses Slack's native Block Kit to create an experience that feels natural within the Slack environment.
+
+![Slack Bot Example](/img/Helpdesk/slack1.png)
 
 ### Key Features:
 

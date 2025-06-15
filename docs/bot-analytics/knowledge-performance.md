@@ -32,6 +32,10 @@ whatsPending:
 
 ![Knowledge Gaps](../../static/img/Bot%20Analytics/Knowledge_Gaps.jpg)
 
+![Knowledge Performance Example 1](/img/Knowledge%20Management/kg1.png)
+
+![Knowledge Performance Example 2](/img/Knowledge%20Management/kg2.png)
+
 ![Explain AI](../../static/img/Bot%20Analytics/Explain_AI.jpg)
 
 ### Performance Breakdown by Knowledge Category

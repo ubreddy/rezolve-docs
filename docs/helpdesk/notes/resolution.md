@@ -11,6 +11,9 @@ whatsPending:
 
 These are specifically added when a ticket transitions to the 'Resolved' state. Resolution notes provide a summary of the issue, actions taken, and the final resolution, ensuring clarity for both the requester and internal teams.
 
+
+![resolutionNote](/img/Helpdesk/resolutionNote.png)
+
 ### Purpose of Resolution Notes
 
 - Documenting the final solution implemented

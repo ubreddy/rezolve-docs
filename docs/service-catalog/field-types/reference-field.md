@@ -16,7 +16,9 @@ Reference fields create connections between different records or entities within
 - **Filter Criteria:** Optional restrictions on which records can be referenced
 - **Display Format:** Customization of how referenced items are displayed
 - **Default References:** Ability to preselect referenced items
+![Reference Field Example](/img/Service%20Catalog/rf1.png)
 
+![Reference Field Example](/img/Service%20Catalog/rf2.png)
 ### Use Cases
 
 - Linking related tickets
