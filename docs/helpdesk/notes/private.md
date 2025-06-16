@@ -12,6 +12,8 @@ whatsPending:
 These notes are meant for internal use and are only visible to support agents and internal teams. Private notes help agents discuss resolutions, strategies, or ticket progress without exposing the details to the requester.
 
 
+![privateNote](/img/Helpdesk/privateNote.png)
+
 ### Adding Private Notes
 
 1. Open the ticket you want to update

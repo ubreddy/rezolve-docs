@@ -13,7 +13,7 @@ Intents in the Service Catalog provide a way to categorize and organize ticket t
 - **Problem**: For issue reporting and troubleshooting
 - **Change**: For change management processes
 - **Incident**: For reporting service disruptions or unexpected behaviors
-
+![Intent Example](/img/Service%20Catalog/intent1.png)
 ## Key Features
 
 ### Intent Creation and Management
@@ -42,6 +42,7 @@ Intents in the Service Catalog provide a way to categorize and organize ticket t
 - Providing department-specific template collections
 - Creating role-based service catalogs (e.g., manager-only services)
 - Organizing templates based on ITIL processes
+![Intent Example](/img/Service%20Catalog/intent2.png)
 
 ## Best Practices
 - Align intent categories with organizational service management processes

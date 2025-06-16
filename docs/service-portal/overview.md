@@ -24,6 +24,8 @@ The Service Portal module enables administrators to customize the service portal
 - **Knowledge Base Integration**: Provide instant access to helpful articles and resources
 - **Feedback Collection**: Gather user insights to improve service quality
 
+![Portal Example](/img/Service%20Catalog/portal1.png)
+
 ## Benefits
 
 - Improved user satisfaction through intuitive design

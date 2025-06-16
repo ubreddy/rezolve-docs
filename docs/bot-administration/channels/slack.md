@@ -7,14 +7,11 @@ status:
 whatsPending: 
 ---
 
----
-title: 'Slack Integration Setup Guide'
-sidebar_position: 1
----
-
 # Slack Integration Setup Guide
 
 This guide provides step-by-step instructions for setting up Rezolve.ai with Slack, including the registration process and integration with your Slack workspace or organization.
+
+![Slack Integration Setup Guide](/img/Bot%20Analytics/slack1.png)
 
 ## Overview
 

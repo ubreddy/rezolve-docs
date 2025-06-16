@@ -7,240 +7,206 @@ status:
 whatsPending: 
 ---
 
-# Audience Management in Knowledge Base
+Audience Management in Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation provides a powerful way to define and organize groups of users based on various criteria. These audience definitions can then be used throughout the platform to control access to knowledge, template offers, and other resources, creating a personalized experience for different user segments.
 
-This guide explains how to effectively target your knowledge content to specific audiences, ensuring users see the most relevant information based on their role, department, permissions, and other attributes.
+---
 
-## Understanding Audience Management
+## Accessing Audience Management
+To manage audiences:
 
-Audience management allows you to:
+- Navigate to the Admin App
+- Select "User Management" from the navigation
+- Go to the "Audiences" section
 
-- Show different content to different user groups
-- Personalize the knowledge experience
-- Control access to sensitive information
-- Deliver role-specific knowledge
-- Reduce information overload
+![Audience Management Example 1](/img/Knowledge%20Management/am1.png)
 
-## Audience Types and Segmentation
 
-### Built-in Audience Segments
+## Understanding Audiences
+An audience in Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation is a defined group of users who share common characteristics or attributes. Audiences are used to control visibility and access to different parts of the system, allowing for targeted content and functionality.
 
-The Knowledge Management system includes several pre-configured audience types:
+## Creating a New Audience
+To create a new audience:
 
-- **Role-based**: Admin, Manager, End User, etc.
-- **Department**: IT, HR, Finance, Marketing, etc.
-- **Experience level**: Beginner, Intermediate, Advanced
-- **Location**: Office locations, regions, countries
-- **Language**: Content language preferences
+- In the Audiences section, click "Create Audience" or "Add New"
+- Enter a descriptive name for the audience
+- Provide a detailed description explaining the purpose of this audience
+- Configure audience criteria
+- Save your audience
 
-### Custom Audience Attributes
 
-Create custom audience attributes based on your organization's needs:
+![Audience Management Example 2](/img/Knowledge%20Management/am2.png)
 
-1. Navigate to **Admin** > **Audience Management** > **Attributes**
-2. Click **Add Attribute**
-3. Configure the attribute:
-   - Name and description
-   - Data type (text, number, boolean, select)
-   - Default value
-   - Source (manual, imported, or synchronized)
-4. Save the attribute
 
-### Audience Groups
+## Audience Criteria Types
+You can define audiences based on various criteria:
 
-Create logical groupings of users with similar needs:
+### Organization-Wide
+Include all users in the organization:
+- Select "Whole Organization" as the criteria type
+- This creates an audience that includes everyone in your tenant
 
-1. Go to **Admin** > **Audience Management** > **Groups**
-2. Click **Create Group**
-3. Define group criteria using one or more attributes:
-   - Simple conditions (Department = "Marketing")
-   - Complex conditions with AND/OR operators
-   - Dynamic rules based on user behavior
-4. Name and describe the audience group
-5. Save the group configuration
 
-## Setting Up User Profiles
+![Audience Management Example 3](/img/Knowledge%20Management/am3.png)
 
-### User Attribute Sources
 
-Configure where user attributes come from:
+### Group-Based
+Include users from specific groups:
+- Select "Group" as the criteria type
+- Choose condition operator (IS, IN, NOT IN)
+- Select one or more groups from your tenant
+- Groups are created and managed in the Admin App > Groups section.
 
-- **Authentication provider**: Import from SSO or identity provider
-- **HR systems**: Sync with employee databases
-- **CRM**: Pull customer data for external knowledge bases
-- **Manual assignment**: Set attributes directly in the system
-- **User self-selection**: Allow users to set certain attributes
+![Audience Management Example 4](/img/Knowledge%20Management/am4.png)
 
-### User Profile Management
 
-1. Navigate to **Admin** > **Users**
-2. Select a user to edit their profile
-3. Assign audience attributes:
-   - Role and department
-   - Skill level
-   - Product access
-   - Custom attributes
-4. Save the profile
+### User-Based
+Include specific individual users:
+- Select "User" as the criteria type
+- Choose condition operator (IS, IN, NOT IN)
+- Select individual users from your tenant
+- This allows for highly targeted audiences for specific individuals.
 
-### Bulk User Management
+![Audience Management Example 5](/img/Knowledge%20Management/am5.png)
 
-For managing attributes across many users:
+### Role-Based
+Include users with specific roles:
+- Select "Role" as the criteria type
+- Choose condition operator (IS, IN, NOT IN)
+- Select one or more roles from your tenant
+- This creates audiences based on user responsibilities or permissions.
 
-1. Go to **Admin** > **Users** > **Bulk Operations**
-2. Upload a CSV file with user IDs and attributes
-3. Map CSV columns to system attributes
-4. Preview changes before applying
-5. Process the update
+![Audience Management Example 6](/img/Knowledge%20Management/am6.png)
 
-## Content Targeting
+### Attribute-Based
+Include users who share specific attributes:
+- Select "User Attributes" as the criteria type
+- Select an attribute (e.g., Location, Department, Job Title)
+- Choose condition operator (IS, IN, NOT IN)
+- Specify the attribute value(s)
+- This allows for creating dynamic audiences based on user properties.
 
-### Article-Level Targeting
+![Audience Management Example 7](/img/Knowledge%20Management/am7.png)
 
-Target individual knowledge articles:
+## Creating Complex Audience Definitions
+You can create sophisticated audience definitions by combining multiple criteria:
+
+- Configure your first criterion
+- Click "Add Criterion" to add another condition
+- Choose how criteria are combined (AND requires all conditions to be true, OR requires any condition to be true)
+- Add as many criteria as needed
+- Save your audience configuration
+
+![Audience Management Example 8](/img/Knowledge%20Management/am8.png)
+
+## Example: Creating Audiences for Different Scenarios
+
+### IT Support Team in North America
+- **Name:** IT Support NA
+- **Description:** IT support personnel based in North America
+- **Criteria:**
+  - Department IS "IT Support" AND
+  - Location IN ["USA", "Canada"]
 
-1. Edit an article
-2. Go to the **Audience** tab
-3. Set visibility rules:
-   - Visible to all users (default)
-   - Visible to specific audience groups
-   - Hidden from specific audience groups
-   - Complex visibility rules with multiple conditions
-4. Save the audience settings
+### VIP Customers
+- **Name:** VIP Customers
+- **Description:** High-priority external customers
+- **Criteria:**
+  - Role IS "External User" AND
+  - Customer Tier IS "Premium"
+
+### Department Managers
+- **Name:** All Managers
+- **Description:** All users with management responsibilities
+- **Criteria:**
+  - Job Title CONTAINS "Manager" OR
+  - Job Title CONTAINS "Director" OR
+  - Role IS "Department Head"
+
+### Remote Employees
+- **Name:** Remote Workforce
+- **Description:** Employees who work remotely
+- **Criteria:**
+  - Employment Type IS "Remote" OR
+  - Office Location IS "Home Office"
+
+![Audience Management Example 9](/img/Knowledge%20Management/am9.png)
+
+## Applying Audiences
+Once created, audiences can be used throughout Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation to control access and visibility:
+
+### Knowledge Management
+Restrict or grant access to knowledge articles:
+- In Knowledge Management, select an article or document
+- Navigate to access controls or permissions
+- Apply audience restrictions using Whitelist or Blacklist approach:
+  - **Whitelist:** Only the specified audience can access the content
+  - **Blacklist:** Everyone except the specified audience can access the content
+
+![Audience Management Example 10](/img/Knowledge%20Management/am10.png)
+
+### Template Offers
+Control which offers are visible to different users:
+- In Service Catalog, navigate to a template
+- Go to the Offers section
+- Select an offer
+- Apply audience restrictions
+- Only members of the specified audience will see this offer in the catalog
+
+![Audience Management Example 11](/img/Knowledge%20Management/am11.png)
+
+### Bot Knowledge
+Control which information the bot can provide to different users:
+- In Bot Management, configure knowledge source access
+- Apply audience restrictions to specific knowledge bases
+- The bot will only provide information from these sources to matching users
+
+## Managing Audiences
+
+### Editing Audiences
+To modify an existing audience:
+- In the Audiences section, find the audience you want to edit
+- Click the edit icon
+- Make your changes to the name, description, or criteria
+- Save your changes
+
+### Deleting Audiences
+To remove an audience:
+- In the Audiences section, find the audience you want to delete
+- Click the delete icon
+- Confirm the deletion
+- **Note:** This will remove the audience from any places it's being used
+
+### Reviewing Audience Usage
+To see where an audience is being used:
+- In the Audiences section, find the audience you're interested in
+- Look for the usage or references option
+- This will show all places where this audience is applied
+
+## Best Practices for Audience Management
+- **Use Clear, Descriptive Names:** Name audiences in a way that clearly indicates their membership
+- **Document Purpose:** Include detailed descriptions explaining who should be in the audience and why
+- **Start Broad, Then Refine:** Begin with broader audiences and create more specific ones as needed
+- **Review Regularly:** Periodically review audience definitions to ensure they remain accurate
+- **Consider Maintenance:** Design audiences in ways that minimize maintenance as users change roles
+- **Use Dynamic Criteria:** When possible, use attribute-based criteria that update automatically
+- **Test Access Controls:** Verify audience-based restrictions work as expected
+
+## Benefits of Effective Audience Management
+- **Personalized Experience:** Deliver relevant content and offers to different user segments
+- **Security and Compliance:** Control access to sensitive information
+- **Simplified Administration:** Manage access for groups rather than individuals
+- **Dynamic Targeting:** Automatically update access as user properties change
+- **Consistent Access Control:** Apply the same audience definitions across different systems
+
+## Conclusion
+
+The Audience Management feature in Rezolve.ai | Next-Gen ITSM & HR Support | Agentic AI-Powered Automation provides a flexible and powerful way to define user segments and control access throughout the platform. By creating well-designed audiences, administrators can ensure that users see only the content and functionality relevant to their roles, locations, or other attributes.
+
+This capability is particularly valuable for organizations with diverse user groups, complex organizational structures, or strict access control requirements. When properly implemented, audience management creates a more personalized, secure, and efficient experience for all users.
+
+By combining various criteria types and applying audiences consistently across knowledge, templates, and other resources, organizations can create a truly tailored experience that reflects their unique organizational structure and access control needs.
 
-### Section-Level Targeting
 
-Target specific sections within an article:
-
-1. In the article editor, select a section
-2. Click the **Audience** button in the toolbar
-3. Set audience rules for that section
-4. Sections will be visible or hidden based on the user's profile
-
-### Folder and Category Targeting
-
-Apply audience rules to entire folders or categories:
-
-1. Navigate to folder or category settings
-2. Select **Audience Rules**
-3. Configure visibility settings
-4. Choose whether child items inherit these rules
-
-### Search Result Targeting
-
-Personalize search results based on audience:
-
-1. Go to **Admin** > **Search** > **Relevance**
-2. Configure audience-based boosting rules
-3. Set up audience-specific promoted results
-4. Enable or disable audience filtering for search
-
-## Dynamic Content Adaptation
-
-### Content Variations
-
-Create different versions of content for different audiences:
-
-1. Edit an article
-2. Select **Add Variation**
-3. Choose the audience attribute to vary by
-4. Create different content versions for each value
-5. Preview how content appears to different audiences
-
-### Smart Content Blocks
-
-Insert dynamic content blocks that adapt to the viewer:
-
-1. In the article editor, add a **Smart Block**
-2. Configure display conditions based on audience attributes
-3. Create alternative content for each condition
-4. Add a default version for users who don't match any condition
-
-### Personalized Examples and Screenshots
-
-Show relevant examples based on user context:
-
-1. Add an **Example Block** to your article
-2. Upload different screenshots or examples for different audiences
-3. Set audience rules for each example
-4. Users will see only the examples relevant to their context
-
-## Testing and Previewing
-
-### Audience Simulator
-
-Test how content appears to different audiences:
-
-1. While editing or viewing content, click **Audience Preview**
-2. Select an audience profile to simulate
-3. View the content as that audience would see it
-4. Switch between different audiences to compare experiences
-
-### Audience Coverage Analysis
-
-Analyze audience coverage across your knowledge base:
-
-1. Go to **Analytics** > **Audience Coverage**
-2. View a breakdown of content by audience
-3. Identify gaps in content for specific audiences
-4. Generate reports on audience coverage
-
-## Measuring Effectiveness
-
-### Audience-Specific Analytics
-
-Track how different audiences interact with content:
-
-1. Navigate to **Analytics** > **Content Performance**
-2. Filter by audience attributes
-3. Compare metrics across different audiences:
-   - View counts and time spent
-   - Search success rates
-   - Feedback and ratings
-   - Self-service resolution rates
-
-### Audience Journey Mapping
-
-Analyze how different audiences navigate your knowledge base:
-
-1. Go to **Analytics** > **User Journeys**
-2. Select an audience segment
-3. View common navigation paths
-4. Identify content discovery patterns
-5. Optimize navigation based on audience behavior
-
-## Best Practices
-
-### Content Strategy
-
-- **Start with core audiences**: Focus on the most important user groups first
-- **Reuse where possible**: Create variations only when necessary
-- **Consider maintenance**: More variations mean more content to maintain
-- **Document audience definitions**: Ensure everyone understands who the audiences are
-
-### Technical Implementation
-
-- **Use inheritance**: Apply audience rules at higher levels where appropriate
-- **Minimize rule complexity**: Simple rules are easier to maintain
-- **Test thoroughly**: Verify that rules work as expected for all audiences
-- **Monitor performance**: Check that audience filtering doesn't impact system speed
-
-### Governance
-
-- **Establish clear ownership**: Define who manages audience rules
-- **Regular audits**: Review audience rules periodically
-- **Change management**: Document changes to audience definitions
-- **User feedback**: Collect input on audience targeting effectiveness
-
-## Troubleshooting
-
-### Common Issues
-
-| Issue | Solution |
-|-------|----------|
-| Users seeing wrong content | Verify user profile attributes and rule logic |
-| Too much content hidden | Review rule complexity and potential conflicts |
-| Performance issues | Optimize rule evaluation and caching |
-| Maintenance challenges | Consolidate similar audience rules |
 
 ## Next Steps
 
