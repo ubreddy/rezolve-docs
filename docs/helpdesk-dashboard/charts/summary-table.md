@@ -9,72 +9,91 @@ whatsPending:
 
 # Summary Table
 
-The Summary Table provides a structured overview of ticket data, helping users analyze trends and prioritize tasks effectively. This powerful visualization tool organizes ticket information in a tabular format, making it easy to identify patterns and track performance metrics.
+Summary Tables help you create powerful data snapshots by aggregating and grouping information in meaningful ways. Whether you're tracking incidents by priorities, analyzing tickets by statuses, or summarizing any dataset, Summary Tables can transform raw data into actionable insights.
 
 ![Summary Table](/img/Helpdesk/Summary_Table.jpg)
 
-## Key Columns in the Summary Table
+## What You Can Do
+- Aggregate data using functions like **Count, Sum, Average, Min, Max, and Percentage**
+- Group information by time periods, categories, or any other field
+- Create custom aliases for cleaner, more readable column names
+- Build multi-dimensional summaries with multiple aggregation and grouping criteria
+## Key Components
 
-The table consists of the following fields:
+### 1) Aggregated Fields
+These are the metrics you want to calculate from your data.
 
-- **Created At (by days)**: Groups tickets by the day they were created
-- **Ticket ID**: Unique identifier for each ticket
-- **Priority (H/M/L)**: Represents ticket priority (High, Medium, Low)
-- **Status**: Indicates whether the ticket is in To Do, In Progress, or Done status
+How it works:
+- **Select a Field** - Choose what data you want to aggregate (e.g., Priority, Status, Category)
+- **Choose an Aggregation Function** - Pick how to calculate your metric:
+  - **Count** - How many records match
+  - **Sum** - Add up numerical values
+  - **Average** - Calculate the mean
+  - **Percentage** - Calculate the percentage corresponding to the entire data set
+  - **Min/Max** - Find lowest or highest values
+- **Add an Alias** - Give your column a friendly name (e.g., "Total Tickets" instead of "Priority_Count")
 
-## Aggregated Fields
+Example: Count all incidents by priority level to see "High Priority Issues: 15"
 
-The Aggregated Fields section shows how the ticket data is summarized:
+### 2) Group By Fields
+These determine how your data gets organized and broken down.
 
-### Priority Aggregation
-- The table counts the number of tickets by priority (High, Medium, Low)
-- The alias for this field is Priority(H/M/L)
+How it works:
+- **Select a Field** - Choose how to group your data (e.g., Created Date, Status, Department)
+- **Choose a Field Modifier** - For dates, pick the grouping level:
+  - **Day** - Group by individual days
+  - **Week** - Group by weeks
+  - **Month** - Group by months
+- **Add an Alias** - Create a clear column header
 
-### Status Aggregation
-- Tickets are categorized based on their status: To Do, In Progress, and Done
-- The alias for this field is S (T/I/D) (standing for To Do / In Progress / Done)
+Example: Group incidents by "Created At (Day)" to see daily breakdowns
 
-## Grouping & Sorting
+## Building Your Summary Table
 
-- The table is grouped by Created At (formatted by days) and Ticket ID
-- Sorting options allow for arranging data by different fields if needed
-- Users can adjust grouping to focus on specific time periods or ticket attributes
+Step 1: Add Aggregated Fields
+- Click "Add new" in the Aggregated Fields section
+- Select the field you want to measure
+- Choose your aggregation function
+- Optionally enter an alias name
+- Repeat for additional metrics
 
-## Customization & Filters
+Step 2: Add Group By Fields
+- Click "Add new" in the Group By Fields section
+- Select how you want to organize your data
+- For date fields, choose the appropriate time grouping
+- Optionally add a descriptive alias
+- Add more grouping levels as needed
 
-- Users can add more fields to aggregate and display additional insights
-- Filters can be applied based on specific field conditions, allowing for a more refined dataset
-- Column visibility can be adjusted to focus on the most relevant information
+Step 3: Configure Display Options
+- **Show Before Aggregate Fields** - Toggle to control column ordering
+- **Sort Fields** - Add sorting rules to organize your results
 
 ![Summary Table Creation](/img/Helpdesk/Summary_Table_Creation.jpg)
 
-## Usage & Benefits
 
-### Performance Tracking
-- Monitor ticket volume trends over time
-- Track resolution rates and identify bottlenecks
-- Measure team performance against service level targets
-
-### Workload Management
-- Identify high-priority tickets requiring immediate attention
-- Balance workload distribution across team members
-- Plan resource allocation based on ticket volume patterns
-
-### Reporting & Analysis
-- Generate structured reports for stakeholders
-- Analyze historical data to identify recurring issues
-- Support data-driven decision making for process improvements
-
-## Creating and Configuring Summary Tables
-
-1. **Select Data Source**: Choose the ticket data source to populate the table
-2. **Define Columns**: Select which fields to display as columns
-3. **Set Aggregations**: Determine how data should be counted or summarized
-4. **Apply Grouping**: Group data by relevant dimensions (date, priority, status, etc.)
-5. **Add Filters**: Apply filters to focus on specific subsets of data
-6. **Format Display**: Adjust column widths, sorting, and visual formatting
 
 ## Best Practices
+
+### Choose Meaningful Aggregations
+- Use **Count** for frequency analysis ("How many tickets per day?")
+- Use **Sum** for totals ("Total revenue by region")
+- Use **Average** for performance metrics ("Average resolution time")
+
+### Group Strategically
+- Time-based grouping reveals trends and patterns
+- Category grouping shows distribution across different segments
+- Multi-level grouping creates detailed breakdowns
+
+### Use Clear Aliases
+- Replace technical field names with business-friendly terms
+- Example: "createdAt_day" → "Date Created"
+- Example: "priority_count" → "Number of Tickets"
+
+### Tips for Success
+- Start simple with one aggregation and one grouping, then add complexity
+- Preview your data regularly to ensure the summary makes sense
+- Use aliases that your stakeholders will immediately understand
+- Consider your audience when choosing time groupings (daily vs monthly vs quarterly)
 
 - **Keep It Focused**: Include only the most relevant columns to avoid information overload
 - **Consistent Grouping**: Maintain consistent grouping criteria for easier trend analysis
