@@ -865,6 +865,7 @@ module.exports = {
            'service-catalog/creating-ticket-types/relations',
            'service-catalog/creating-ticket-types/dependency-field-mapping',
            'service-catalog/creating-ticket-types/special-fields',
+           'service-catalog/creating-ticket-types/smart-summary',
          ]
        },
        'service-catalog/hierarchy-builder',
@@ -873,16 +874,16 @@ module.exports = {
        'service-catalog/mail-channel-setup',
        'service-catalog/meta-fields-management',
        'service-catalog/common-actors',
-       {
-         type: 'category',
-         label: 'Workflows',
-         items: [
-           'service-catalog/workflows/states-transitions',
-           'service-catalog/workflows/state-categories',
-           'service-catalog/workflows/rules',
-           'service-catalog/workflows/approvals',
-           'service-catalog/workflows/workflow-editor',
-         ]
+      {
+        type: 'category',
+        label: 'Workflows',
+        items: [
+          'service-catalog/workflows/states-transitions',
+          'service-catalog/workflows/state-categories',
+          'service-catalog/workflows/rules',
+          'service-catalog/workflows/approvals',
+          'service-catalog/workflows/workflow-editor',
+        ]
        },
     ]
    }
