@@ -14,3 +14,10 @@ We regularly update our platform to provide you with the best possible experienc
 ## Latest Updates
 
 Browse our recent releases below to learn about the latest enhancements to the Rezolve platform.
+
+### 2025
+
+- [June 2025 Release](/product-updates/june-2025-release)
+- [May 2025 Release](/product-updates/may-2025-release)
+- [April 2025 Release](/product-updates/april-2025-release)
+- [March 2025 Release](/product-updates/march-2025-release)

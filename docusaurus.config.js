@@ -71,7 +71,7 @@ const config = {
         // Disable git history tracking
         // disableGitFeatures: true,
         // Organize posts by year in reverse chronological order
-        blogSidebarTitle: 'Product Updates',
+        blogSidebarTitle: 'All Releases',
         blogSidebarCount: 'ALL',
         sortPosts: 'descending',
         blogTitle: 'Product Updates',
