@@ -554,7 +554,8 @@ module.exports = {
             //'helpdesk-dashboard/charts/area',
             'helpdesk-dashboard/charts/group',
             'helpdesk-dashboard/charts/summary-table',
-            'helpdesk-dashboard/charts/filters'
+            'helpdesk-dashboard/charts/filters',
+            'helpdesk-dashboard/charts/log-time'
           ]
         },
         'helpdesk-dashboard/exporting',
