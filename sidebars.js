@@ -674,6 +674,7 @@ module.exports = {
         'bot-analytics/performance',
         'bot-analytics/knowledge-performance',
         'bot-analytics/conversations',
+        'bot-analytics/queries',
         'bot-analytics/user-engagement-metrics',
         {
           type: 'category',
