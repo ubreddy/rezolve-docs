@@ -56,7 +56,7 @@ This is a General Availability release that encompasses significant enhancements
 - Enhanced explainability and reporting for Delta-based queries
 - Support for multichannel experiences
 
-#### **3. Consistent Navigation Menu (DRI-7032)**
+#### **3. Consistent Navigation Menu (DRI-7032) --- This is descoped from this release ---**
 
 - **Impact:** High - User experience improvement
 
@@ -112,7 +112,7 @@ This is a General Availability release that encompasses significant enhancements
 
 **Description:** Bot Integrations to support two flags (escalation and websearch) to store in pinecone for enhanced configuration options.
 
-#### **11. Knowledge Dashboard as Landing Page (DRI-7022)**
+#### **11. Knowledge Dashboard as Landing Page (DRI-7022) --- This is descoped from this release ---**
 - **Impact:** High - User experience
 
 **Description:** Made knowledge dashboard the default landing page for improved user experience in allignment with the new metrics that we are tracking around BOt Conversations, Queries, and Knowledge Gaps.
@@ -152,7 +152,7 @@ This is a General Availability release that encompasses significant enhancements
 
 ---
 
-
+ ### This is descoped from this release
 ## Known Issues
 
 ### Issues Reported
