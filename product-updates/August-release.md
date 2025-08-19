@@ -135,7 +135,7 @@ This is a General Availability release that encompasses significant enhancements
 
 #### **15. Tickets management v2 (subscription) needs to be enabled by default for POV Tenants (DRI-7263)**
 - **Impact:** Medium - POV functionality
-**Description:** ConfigApp PD - Set Subscription for Tickets management v2 as true for POV Tenants to Enable Ticket Management.
+- **Description:** ConfigApp PD - Set Subscription for Tickets management v2 as true for POV Tenants to Enable Ticket Management.
 
 #### **16. Slack Bot Integration Fixes**
 - **PRD-2154:** Slack-specific changes
