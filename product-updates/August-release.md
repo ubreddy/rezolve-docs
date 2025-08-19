@@ -28,7 +28,7 @@ This is a General Availability release that encompasses significant enhancements
 #### **1. Bot Integration: User Fields Configuration Enhancement (DRI-3628)**
 
 - **Impact:** High - Eliminates need for custom bot flows
-**Description:** Introduced flexible configuration mechanism for user fields in bot-integrated ticket offers, now each offer may have different user fields configuration.
+- **Description:** Introduced flexible configuration mechanism for user fields in bot-integrated ticket offers, now each offer may have different user fields configuration.
 
 **Key Features:**
 - **Fields hidden from Bot UI:** Useful for backend-controlled fields that shouldn't be shown to bot users
@@ -123,15 +123,15 @@ This is a General Availability release that encompasses significant enhancements
 
 #### **12. SharePoint Ingestion API Fix (DRI-7099)**
 - **Impact:** High - Data ingestion
-**Description:** Fixed ingestion failing through API for SharePoint, ensuring reliable data import.
+- **Description:** Fixed ingestion failing through API for SharePoint, ensuring reliable data import.
 
-#### **13. Ticket 360 Template and Button Hiding (DRI-7066)**
+#### **13. Ticket 360 Template and Button Hiding (DRI-7066) --- This is descoped from this release ---**
 - **Impact:** Low - UI cleanup
-**Description:** Hide the ticket 360 template and ticket 360 button from offers list for cleaner interface. Failed - Would be tracked in DRI-7087
+- **Description:** Hide the ticket 360 template and ticket 360 button from offers list for cleaner interface. Failed - Would be tracked in DRI-7087
 
 #### **14. Data Migration (DRI-7226)**
 - **Impact:** Medium - Data integrity
-**Description:** Data from Old V2 screen migrated to V3 screen. For any clients using V2, the present data from Announcements, Review chat, conversations, queries, knowledge gaps should not be lost as the navigation menu now directs to V3 screens for several URLs.
+- **Description:** Data from Old V2 screen migrated to V3 screen. For any clients using V2, the present data from Announcements, Review chat, conversations, queries, knowledge gaps should not be lost as the navigation menu now directs to V3 screens for several URLs.
 
 #### **15. Tickets management v2 (subscription) needs to be enabled by default for POV Tenants (DRI-7263)**
 - **Impact:** Medium - POV functionality
@@ -146,9 +146,9 @@ This is a General Availability release that encompasses significant enhancements
 ### **Additional Bug Fixes**
 
 #### **17. UI and Functional Improvements**
-- **DRI-7359:** Minor UI issue fixes
-- **DRI-5798:** Only live chat request was being considered escalation, Ticket creation was not
-- **DRI-3723:** some issues with Hierarchy fields and Bot Integrations have been addressed - Failed
+- Minor UI issue fixes **DRI-7359**
+- Only live chat request was being considered escalation, Ticket creation was not **DRI-5798**
+- some issues with Hierarchy fields and Bot Integrations have been addressed - Failed **DRI-3723**
 
 ---
 
