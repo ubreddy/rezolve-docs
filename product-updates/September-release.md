@@ -5,7 +5,7 @@ authors: rezolve
 tags: [release, features]
 ---
 
-**Release Ticket:** PD-719 - P&G Dashboard 
+**Release Ticket:** Dashboard Release - PD-719
 **Scheduled Deployment:** September 6, 2025 at 10:00 AM IST
 
 # Release Document
@@ -96,7 +96,7 @@ This release introduces significant enhancements to the dashboard functionality,
 
 ### 5. Data Quality & Filtering
 
-#### DRI-6337: (P&G only) Geographic and Linguistic Filtering
+#### DRI-6337: (Client specific) Geographic and Linguistic Filtering
 - **Description:** Enhanced filtering capabilities based on region and language attributes using custom fields
 - **Key Features:**
   - Region, Language, and Market filtering from user attributes
