@@ -43,7 +43,7 @@ const config = {
       '@easyops-cn/docusaurus-search-local',
       {
         // Options for the search plugin
-        hashed: true, // Generate search-index.json file for better performance
+        hashed: true, // Generate search- .json file for better performance
         language: ['en'], // Search only English content
         indexDocs: true, // Index docs content
         indexBlog: false, // Don't index blog content (if you don't have a blog)
