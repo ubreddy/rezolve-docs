@@ -95,37 +95,37 @@ const FeatureList = [
     count: 8,
     color: colors.primary
   },
-  
-  {
-    title: 'Automation Studio',
-    icon: '⚙️',
-    description: 'Coming Soon',
-    path: '/docs/automation-studio/overview',
-    // count: 12,
-    color: colors.primary
-  },
-  {
-    title: 'IT Automation',
-    icon: '⚡',
-    description: 'Coming Soon',
-    path: '/docs/it-automation/overview',
-    // count: 8,
-    color: colors.primary
-  },
-  {
-    title: 'Desktop Automation',
-    icon: '⚡',
-   description: 'Coming Soon',
-    path: '/docs/desktop-automation/overview',
-    // count: 12,
-    color: colors.primary
-  },
+
+  // {
+  //   title: 'Automation Studio',
+  //   icon: '⚙️',
+  //   description: 'Coming Soon',
+  //   path: '/docs/automation-studio/overview',
+  //   // count: 12,
+  //   color: colors.primary
+  // },
+  // {
+  //   title: 'IT Automation',
+  //   icon: '⚡',
+  //   description: 'Coming Soon',
+  //   path: '/docs/it-automation/overview',
+  //   // count: 8,
+  //   color: colors.primary
+  // },
+  // {
+  //   title: 'Desktop Automation',
+  //   icon: '⚡',
+  //  description: 'Coming Soon',
+  //   path: '/docs/desktop-automation/overview',
+  //   // count: 12,
+  //   color: colors.primary
+  // },
   {
   title: 'Integrations',
   icon: '🔌',
-  description: 'Coming Soon',
+  description: 'Manage Prismatic integrations and configurations',
   path: '/docs/integrations/overview',
-  // count: 19,
+  count: 1,
   color: colors.primary
   },
   {
@@ -161,22 +161,22 @@ const FeatureList = [
     count: 10,
     color: colors.primary
   },
-  {
-    title: 'Aura Insights',
-    icon: '🔍',
-    description: 'Coming Soon',
-    path: '/docs/aura-insights/overview',
-    // count: 8,
-    color: colors.primary
-  },
-  {
-    title: 'Enterprise Search',
-    icon: '🔍',
-    description: 'Coming Soon',
-    path: '/docs/enterprise-search/overview',
-    // count: 9,
-    color: colors.primary
-  },
+  // {
+  //   title: 'Aura Insights',
+  //   icon: '🔍',
+  //   description: 'Coming Soon',
+  //   path: '/docs/aura-insights/overview',
+  //   // count: 8,
+  //   color: colors.primary
+  // },
+  // {
+  //   title: 'Enterprise Search',
+  //   icon: '🔍',
+  //   description: 'Coming Soon',
+  //   path: '/docs/enterprise-search/overview',
+  //   // count: 9,
+  //   color: colors.primary
+  // },
   
   
   {
