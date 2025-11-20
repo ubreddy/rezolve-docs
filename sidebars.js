@@ -756,42 +756,6 @@ module.exports = {
       label: 'Integrations',
       items: [
         'integrations/overview',
-        {
-          type: 'category',
-          label: 'Standard Integrations',
-          items: [
-            'integrations/standard-integrations/ticketing',
-            'integrations/standard-integrations/knowledge',
-            'integrations/standard-integrations/livechat',
-            'integrations/standard-integrations/desktop-automation',
-          ]
-        },
-        'integrations/app-categories',
-        'integrations/apps',
-        'integrations/app-operations',
-        'integrations/operations-mapping',
-        'integrations/third-party-integrations',
-        {
-          type: 'category',
-          label: 'Custom API Integration',
-          items: [
-            'integrations/custom-api-integration/authentication',
-            'integrations/custom-api-integration/data-mapping',
-            'integrations/custom-api-integration/scheduling',
-          ]
-        },
-        {
-          type: 'category',
-          label: 'Usage',
-          items: [
-            'integrations/usage/ticket-type-form-fields',
-            'integrations/usage/ticket-type-event-actions',
-            'integrations/usage/bot-flows',
-            'integrations/usage/automation-tools',
-          ]
-        },
-        'integrations/logs',
-        'integrations/troubleshooting',
       ]
     }
   ],
