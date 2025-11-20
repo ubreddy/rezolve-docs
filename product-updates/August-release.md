@@ -1,6 +1,7 @@
 ---
 slug: august-2025-release
 title: August Release
+date: 2025-08-13
 authors: rezolve
 tags: [release, features]
 ---

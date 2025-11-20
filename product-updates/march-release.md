@@ -1,6 +1,7 @@
 ---
 slug: march-2025-release
 title: March Release
+date: 2025-03-07
 authors: rezolve
 tags: [release, features]
 ---

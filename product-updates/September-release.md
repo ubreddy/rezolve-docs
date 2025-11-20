@@ -1,6 +1,7 @@
 ---
 slug: september-2025-release
 title: September Release
+date: 2025-09-06
 authors: rezolve
 tags: [release, features]
 ---

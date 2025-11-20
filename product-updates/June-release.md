@@ -1,6 +1,7 @@
 ---
 slug: june-2025-release
 title: June Release
+date: 2025-06-03
 authors: rezolve
 tags: [release, features]
 ---
