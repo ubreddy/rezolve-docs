@@ -8,22 +8,7 @@ tags: [release, features]
 
 **Release Date:** November 29, 2025
 
-## Executive Summary
-
-This release introduces Smart Mailbox, an AI-powered email routing capability that automatically directs incoming support requests to the appropriate service team queues, eliminating manual triage and reducing time-to-resolution. Additionally, the new Notification Wall provides a centralized hub for managing and viewing all notifications in Agent UI. The release also includes a Hierarchy Label Update Enhancement that allows admins to update hierarchy node labels even when referenced in existing tickets.
-
-**Key Highlights:**
-- AI-powered email analysis and routing
-- Automatic ticket creation and queue assignment
-- Proactive follow-up for missing information
-- Notification Wall for centralized notification management
-- User-specific and tenant-level notification settings
-- Standard and custom notification types
-- Hierarchy node label editing for referenced values
-
 <!-- truncate -->
-
-## New Features
 
 ### Smart Mailbox – AI-Powered Email Routing
 
