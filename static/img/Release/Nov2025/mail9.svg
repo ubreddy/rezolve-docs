@@ -1,0 +1,157 @@
+<svg viewBox="0 0 900 920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="processGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8FAFC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E2E8F0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="decisionGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FEF3C7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FDE68A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="successGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#D1FAE5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A7F3D0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="actionGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#DBEAFE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#BFDBFE;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="fallbackGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FEE2E2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FECACA;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="manualGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F3E8FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E9D5FF;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  
+  <!-- Subtle Full-Width Header -->
+  <rect x="0" y="0" width="900" height="45" fill="none"/>
+  <line x1="0" y1="45" x2="900" y2="45" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="450" y="29" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="500" fill="#64748B" letter-spacing="2">SMART MAILBOX FLOW</text>
+  
+  <!-- Step 1: Email Received (Rounded Rectangle - Start) -->
+  <rect x="325" y="70" width="250" height="50" rx="25" fill="#4F46E5" filter="url(#shadow)"/>
+  <text x="450" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Email Received</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="450" y1="120" x2="450" y2="145" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,155 445,145 455,145" fill="#64748B"/>
+  
+  <!-- Step 2: AI Analysis (Process Box) -->
+  <rect x="300" y="160" width="300" height="60" rx="8" fill="url(#processGrad)" stroke="#94A3B8" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155">AI Analyzes Email</text>
+  <text x="450" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">(Subject + Description)</text>
+  
+  <!-- Arrow 2 -->
+  <line x1="450" y1="220" x2="450" y2="245" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,255 445,245 455,245" fill="#64748B"/>
+  
+  <!-- Step 3: Match Against Triggers (Process Box) -->
+  <rect x="300" y="260" width="300" height="60" rx="8" fill="url(#processGrad)" stroke="#94A3B8" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#334155">Match Against Ticket Types</text>
+  <text x="450" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#64748B">&amp; Offer Triggers</text>
+  
+  <!-- Arrow 3 -->
+  <line x1="450" y1="320" x2="450" y2="345" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,355 445,345 455,345" fill="#64748B"/>
+  
+  <!-- Decision 1: Match Found? (Diamond) -->
+  <polygon points="450,360 550,415 450,470 350,415" fill="url(#decisionGrad)" stroke="#F59E0B" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">Match Found</text>
+  <text x="450" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400E">&gt; Threshold?</text>
+  
+  <!-- ========== NO PATH - Fallback Flow (Left Side) ========== -->
+  <line x1="350" y1="415" x2="200" y2="415" stroke="#64748B" stroke-width="2"/>
+  <polygon points="190,415 200,410 200,420" fill="#64748B"/>
+  <text x="275" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">NO</text>
+  
+  <!-- Fallback Ticket Type Box -->
+  <rect x="65" y="390" width="220" height="50" rx="8" fill="url(#fallbackGrad)" stroke="#EF4444" stroke-width="2" filter="url(#shadow)"/>
+  <text x="175" y="412" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991B1B">Create Ticket with</text>
+  <text x="175" y="428" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991B1B">Fallback Ticket Type</text>
+  
+  <!-- Arrow from Fallback to Manual Review -->
+  <line x1="175" y1="440" x2="175" y2="475" stroke="#64748B" stroke-width="2"/>
+  <polygon points="175,485 170,475 180,475" fill="#64748B"/>
+  
+  <!-- Manual Review Box -->
+  <rect x="65" y="490" width="220" height="60" rx="8" fill="url(#manualGrad)" stroke="#9333EA" stroke-width="2" filter="url(#shadow)"/>
+  <text x="175" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#581C87">Agent Manually Reviews</text>
+  <text x="175" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#7C3AED">&amp; Routes to Correct Queue</text>
+  
+  <!-- Arrow from Manual Review to Final -->
+  <line x1="175" y1="550" x2="175" y2="825" stroke="#64748B" stroke-width="2"/>
+  <line x1="175" y1="825" x2="325" y2="825" stroke="#64748B" stroke-width="2"/>
+  <polygon points="335,825 325,820 325,830" fill="#64748B"/>
+  
+  <!-- ========== YES PATH - Automated Flow (Center/Right) ========== -->
+  <line x1="450" y1="470" x2="450" y2="495" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,505 445,495 455,495" fill="#64748B"/>
+  <text x="470" y="490" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">YES</text>
+  
+  <!-- Step 4: Create Ticket (Action Box) -->
+  <rect x="325" y="510" width="250" height="50" rx="8" fill="url(#actionGrad)" stroke="#3B82F6" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1E40AF">Create Ticket of Matched Type</text>
+  
+  <!-- Arrow 5 -->
+  <line x1="450" y1="560" x2="450" y2="585" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,595 445,585 455,585" fill="#64748B"/>
+  
+  <!-- Decision 2: Information Complete? -->
+  <polygon points="450,600 550,655 450,710 350,655" fill="url(#decisionGrad)" stroke="#F59E0B" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="647" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400E">Required Info</text>
+  <text x="450" y="665" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#92400E">Complete?</text>
+  
+  <!-- No Path - Request Information -->
+  <line x1="550" y1="655" x2="650" y2="655" stroke="#64748B" stroke-width="2"/>
+  <polygon points="660,655 650,650 650,660" fill="#64748B"/>
+  <text x="600" y="645" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#DC2626">NO</text>
+  
+  <!-- Request Info Box -->
+  <rect x="665" y="630" width="180" height="50" rx="8" fill="#FEE2E2" stroke="#EF4444" stroke-width="2" filter="url(#shadow)"/>
+  <text x="755" y="650" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991B1B">Send AI Note to User</text>
+  <text x="755" y="667" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#991B1B">Request Missing Info</text>
+  
+  <!-- Loop back arrow from Request Info -->
+  <line x1="755" y1="680" x2="755" y2="725" stroke="#64748B" stroke-width="2" stroke-dasharray="5,3"/>
+  <line x1="755" y1="725" x2="450" y2="725" stroke="#64748B" stroke-width="2" stroke-dasharray="5,3"/>
+  <polygon points="450,725 460,720 460,730" fill="#64748B"/>
+  
+  <!-- Yes Path -->
+  <line x1="450" y1="710" x2="450" y2="770" stroke="#64748B" stroke-width="2"/>
+  <polygon points="450,780 445,770 455,770" fill="#64748B"/>
+  <text x="470" y="750" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#059669">YES</text>
+  
+  <!-- Final Step: Ready for Agent (Success Box) -->
+  <rect x="325" y="785" width="250" height="55" rx="27" fill="url(#successGrad)" stroke="#10B981" stroke-width="2" filter="url(#shadow)"/>
+  <text x="450" y="808" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#065F46">Ticket Routed to Queue</text>
+  <text x="450" y="827" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#065F46">Ready for Agent</text>
+  
+  <!-- ========== Legend ========== -->
+  <rect x="665" y="70" width="210" height="175" rx="8" fill="white" stroke="#CBD5E1" stroke-width="1" filter="url(#shadow)"/>
+  <text x="770" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#334155">Legend</text>
+  
+  <rect x="680" y="108" width="20" height="14" rx="7" fill="#4F46E5"/>
+  <text x="710" y="120" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Start/End</text>
+  
+  <rect x="680" y="130" width="20" height="14" rx="3" fill="url(#processGrad)" stroke="#94A3B8" stroke-width="1"/>
+  <text x="710" y="142" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Process</text>
+  
+  <polygon points="690,162 700,169 690,176 680,169" fill="url(#decisionGrad)" stroke="#F59E0B" stroke-width="1"/>
+  <text x="710" y="173" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Decision</text>
+  
+  <rect x="680" y="183" width="20" height="14" rx="3" fill="url(#actionGrad)" stroke="#3B82F6" stroke-width="1"/>
+  <text x="710" y="195" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Auto Action</text>
+  
+  <rect x="680" y="205" width="20" height="14" rx="3" fill="url(#manualGrad)" stroke="#9333EA" stroke-width="1"/>
+  <text x="710" y="217" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Manual Action</text>
+  
+  <rect x="680" y="227" width="20" height="14" rx="3" fill="url(#fallbackGrad)" stroke="#EF4444" stroke-width="1"/>
+  <text x="710" y="239" font-family="Arial, sans-serif" font-size="10" fill="#64748B">Fallback Path</text>
+
+</svg>
