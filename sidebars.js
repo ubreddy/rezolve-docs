@@ -838,6 +838,8 @@ module.exports = {
        'service-catalog/intents',
        'service-catalog/offers-rankings',
        'service-catalog/mail-channel-setup',
+       'service-catalog/notification-wall',
+       'service-catalog/smart-mailbox',
        'service-catalog/meta-fields-management',
        'service-catalog/common-actors',
       {
