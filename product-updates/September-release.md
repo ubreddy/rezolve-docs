@@ -6,6 +6,14 @@ authors: rezolve
 tags: [release, features]
 ---
 
+**Release Date:** September 6, 2025
+
+This release introduces significant enhancements to the dashboard functionality, focusing on improved user experience, advanced analytics capabilities, and multi-entity dashboard support. Key features include multi-entity dashboard platform, unique and repeat users tracking, advanced chart functionality with quick filters and cross-filtering, and comprehensive UX improvements.
+
+&nbsp;
+
+<!-- truncate -->
+
 **Release Ticket:** Dashboard Release - PD-719
 **Scheduled Deployment:** September 6, 2025 at 10:00 AM IST
 

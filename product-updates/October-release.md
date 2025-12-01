@@ -8,6 +8,12 @@ tags: [release, features]
 
 **Release Date:** November 8, 2025
 
+This release unifies the navigation experience across the Rezolve AI platform with consistent navigation patterns across all modules. Key highlights include unified navigation structure, consistent menu hierarchy across Virtual Agent Management, Knowledge Management, Tickets, Live Chat, and Admin modules, plus alias support for quick filters in dashboards.
+
+&nbsp;
+
+<!-- truncate -->
+
 **Release Ticket:** DRI-7032 - Consistent Navigation Menu Across All Applications
 
 ## Executive Summary
@@ -18,8 +24,6 @@ We've unified the navigation experience across the Rezolve AI platform, making i
 - Unified Navigation Structure across all pages and applications
 - Consistent menu hierarchy across all major modules
 - ASC Admin menu added to V3 tenants
-
-<!-- truncate -->
 
 ## New Features
 

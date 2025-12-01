@@ -6,6 +6,14 @@ authors: rezolve
 tags: [release, features]
 ---
 
+**Release Date:** March 7, 2025
+
+This release introduces several new features and improvements including Creator Studio script validator for Adaptive Cards, dashboard filter enhancements with IS EMPTY operators, Bot Studio UI restrictions, attachment count display badges, color coding for flow editor components and ticket types, and Actor/Queue fields enhancement with hierarchy data mapping.
+
+&nbsp;
+
+<!-- truncate -->
+
 # March 2025 Release
 
 We're excited to announce our March 2025 release with several new features and improvements!

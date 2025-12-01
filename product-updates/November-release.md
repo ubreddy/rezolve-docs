@@ -8,6 +8,10 @@ tags: [release, features]
 
 **Release Date:** November 29, 2025
 
+This release marked significant leap forward for the Rezolve AI product with Smart Mailbox and Notification Wall features delivered in product. The Notification Wall provides a centralized hub for managing and viewing all notifications in Agent UI, while Smart Mailbox automatically directs incoming support requests over emails to the appropriate service team queues.
+
+&nbsp;
+
 <!-- truncate -->
 
 ### Smart Mailbox – AI-Powered Email Routing
