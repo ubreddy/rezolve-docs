@@ -8,6 +8,10 @@ tags: [release, features]
 
 **Release Date:** November 29, 2025
 
+## Executive Summary
+
+This release marked significant leap forward for the Rezolve AI product with Smart Mailbox and Notification Wall features delivered in product. The Notification Wall provides a centralized hub for managing and viewing all notifications in Agent UI, while Smart Mailbox automatically directs incoming support requests over emails to the appropriate service team queues.
+
 <!-- truncate -->
 
 ### Smart Mailbox – AI-Powered Email Routing
@@ -74,8 +78,6 @@ Ticket admins can now create custom notifications using the Events and Actions f
 
 ### Hierarchy Label Update Enhancement
 
-**Release Date:** November 29, 2025
-
 #### Executive Summary
 
 Hierarchy Node Label Editing is now supported for referenced values. Admins can now update the label of a hierarchy node at the global level, even when that node is referenced in existing tickets. Once updated, the new label automatically reflects across all associated tickets.
@@ -104,6 +106,18 @@ This prevented admins from making necessary label corrections or updates without
 #### Impact
 
 This enhancement streamlines hierarchy management by eliminating the need to manually update or unlink tickets before making label changes. It ensures data consistency across the system while giving admins greater flexibility to maintain accurate and up-to-date hierarchy labels.
+
+---
+
+### Configurable Minor Data Grouping in Dashboard Charts
+
+Users now have control over how minor data points are displayed in dashboard charts. Previously, all values contributing less than 3% of the dataset were automatically grouped into an "Other (less than 3%)" category, which could reduce clarity.
+
+#### What's New
+
+- A new toggle option **"Club minor data (less than 3%) in 'Other'"** has been added to Pie, Donut, and Bar charts
+- The toggle is **OFF by default**, displaying all categories individually for full visibility
+- When enabled, values under 3% are dynamically grouped into "Other" to simplify chart readability
 
 ---
 
