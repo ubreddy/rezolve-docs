@@ -1,0 +1,9 @@
+{
+  "label": "Api Reference",
+  "position": 7,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "API Reference documentation for the platform."
+  }
+}

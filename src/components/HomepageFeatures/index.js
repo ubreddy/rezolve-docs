@@ -129,6 +129,14 @@ const FeatureList = [
   color: colors.primary
   },
   {
+  title: 'Api Reference',
+  icon: '📖',
+  description: 'API Reference documentation for the platform',
+  path: '/docs/api-reference/overview',
+  count: 1,
+  color: colors.primary
+  },
+  {
     title: 'Live Chat',
     icon: '💬',
     description: 'Configure and use Live Chat',
