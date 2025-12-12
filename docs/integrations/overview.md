@@ -2,6 +2,7 @@
 id: overview
 title: Integrations Overview
 sidebar_label: Overview
+displayed_sidebar: integrationSidebar
 description: Documentation for Integrations Overview and Prismatic Configuration
 status:
 whatsPending:
