@@ -87,7 +87,7 @@ curl --request GET \
   "data": {
     "queues": [
       {
-        "id": "queue-001",
+        "id": "{{queue_uuid}}",
         "name": "IT Support Queue",
         "key": "it_support",
         "description": "General IT support tickets",
@@ -101,7 +101,7 @@ curl --request GET \
         "autoAssign": true,
         "members": [
           {
-            "id": "user-001",
+            "id": "{{user_uuid}}",
             "name": "John Doe",
             "email": "john.doe@example.com",
             "role": "agent",
@@ -110,7 +110,7 @@ curl --request GET \
             "maxCapacity": 20
           },
           {
-            "id": "user-002",
+            "id": "{{user_uuid}}",
             "name": "Jane Smith",
             "email": "jane.smith@example.com",
             "role": "agent",
@@ -119,7 +119,7 @@ curl --request GET \
             "maxCapacity": 20
           },
           {
-            "id": "user-003",
+            "id": "{{user_uuid}}",
             "name": "Mike Johnson",
             "email": "mike.johnson@example.com",
             "role": "supervisor",
@@ -157,7 +157,7 @@ curl --request GET \
         "updatedAt": "2025-07-10T14:22:00.000Z"
       },
       {
-        "id": "queue-002",
+        "id": "{{queue_uuid}}",
         "name": "HR Helpdesk",
         "key": "hr_helpdesk",
         "description": "Human resources related requests",
@@ -171,7 +171,7 @@ curl --request GET \
         "autoAssign": true,
         "members": [
           {
-            "id": "user-004",
+            "id": "{{user_uuid}}",
             "name": "Sarah Wilson",
             "email": "sarah.wilson@example.com",
             "role": "agent",
@@ -180,7 +180,7 @@ curl --request GET \
             "maxCapacity": 25
           },
           {
-            "id": "user-005",
+            "id": "{{user_uuid}}",
             "name": "Tom Brown",
             "email": "tom.brown@example.com",
             "role": "agent",
@@ -218,7 +218,7 @@ curl --request GET \
         "updatedAt": "2025-07-09T11:45:00.000Z"
       },
       {
-        "id": "queue-003",
+        "id": "{{queue_uuid}}",
         "name": "VIP Support",
         "key": "vip_support",
         "description": "Priority support for VIP customers and executives",
@@ -232,7 +232,7 @@ curl --request GET \
         "autoAssign": false,
         "members": [
           {
-            "id": "user-006",
+            "id": "{{user_uuid}}",
             "name": "Senior Agent",
             "email": "senior.agent@example.com",
             "role": "senior_agent",
@@ -267,7 +267,7 @@ curl --request GET \
         "updatedAt": "2025-07-10T09:30:00.000Z"
       },
       {
-        "id": "queue-004",
+        "id": "{{queue_uuid}}",
         "name": "Unassigned",
         "key": "unassigned",
         "description": "Tickets awaiting triage and assignment",
