@@ -90,7 +90,7 @@ curl --request GET \
     "queueName": "IT Support - Tier 1",
     "users": [
       {
-        "id": "1876278a-3634-4833-b73e-1536d806e117",
+        "id": "{{user_uuid}}",
         "userId": 19528,
         "username": "deepak.purohit@rezolve.ai",
         "email": "deepak.purohit@rezolve.ai",
@@ -115,12 +115,12 @@ curl --request GET \
         },
         "skills": [
           {
-            "id": "skill-001",
+            "id": "{{skill_uuid}}",
             "name": "Network Troubleshooting",
             "level": "expert"
           },
           {
-            "id": "skill-002",
+            "id": "{{skill_uuid}}",
             "name": "VPN Support",
             "level": "intermediate"
           }
@@ -138,7 +138,7 @@ curl --request GET \
         "joinedQueue": "2024-01-15T10:00:00.000Z"
       },
       {
-        "id": "2987389b-4745-5944-c84f-2647e917f228",
+        "id": "{{user_uuid}}",
         "userId": 19529,
         "username": "jane.smith@rezolve.ai",
         "email": "jane.smith@rezolve.ai",
@@ -163,17 +163,17 @@ curl --request GET \
         },
         "skills": [
           {
-            "id": "skill-001",
+            "id": "{{skill_uuid}}",
             "name": "Network Troubleshooting",
             "level": "expert"
           },
           {
-            "id": "skill-003",
+            "id": "{{skill_uuid}}",
             "name": "Hardware Support",
             "level": "expert"
           },
           {
-            "id": "skill-004",
+            "id": "{{skill_uuid}}",
             "name": "Software Installation",
             "level": "intermediate"
           }
@@ -191,7 +191,7 @@ curl --request GET \
         "joinedQueue": "2023-06-01T09:00:00.000Z"
       },
       {
-        "id": "3098490c-5856-6055-d95g-3758f028g339",
+        "id": "{{user_uuid}}",
         "userId": 19530,
         "username": "bob.wilson@rezolve.ai",
         "email": "bob.wilson@rezolve.ai",
@@ -216,12 +216,12 @@ curl --request GET \
         },
         "skills": [
           {
-            "id": "skill-002",
+            "id": "{{skill_uuid}}",
             "name": "VPN Support",
             "level": "expert"
           },
           {
-            "id": "skill-005",
+            "id": "{{skill_uuid}}",
             "name": "Email Support",
             "level": "intermediate"
           }

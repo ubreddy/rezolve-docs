@@ -102,7 +102,7 @@ None.
     "op": "AND",
     "operand": [
       {
-        "id": "bc6f4312-d421-4ee7-89c4-0b7e3af7e22f",
+        "id": "{{filter_uuid}}",
         "op": "GE",
         "column": "createdAt",
         "operand": "2025-07-08T18:30:00.000Z"
@@ -136,7 +136,7 @@ curl --request POST \
       "op": "AND",
       "operand": [
         {
-          "id": "bc6f4312-d421-4ee7-89c4-0b7e3af7e22f",
+          "id": "{{filter_uuid}}",
           "op": "GE",
           "column": "createdAt",
           "operand": "2025-07-08T18:30:00.000Z"
@@ -159,7 +159,7 @@ curl --request POST \
   "data": {
     "tickets": [
       {
-        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "id": "{{ticket_uuid}}",
         "ticketNumber": "TKT-2025-001234",
         "subject": "Unable to access VPN",
         "description": "User is experiencing connectivity issues with the corporate VPN.",
@@ -168,12 +168,12 @@ curl --request POST \
         "category": "Network",
         "subcategory": "VPN",
         "assignee": {
-          "id": "1876278a-3634-4833-b73e-1536d806e117",
+          "id": "{{user_uuid}}",
           "name": "Deepak Purohit",
           "email": "deepak.purohit@example.com"
         },
         "requester": {
-          "id": "user-uuid-here",
+          "id": "{{user_uuid}}",
           "name": "John Doe",
           "email": "john.doe@example.com"
         },
@@ -184,7 +184,7 @@ curl --request POST \
         "slaStatus": "on_track"
       },
       {
-        "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+        "id": "{{ticket_uuid}}",
         "ticketNumber": "TKT-2025-001235",
         "subject": "Software installation request",
         "description": "Request to install Adobe Creative Suite on workstation.",
@@ -193,12 +193,12 @@ curl --request POST \
         "category": "Software",
         "subcategory": "Installation",
         "assignee": {
-          "id": "agent-uuid-here",
+          "id": "{{agent_uuid}}",
           "name": "Support Agent",
           "email": "support.agent@example.com"
         },
         "requester": {
-          "id": "user-uuid-here",
+          "id": "{{user_uuid}}",
           "name": "Jane Smith",
           "email": "jane.smith@example.com"
         },
