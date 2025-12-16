@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for retrieving tenant statistics
 status:
 whatsPending:
+draft: true
 ---
 
 # Get Tenant Statistics

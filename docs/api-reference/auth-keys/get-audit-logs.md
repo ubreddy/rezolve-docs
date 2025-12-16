@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for retrieving paginated audit logs
 status:
 whatsPending:
+draft: true
 ---
 
 # Get Audit Logs

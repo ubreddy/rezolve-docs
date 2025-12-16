@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for triggering a background job manually
 status:
 whatsPending:
+draft: true
 ---
 
 # Trigger Background Job

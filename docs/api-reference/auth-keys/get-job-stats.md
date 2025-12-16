@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for retrieving job queue statistics
 status:
 whatsPending:
+draft: true
 ---
 
 # Get Job Statistics

@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for updating tenant configuration
 status:
 whatsPending:
+draft: true
 ---
 
 # Update Tenant Configuration

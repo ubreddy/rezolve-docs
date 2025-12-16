@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for administrative health check endpoint
 status:
 whatsPending:
+draft: true
 ---
 
 # Admin Health Check
