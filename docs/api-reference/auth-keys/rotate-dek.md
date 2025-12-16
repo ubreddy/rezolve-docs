@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for triggering DEK (Data Encryption Key) rotation for a tenant
 status:
 whatsPending:
+draft: true
 ---
 
 # Rotate DEK

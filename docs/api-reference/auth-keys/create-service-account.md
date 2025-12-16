@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for creating a service account
 status:
 whatsPending:
+draft: true
 ---
 
 # Create Service Account

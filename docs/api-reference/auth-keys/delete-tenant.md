@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for deleting a tenant
 status:
 whatsPending:
+draft: true
 ---
 
 # Delete Tenant

@@ -7,6 +7,7 @@ displayed_sidebar: integrationSidebar
 description: API documentation for retrieving tenant details by ID
 status:
 whatsPending:
+draft: true
 ---
 
 # Get Tenant Details
