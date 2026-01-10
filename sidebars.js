@@ -19,11 +19,6 @@ module.exports = {
           label: 'Registration'
         },
         {type: 'doc', id: 'getting-started/manage-users-audience', label: 'Manage Users and Audience'},
-        // {
-        //   type: 'doc',
-        //   id: 'getting-started/subscriptions',
-        //   label: 'Subscriptions'
-        // },
         {
           type: 'category',
           label: 'Configurations',
@@ -32,7 +27,6 @@ module.exports = {
             'getting-started/configure-bot-channels',
             'getting-started/configure-catalog',
             'getting-started/configure-live-chat',
-            //'getting-started/integrations'
           ]
         },
         {
@@ -45,26 +39,6 @@ module.exports = {
           id: 'getting-started/knowledge-ingest',
           label: 'Ingest Knowledge'
         },
-        // { type: 'category', label: 'Test', items: [
-        //   'getting-started/try-helpdesk',
-        //   'getting-started/check-live-chat',
-        //   'getting-started/check-search',
-        //   'getting-started/try-insights',
-        //   'getting-started/use-the-bot',
-        //   'getting-started/check-gaps'
-        // ]},
-        // {
-        //   type: 'category',
-        //   label: 'Check Metrics',
-        //   items: [
-        //     'getting-started/check-metrics',
-        //     'getting-started/bot-efficiency',
-        //     'getting-started/agent-efficiency',
-        //     'getting-started/live-chat-efficiency'
-        //   ]
-        // },
-        
-        
       ]
     }
   ],
@@ -78,11 +52,6 @@ module.exports = {
           id: 'administration/introduction',
           label: 'Introduction'
         },
-        // {
-        //   type: 'doc',
-        //   id: 'administration/subscriptions-mgmt',
-        //   label: 'Subscriptions Management'
-        // },
         {
           type: 'category',
           label: 'Role-Based Access Control',
@@ -90,7 +59,6 @@ module.exports = {
             'administration/rbac/role-based-access-control',
             'administration/rbac/roles',
             'administration/rbac/roles-permissions',
-            
           ]
         },
         {
@@ -109,7 +77,6 @@ module.exports = {
           items: [
             'administration/groups/groups-management',
             'administration/groups/sync-groups',
-            
           ]
         },
         {
@@ -121,16 +88,6 @@ module.exports = {
             'administration/audience-management/audience-management-usage-scenarios'
           ]
         },
-        // {
-        //   type: 'category',
-        //   label: 'Workspace Management',
-        //   items: [
-        //     'administration/workspace-management/workspace-management-overview',
-        //     'administration/workspace-management/workspace-space-roles',
-        //     'administration/workspace-management/workspace-user-assignment',
-        //     'administration/workspace-management/workspace-usage-scenarios'
-        //   ]
-        // },
         {
           type: 'category',
           label: 'Teams Management',
@@ -138,41 +95,11 @@ module.exports = {
             'administration/teams-management/teams-management-overview'
           ]
         },
-        // {
-        //   type: 'category',
-        //   label: 'Features Enablement',
-        //   items: [
-        //     'administration/features'
-        //   ]
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'administration/settings-management',
-        //   label: 'Settings Management'
-        // },
         {
           type: 'doc',
           id: 'administration/branding-customization',
           label: 'Branding and Customization'
         },
-        // {
-        //   type: 'doc',
-        //   id: 'administration/security-settings',
-        //   label: 'Security Settings'
-        // },
-        // {
-        //   type: 'category',
-        //   label: 'Audit Logs',
-        //   items: [
-        //     'administration/audit/compliance',
-        //     'administration/audit/reports',
-        //     'administration/audit/trails'
-        //   ]
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'administration/faqs',
-        //   label: 'FAQs'        }
       ]
     }
   ],
@@ -190,7 +117,6 @@ module.exports = {
           type: 'category',
           label: 'Setting up Knowledge Management',
           items: [
-            //'knowledge-management/setup/subscriptions',
             'knowledge-management/setup/features'
           ]
         },
@@ -203,7 +129,6 @@ module.exports = {
             'knowledge-management/repositories/servicenow',
             'knowledge-management/repositories/itglue',
             'knowledge-management/repositories/web',
-           // 'knowledge-management/repositories/others'
           ]
         },
         {
@@ -226,54 +151,11 @@ module.exports = {
           id: 'knowledge-management/scripted-answers',
           label: 'Scripted Answers'
         },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/organizing-knowledge',
-        //   label: 'Organizing Knowledge'
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/audience-management',
-        //   label: 'Audience Management'
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/knowledge-workflow',
-        //   label: 'Knowledge Workflow'
-        // },
         {
           type: 'doc',
           id: 'knowledge-management/knowledge-gaps',
           label: 'Knowledge Gaps Management'
         },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/testing-knowledge',
-        //   label: 'Testing Knowledge'
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/analytics-reporting',
-        //   label: 'Analytics and Reporting'
-        // },
-        // {
-        //   type: 'category',
-        //   label: 'Search and Discovery',
-        //   items: [
-        //     'knowledge-management/search/ticket-based',
-        //     'knowledge-management/search/conversation-based'
-        //   ]
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/faqs',
-        //   label: 'FAQs'
-        // },
-        // {
-        //   type: 'doc',
-        //   id: 'knowledge-management/troubleshooting',
-        //   label: 'Troubleshooting'
-        // }
       ]
     }
   ],
@@ -293,12 +175,8 @@ module.exports = {
               link: {
                 type: 'doc',
                 id: 'bot-administration/channels/teams/teams',
-                // title: 'Microsoft Teams',
-                // description: 'Setup and configuration for Microsoft Teams integration',
-                // slug: '/bot-administration/channels/teams',
               },
               items: [
-                // 'bot-administration/channels/teams',
                 'bot-administration/channels/teams/Signup-Process-Through-Microsoft-Teams',
                 'bot-administration/channels/teams/adding-bot-in-teams-app-locally',
                 'bot-administration/channels/teams/pinning-the-bot-in-teams-for-everyone-in-your-org',
@@ -321,19 +199,6 @@ module.exports = {
             'bot-administration/settings/bot-profile'
           ]
         },
-        // {
-        //   type: 'category',
-        //   label: 'Integrations',
-        //   items: [
-        //     'bot-administration/integrations/servicenow',
-        //     'bot-administration/integrations/jira',
-        //     'bot-administration/integrations/zendesk',
-        //     'bot-administration/integrations/manageengine',
-        //     'bot-administration/integrations/connectwise',
-        //     'bot-administration/integrations/bmc-remedy'
-        //   ]
-        // },
-        // 'bot-administration/creator-studio-intro',
         'bot-administration/faqs'
       ]
     }
@@ -350,8 +215,6 @@ module.exports = {
           items: [
             'creator-studio/components/flow',
             'creator-studio/components/card',
-            // 'creator-studio/components/connectors',
-            //'creator-studio/components/connections',
             'creator-studio/components/api',
             'creator-studio/components/action',
             'creator-studio/components/slots'
@@ -425,7 +288,6 @@ module.exports = {
         'announcements/overview',
         'announcements/botnotificationLivechAtappSetup',
         'announcements/creating',
-        //'announcements/faqs',
         'announcements/logs',
         'announcements/scheduling'
       ]
@@ -443,7 +305,6 @@ module.exports = {
           items: [
             'helpdesk/setup/teams',
             'helpdesk/setup/queues',
-            //'helpdesk/setup/subscriptions-features',
             'helpdesk/setup/ticket-types'
           ]
         },
@@ -506,8 +367,6 @@ module.exports = {
         'helpdesk/quick-actions',
         'helpdesk/personalization',
         'helpdesk/queue-management',
-        //'helpdesk/team-collaboration',
-        //'helpdesk/customer-communication',
         {
           type: 'category',
           label: 'Channels',
@@ -515,12 +374,8 @@ module.exports = {
             'helpdesk/channels/bot',
             'helpdesk/channels/email',
             'helpdesk/channels/service-portal',
-            //'helpdesk/channels/portal',
-            //'helpdesk/channels/mobile'
           ]
         },
-        //'helpdesk/reporting-analytics',
-        //'helpdesk/faqs'
       ]
     }
   ],
@@ -547,11 +402,9 @@ module.exports = {
           label: 'Charts',
           items: [
             'helpdesk-dashboard/charts/data-list',
-            //'helpdesk-dashboard/charts/stats',
             'helpdesk-dashboard/charts/bar',
             'helpdesk-dashboard/charts/pie',
             'helpdesk-dashboard/charts/line',
-            //'helpdesk-dashboard/charts/area',
             'helpdesk-dashboard/charts/group',
             'helpdesk-dashboard/charts/summary-table',
             'helpdesk-dashboard/charts/filters',
@@ -588,8 +441,6 @@ module.exports = {
         'service-portal/self-service-options',
         'service-portal/knowledge-base-integration',
         'service-portal/external-linking',
-        //'service-portal/faqs',
-        //'service-portal/troubleshooting',
       ]
     }
   ],
@@ -681,7 +532,6 @@ module.exports = {
           label: 'Reporting',
           items: [
             'bot-analytics/reporting/custom-reports',
-            //'bot-analytics/reporting/scheduled-reports',
             'bot-analytics/reporting/exports',
           ]
         },
@@ -757,225 +607,167 @@ module.exports = {
       items: [
         'integrations/overview',
       ]
-    }
-  ],
-  liveChatSidebar: [
+    },
     {
       type: 'category',
-      label: 'Live Chat',
+      label: 'Api Reference',
       items: [
-        'live-chat/getting-started',
-        { 
-          type: 'category',
-          label: 'Integrations with Other Live Chat Systems',
-          items: [
-            'live-chat/integrations/servicenow',
-          ]
-        },
-        'live-chat/teams-queues',
-        'live-chat/agent-interface',
-        'live-chat/managing-chat-sessions',
-        'live-chat/canned-responses',
-        'live-chat/time-management',
-        'live-chat/review-chats',
-        'live-chat/feedback-surveys',
-        'live-chat/chat-transfer-escalation',
-        'live-chat/chat-analytics',
-        'live-chat/faqs',
+        {
+          type: 'autogenerated',
+          dirName: 'api-reference'
+        }
       ]
     }
   ],
   serviceCatalogSidebar: [
-   {
-     type: 'category',
-     label: 'Service Catalog',
-     items: [
-       'service-catalog/overview',
-       'service-catalog/using-default-ticket-types',
-       'service-catalog/field-banks',
-       {
-         type: 'category',
-         label: 'Field Types',
-         items: [
-           'service-catalog/field-types/boolean',
-           'service-catalog/field-types/date-datetime',
-           'service-catalog/field-types/dropdown',
-           'service-catalog/field-types/number',
-           'service-catalog/field-types/reference-field',
-           'service-catalog/field-types/tags',
-           'service-catalog/field-types/text',
-           'service-catalog/field-types/rich-text',
-           'service-catalog/field-types/people-field',
-           'service-catalog/field-types/dependency-field',
-           'service-catalog/field-types/special-fields',
-           'service-catalog/field-types/media',
-         ]
-       },
-       {
-         type: 'category',
-         label: 'Creating Ticket Types',
-         items: [
-           'service-catalog/creating-ticket-types/fields',
-           'service-catalog/creating-ticket-types/layouts',
-           'service-catalog/creating-ticket-types/linking-layouts-to-views',
-           'service-catalog/creating-ticket-types/workflows',
-           'service-catalog/creating-ticket-types/actors',
-           'service-catalog/creating-ticket-types/offers',
-           'service-catalog/creating-ticket-types/metrics-slas',
-           'service-catalog/creating-ticket-types/events',
-           'service-catalog/creating-ticket-types/actions',
-           'service-catalog/creating-ticket-types/email-notification-templates',
-           'service-catalog/creating-ticket-types/filters',
-          //  'service-catalog/creating-ticket-types/quick-actions',
-          //  'service-catalog/creating-ticket-types/permission-matrix',
-           'service-catalog/creating-ticket-types/relations',
-           'service-catalog/creating-ticket-types/dependency-field-mapping',
-           'service-catalog/creating-ticket-types/special-fields',
-           'service-catalog/creating-ticket-types/smart-summary',
-         ]
-       },
-       'service-catalog/hierarchy-builder',
-       'service-catalog/intents',
-       'service-catalog/offers-rankings',
-       'service-catalog/mail-channel-setup',
-       'service-catalog/notification-wall',
-       'service-catalog/smart-mailbox',
-       'service-catalog/meta-fields-management',
-       'service-catalog/common-actors',
-      {
-        type: 'category',
-        label: 'Workflows',
-        items: [
-          'service-catalog/workflows/states-transitions',
-          'service-catalog/workflows/state-categories',
-          'service-catalog/workflows/rules',
-          'service-catalog/workflows/approvals',
-          'service-catalog/workflows/workflow-editor',
-        ]
-       },
-    ]
-   }
-  ],
-  mspSidebar: [
     {
       type: 'category',
-      label: 'MSP Guide',
+      label: 'Service Catalog',
       items: [
-        'msp-guide/features-settings',
-        'msp-guide/organizations',
-        'msp-guide/domain-whitelisting-blacklisting',
-        'msp-guide/audience-management',
-        'msp-guide/workspace-management',
-        'msp-guide/customer-reference-usage',
-        'msp-guide/email-channel',
+        'service-catalog/overview',
+        'service-catalog/using-default-ticket-types',
+        'service-catalog/field-banks',
         {
           type: 'category',
-          label: 'Restricting Access',
+          label: 'Field Types',
           items: [
-            'msp-guide/restricting-access/ticket-access',
-            'msp-guide/restricting-access/knowledge-access',
-            'msp-guide/restricting-access/bot-flows',
-            'msp-guide/restricting-access/offers-access',
-            'msp-guide/restricting-access/connections-access',
+            'service-catalog/field-types/boolean',
+            'service-catalog/field-types/date-datetime',
+            'service-catalog/field-types/dropdown',
+            'service-catalog/field-types/number',
+            'service-catalog/field-types/reference-field',
+            'service-catalog/field-types/tags',
+            'service-catalog/field-types/text',
+            'service-catalog/field-types/rich-text',
+            'service-catalog/field-types/people-field',
+            'service-catalog/field-types/dependency-field',
+            'service-catalog/field-types/special-fields',
+            'service-catalog/field-types/media',
           ]
         },
-        'msp-guide/managing-knowledge',
-        'msp-guide/managing-integrations',
-        'msp-guide/analytics',
-        'msp-guide/faqs',
+        {
+          type: 'category',
+          label: 'Creating Ticket Types',
+          items: [
+            'service-catalog/creating-ticket-types/fields',
+            'service-catalog/creating-ticket-types/layouts',
+            'service-catalog/creating-ticket-types/linking-layouts-to-views',
+            'service-catalog/creating-ticket-types/workflows',
+            'service-catalog/creating-ticket-types/actors',
+            'service-catalog/creating-ticket-types/offers',
+            'service-catalog/creating-ticket-types/metrics-slas',
+            'service-catalog/creating-ticket-types/events',
+            'service-catalog/creating-ticket-types/actions',
+            'service-catalog/creating-ticket-types/email-notification-templates',
+            'service-catalog/creating-ticket-types/filters',
+            'service-catalog/creating-ticket-types/relations',
+            'service-catalog/creating-ticket-types/dependency-field-mapping',
+            'service-catalog/creating-ticket-types/special-fields',
+            'service-catalog/creating-ticket-types/smart-summary',
+          ]
+        },
+        'service-catalog/hierarchy-builder',
+        'service-catalog/intents',
+        'service-catalog/offers-rankings',
+        'service-catalog/mail-channel-setup',
+        'service-catalog/notification-wall',
+        'service-catalog/smart-mailbox',
+        'service-catalog/meta-fields-management',
+        'service-catalog/common-actors',
       ]
     }
   ],
-  referenceSidebar: [ {
-    type: 'category',
-    label: 'Reference',
-    items: [
-      'reference/Adding-Bot-in-Teams-App-Locally-v3',
-      'reference/Admin-Console-Roles-at-a-Glance-NEW',
-      'reference/Azure-AD-Configuration-to-Restrict-App-Access-NEW',
-      'reference/Azure-Certificate-expried---Creating-New-Certificate',
-      'reference/Document-Ingestion-How-To',
-      'reference/Existing-Mailbox---Modern-auth-enabled-Outlook',
-      'reference/How-to-Register-an-Azure-Application-for-SharePoint-Ingestion-for-Rezolve.ai',
-      'reference/Monitored-Mailbox-Setup-in-Outlook---Azure-SSO-NEW',
-      'reference/Monitored-Mailbox-Setup-in-Outlook---Other-SSO-NEW',
-      'reference/Pinning-the-Bot-in-Teams-for-Everyone-in-your-Org',
-      'reference/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW',
-      'reference/Prerequisite-for-Agent-in-Teams-Instructions_12.14.21',
-      'reference/Quick-Guide-on-Assigning-Roles-and-Queues-NEW-v2',
-      'reference/ServiceNow-Integration-with-Rezolve.ai-Chatbot-NEW',
-      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New',
-      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated',
-      'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated-Avanish',
-      'reference/Signup-Process-Through-Microsoft-Teams-NEW',
-      'reference/Slack-signup-process-2',
-      'reference/Uploading-Custom-Bot-in-Teams-and-Assigning-Policy-to-Individual-or-Group',
-      'reference/Virtual-Agent-Mgmt-with-Doc-Ingestion-Guide-NEW',
-      'reference/index',
-      {
-        type: "category",
-        label: "Graph API Guides",
-        items: [
-          'reference/Graph API Guides/Azure-Certificate-expried',
-          'reference/Graph API Guides/Enable-Additional-Attributes-in-Azure-for-Web-Pages-NEW',
-          'reference/Graph API Guides/Enabling-API-Permissions-existing-app---For-SharePoint-Crawl',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions---AD-Group-Sync-in-Notifications',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions---For-Adding-and-Removing-users-from-a-DL',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions---for-People-Picker',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-Creating-a-New-App-NEW',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-New-app---For-SharePoint-Search',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-SharePoint-List-using-SSO-App-NEW',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-additional-Attributes-in-Teams-using-SSO-App-NEW',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Exisiting-SSO-App--Password-Reset-Flow',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Existing-SSO-App--AD-Sync',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-Exisiting-SSO-App---For-Adding-and-Removing-users-from-a-DL',
-          'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-SSO-App-for-Group-Mailbox-Flow',
-          'reference/Graph API Guides/Live-Agent-In-Teams-Pre-Req---Enabling-Graph-API-Permissions-on-Existing-SSO-App-'
-        ]
-      },
-      {
-        type: "category",
-        label: "SSO Guides",
-        items: [
-          "reference/SSO Guides/Azure-AD-Configuration-to-Enable-Single-Sign-On-NEW",
-          "reference/SSO Guides/OKTA-SSO-setup-NEW",
-          "reference/SSO Guides/Ping-Identity-SSO-Setup-Guide"
-        ]
-      },
-      {
-        type: "category",
-        label: "ServiceNow Integration",
-        items: [
-          {
-            type: "category",
-            label: "LiveChat",
-            items: [
-              "reference/ServiceNow Integration/LiveChat/ServiceNow-LiveChat-Integration-Technical-Specification"
-            ]
-          }
-        ]
-      },
-      {
-        type: "category",
-        label: "SharePoint Knowledge Ingestion",
-        items: [
-          "reference/SharePoint Knowledge Ingestion/Enabling-API-Permissions-existing-app---For-SharePoint-Pages",
-          "reference/SharePoint Knowledge Ingestion/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder",
-          "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script",
-          "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-Graph-API-Permissions---For-SharePoint-Search-Files-and-Folder-with-PowerShell-Script"
-        ]
-      },
-      {
-        type: "category",
-        label: "SharePoint Widget",
-        items: [
-          "reference/SharePoint Widget/Enabling-Modern-Script-Editor-in-SharePoint",
-          "reference/SharePoint Widget/Steps-to-embed-iframe-in-sharepoint-NEW",
-          "reference/SharePoint Widget/Web-Widget-Instruction-with-a-SharePoint-Package"
-        ]
-      }
-    ]
-  }
-]
+  referenceSidebar: [
+    {
+      type: 'category',
+      label: 'Reference',
+      items: [
+        'reference/Adding-Bot-in-Teams-App-Locally-v3',
+        'reference/Admin-Console-Roles-at-a-Glance-NEW',
+        'reference/Azure-AD-Configuration-to-Restrict-App-Access-NEW',
+        'reference/Azure-Certificate-expried---Creating-New-Certificate',
+        'reference/Document-Ingestion-How-To',
+        'reference/Existing-Mailbox---Modern-auth-enabled-Outlook',
+        'reference/How-to-Register-an-Azure-Application-for-SharePoint-Ingestion-for-Rezolve.ai',
+        'reference/Monitored-Mailbox-Setup-in-Outlook---Azure-SSO-NEW',
+        'reference/Monitored-Mailbox-Setup-in-Outlook---Other-SSO-NEW',
+        'reference/Pinning-the-Bot-in-Teams-for-Everyone-in-your-Org',
+        'reference/Pre-Req-for-Signup-Through-Microsoft-Teams-NEW',
+        'reference/Prerequisite-for-Agent-in-Teams-Instructions_12.14.21',
+        'reference/Quick-Guide-on-Assigning-Roles-and-Queues-NEW-v2',
+        'reference/ServiceNow-Integration-with-Rezolve.ai-Chatbot-NEW',
+        'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New',
+        'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated',
+        'reference/Setting-Response-and-Resolution-SLA-Goal-For-a-Queue-New--updated-Avanish',
+        'reference/Signup-Process-Through-Microsoft-Teams-NEW',
+        'reference/Slack-signup-process-2',
+        'reference/Uploading-Custom-Bot-in-Teams-and-Assigning-Policy-to-Individual-or-Group',
+        'reference/Virtual-Agent-Mgmt-with-Doc-Ingestion-Guide-NEW',
+        'reference/index',
+        {
+          type: "category",
+          label: "Graph API Guides",
+          items: [
+            'reference/Graph API Guides/Azure-Certificate-expried',
+            'reference/Graph API Guides/Enable-Additional-Attributes-in-Azure-for-Web-Pages-NEW',
+            'reference/Graph API Guides/Enabling-API-Permissions-existing-app---For-SharePoint-Crawl',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions---AD-Group-Sync-in-Notifications',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions---For-Adding-and-Removing-users-from-a-DL',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions---for-People-Picker',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-Creating-a-New-App-NEW',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-New-app---For-SharePoint-Search',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-SharePoint-List-using-SSO-App-NEW',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-for-additional-Attributes-in-Teams-using-SSO-App-NEW',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Exisiting-SSO-App--Password-Reset-Flow',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-on-Existing-SSO-App--AD-Sync',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-Exisiting-SSO-App---For-Adding-and-Removing-users-from-a-DL',
+            'reference/Graph API Guides/Enabling-Graph-API-Permissions-using-SSO-App-for-Group-Mailbox-Flow',
+            'reference/Graph API Guides/Live-Agent-In-Teams-Pre-Req---Enabling-Graph-API-Permissions-on-Existing-SSO-App-'
+          ]
+        },
+        {
+          type: "category",
+          label: "SSO Guides",
+          items: [
+            "reference/SSO Guides/Azure-AD-Configuration-to-Enable-Single-Sign-On-NEW",
+            "reference/SSO Guides/OKTA-SSO-setup-NEW",
+            "reference/SSO Guides/Ping-Identity-SSO-Setup-Guide"
+          ]
+        },
+        {
+          type: "category",
+          label: "ServiceNow Integration",
+          items: [
+            {
+              type: "category",
+              label: "LiveChat",
+              items: [
+                "reference/ServiceNow Integration/LiveChat/ServiceNow-LiveChat-Integration-Technical-Specification"
+              ]
+            }
+          ]
+        },
+        {
+          type: "category",
+          label: "SharePoint Knowledge Ingestion",
+          items: [
+            "reference/SharePoint Knowledge Ingestion/Enabling-API-Permissions-existing-app---For-SharePoint-Pages",
+            "reference/SharePoint Knowledge Ingestion/Enabling-Graph-API-Permissions-existing-app---For-SharePoint-Search-Files-and-Folder",
+            "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-API-Permissions---For-SharePoint-Sites-Crawl-with-PowerShell-Script",
+            "reference/SharePoint Knowledge Ingestion/Sites.Selected-Enabling-Graph-API-Permissions---For-SharePoint-Search-Files-and-Folder-with-PowerShell-Script"
+          ]
+        },
+        {
+          type: "category",
+          label: "SharePoint Widget",
+          items: [
+            "reference/SharePoint Widget/Enabling-Modern-Script-Editor-in-SharePoint",
+            "reference/SharePoint Widget/Steps-to-embed-iframe-in-sharepoint-NEW",
+            "reference/SharePoint Widget/Web-Widget-Instruction-with-a-SharePoint-Package"
+          ]
+        }
+      ]
+    }
+  ]
 };
