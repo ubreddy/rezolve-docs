@@ -6,9 +6,16 @@ authors: rezolve
 tags: [release, features]
 ---
 
+**Release Date:** August 13, 2025
 
-**Release Ticket:** PD-679 - POV Release  
-**Scheduled Deployment:** August 13, 2025 at 1:00 PM IST 
+This is a General Availability release encompassing significant enhancements to bot integrations, Delta API productization, navigation improvements, and various bug fixes. Key highlights include Delta API productization for improved AI query management, consistent navigation experience, and enhanced bot integration capabilities with flexible field configuration.
+
+&nbsp;
+
+<!-- truncate -->
+
+**Release Ticket:** PD-679 - POV Release
+**Scheduled Deployment:** August 13, 2025 at 1:00 PM IST
 
 ## Executive Summary
 

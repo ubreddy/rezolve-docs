@@ -6,6 +6,14 @@ authors: rezolve
 tags: [release, features]
 ---
 
+**Release Date:** June 3, 2025
+
+This release brings several new features and improvements including dashboard chart tooltips for better context, Knowledge Gaps data fixes, and updated UI components for conversation messages with improved readability, alignment, and consistency across platforms.
+
+&nbsp;
+
+<!-- truncate -->
+
 # June 2025 Release
 
 We're excited to announce our June 2025 release with several new features and improvements!
