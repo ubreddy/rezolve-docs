@@ -156,6 +156,11 @@ module.exports = {
           id: 'knowledge-management/knowledge-gaps',
           label: 'Knowledge Gaps Management'
         },
+        {
+          type: 'doc',
+          id: 'knowledge-management/knowledge-integrations',
+          label: 'Knowledge Integrations'
+        },
       ]
     }
   ],
