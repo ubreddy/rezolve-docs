@@ -14,6 +14,18 @@ This release brings powerful new data export capabilities, dashboard enhancement
 
 <!-- truncate -->
 
+### DRI-7256: Knowledge Integrations UI (New Feature)
+
+**Release Date:** January 17, 2026
+
+Introduced a new user-facing interface for configuring knowledge integrations, enabling administrators to easily connect, configure, and manage external knowledge sources like SharePoint, Confluence, and others with:
+
+- **Setup wizard** – Connect, select content, and configure sync schedule
+- **Sync controls** – Trigger manual sync, stop in-progress syncs, download logs (Download logs feature will be deployed on Monday)
+- **Audience targeting** – Assign access per content set (with SharePoint permission inheritance)
+
+---
+
 ### SFTP Ticket Data Export (New Feature)
 
 Users can now export ticket data directly to an SFTP target location from the Reports section. Key capabilities include:
